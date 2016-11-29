@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Jumbotron Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/static/recommender/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link type="text/css" href="/static/recommender/css/jumbotron.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <center><a class="navbar-brand" href="#">Course Recommender</a> </center><!--Answer a few questions and this application will recommend you courses based on your preferences.</a>-->
+        </div>
+        <!--
+        <div id="navbar" class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right">
+            <div class="form-group">
+              <input type="text" placeholder="Email" class="form-control">
+            </div>
+            <div class="form-group">
+              <input type="password" placeholder="Password" class="form-control">
+            </div>
+            <button type="submit" class="btn btn-success">Sign in</button>
+          </form>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <!--
+    <div class="jumbotron">
+      <div class="container">
+        <center>
+          <h1>Course Recommender</h1>
+          <p>Answer a few questions and this application will recommend you courses based on your preferences.</p>
+        </center>
+      </div>
+    </div>
+   -->
+
+    <div class="container" style="padding-top:10px">
+      <!-- Example row of columns -->
+
+      <form action="{% url 'recommender:results' %}" method="post">
+      {% csrf_token %}
+        <center>
+        <h3>Course Recommender</h3>
+        <h3>Enter your preferences and this application will recommend you courses based on your preferences.</h3>
+        </center>
+
+      <div class="jumbotron">
+        <!--<input type="form" name="name" placeholder="Name" />
+        <input type="form" name="education" placeholder="Highest" />-->
+        <h2>User profile</h2>
+        <h4>Age</h4>
+        <input type="form" name="age" placeholder="Age" value="0"/>
+        <!--<input type="form" name="name" placeholder="Name" />-->
+
+        <h4>Gender</h4>
+        <label class="hidden" for="option0"><input type="hidden" name="gender" id="option0" value="0" checked=""/></label>
+        <label class="radio-inline" for="option0"><input type="radio" name="gender" id="option0" value="1"/>Male</label>
+        <label class="radio-inline" for="option1"><input type="radio" name="gender" id="option1" value="2"/>Female</label>
+
+        <h4>Highest level of education</h4>
+        <label class="hidden" for="option0"><input type="hidden" name="edu" id="option0" value="0" checked=""/></label>
+        <label class="radio-inline" for="option0"><input type="radio" name="edu" id="option0" value="1"/>High School</label>
+        <label class="radio-inline" for="option1"><input type="radio" name="edu" id="option1" value="2"/>University</label>
+        <label class="radio-inline" for="option2"><input type="radio" name="edu" id="option2" value="3"/>Bachelors</label>
+        <label class="radio-inline" for="option3"><input type="radio" name="edu" id="option3" value="4"/>Masters</label>
+        <label class="radio-inline" for="option4"><input type="radio" name="edu" id="option4" value="5"/>Doctorate</label>
+
+        <h4>Employment status</h4>
+        <label class="hidden" for="option0"><input type="hidden" name="emp" id="option0" value="0" checked=""/></label>
+        <label class="radio-inline" for="option0"><input type="radio" name="emp" id="option0" value="1"/>Unemployed</label>
+        <label class="radio-inline" for="option1"><input type="radio" name="emp" id="option1" value="2"/>Student</label>
+        <label class="radio-inline" for="option2"><input type="radio" name="emp" id="option2" value="3"/>Part time</label>
+        <label class="radio-inline" for="option3"><input type="radio" name="emp" id="option3" value="4"/>Full time</label>
+        <label class="radio-inline" for="option4"><input type="radio" name="emp" id="option4" value="5"/>Retired</label>
+      </div>
+
+      <div class="jumbotron">
+      <h2>User preferences</h2>
+      <ol>
+      <li>
+        <!-- Question 1: Mode-->
+        <h4>Entrez vos modes</h4>
+        <label class="checkbox-inline" for="option0"><input type="checkbox" name="cb1" id="option0" value="255"/>Pas de préférence</label>
+        <label class="checkbox-inline" for="option1"><input type="checkbox" name="cb1" id="option1" value="1"/>Distance</label>
+        <label class="checkbox-inline" for="option2"><input type="checkbox" name="cb1" id="option2" value="2"/>Continu</label>
+        <label class="checkbox-inline" for="option3"><input type="checkbox" name="cb1" id="option3" value="4"/>Cours du soir</label>
+        <label class="checkbox-inline" for="option4"><input type="checkbox" name="cb1" id="option4" value="8"/>Cours d'emploi</label>
+        <label class="checkbox-inline" for="option5"><input type="checkbox" name="cb1" id="option5" value="16"/>Partiellement présentiel</label>
+        <label class="checkbox-inline" for="option6"><input type="checkbox" name="cb1" id="option6" value="32"/>Sport-études</label>
+        <!--<label class="checkbox-inline" for="option7"><input type="checkbox" name="cb1" id="option7" value="64"/>Non renseigné</label>-->
+      </li>
+
+
+      <li>
+        <!-- Question 2: Level-->
+        <h4>Entrez vos niveaux de formation</h4>
+        <label class="checkbox-inline" for="option0"><input type="checkbox" name="cb2" id="option0" value="255"/>Pas de préférence</label>
+        <label class="checkbox-inline" for="option1"><input type="checkbox" name="cb2" id="option1" value="1"/>Advance</label>
+        <label class="checkbox-inline" for="option2"><input type="checkbox" name="cb2" id="option2" value="2"/>Cours spécialisés</label>
+        <label class="checkbox-inline" for="option3"><input type="checkbox" name="cb2" id="option3" value="4"/>Formation professionnelle supérieure</label>
+        <label class="checkbox-inline" for="option4"><input type="checkbox" name="cb2" id="option4" value="8"/>Hautes écoles</label>
+      </li>
+
+
+
+      <li>
+      <!-- Question 3: Certification-->
+        <h4>Entrez vos titres decernes</h4>
+        <label class="checkbox-inline" for="option0">
+          <input type="checkbox" name="cb3" id="option0" value="255">Pas de préférence
+        </label>
+        <label class="checkbox-inline" for="option1">
+          <input type="checkbox" name="cb3" id="option1" value="1"> Baccalauréat
+        </label>
+        <label class="checkbox-inline" for="option2">
+          <input type="checkbox" name="cb3" id="option2" value="2"> Brevet/Certificat
+        </label>
+        <label class="checkbox-inline" for="option3">
+          <input type="checkbox" name="cb3" id="option3" value="4"> Diplôme
+        </label>
+        <label class="checkbox-inline" for="option3">
+          <input type="checkbox" name="cb3" id="option3" value="8"> Bachelor
+        </label>
+        <label class="checkbox-inline" for="option4">
+          <input type="checkbox" name="cb3" id="option4" value="16"> Master/Licence/Maîtrise
+        </label>
+        <label class="checkbox-inline" for="option5">
+          <input type="checkbox" name="cb3" id="option5" value="32"> Doctorat
+        </label>
+      </li>
+
+
+
+      <li>
+      <!-- Question 4: Price-->
+        <h4>Types prix</h4>
+        <label class="checkbox-inline" for="option0">
+          <input type="checkbox" name="cb4" id="option0" value="255"> Pas de préférence
+        </label>
+        <label class="checkbox-inline" for="option1">
+          <input type="checkbox" name="cb4" id="option1" value="1"> &lt; 5000 CHF
+        </label>
+        <label class="checkbox-inline" for="option2">
+          <input type="checkbox" name="cb4" id="option2" value="2"> &lt; 500 CHF
+        </label>
+      </li>
+
+      <!-- Question 5: Duration-->
+      <!--
+      <li>
+        <h4>Enter your preference for duration</h4>
+        <label class="checkbox-inline" for="option0">
+          <input type="checkbox" name="cb5" id="option0" value="255"> Pas de préférence
+        </label>
+        <label class="checkbox-inline" for="option1">
+          <input type="checkbox" name="cb5" id="option1" value="1"> Jours
+        </label>
+        <label class="checkbox-inline" for="option2">
+          <input type="checkbox" name="cb5" id="option2" value="2"> Mois
+        </label>
+        <label class="checkbox-inline" for="option3">
+          <input type="checkbox" name="cb5" id="option3" value="4"> Sur demande
+        </label>
+      </li>
+      -->
+      </ol>
+      </div>
+
+      <div class="jumbotron">
+      <!--<li>-->
+      <!-- Question 5: Duration-->
+        <h2>Select total of 5 preferred areas of study</h2>
+        <h4>Commerce</h4>
+        <label class="checkbox-inline" for="option0">
+          <input type="checkbox" name="cb5" id="option0" value="186"> Achats
+        </label>
+        <label class="checkbox-inline" for="option1">
+          <input type="checkbox" name="cb5" id="option1" value="200"> Commerce
+        </label>
+        <label class="checkbox-inline" for="option2">
+          <input type="checkbox" name="cb5" id="option2" value="215"> e-Marketing
+        </label>
+        <label class="checkbox-inline" for="option3">
+          <input type="checkbox" name="cb5" id="option3" value="237"> Marketing
+        </label>
+        <label class="checkbox-inline" for="option4">
+          <input type="checkbox" name="cb5" id="option4" value="271"> Vente
+        </label>
+
+        <h4>Management</h4>
+        <label class="checkbox-inline" for="option5">
+          <input type="checkbox" name="cb5" id="option5" value="187"> Administration
+        </label>
+        <label class="checkbox-inline" for="option6">
+          <input type="checkbox" name="cb5" id="option6" value="196"> Bureautique
+        </label>
+        <label class="checkbox-inline" for="option7">
+          <input type="checkbox" name="cb5" id="option7" value="202"> Comptabilité
+        </label>
+        <label class="checkbox-inline" for="option8">
+          <input type="checkbox" name="cb5" id="option8" value="211"> Droit
+        </label>
+        <label class="checkbox-inline" for="option9">
+          <input type="checkbox" name="cb5" id="option9" value="218"> Entreprise
+        </label>
+        <label class="checkbox-inline" for="option10">
+          <input type="checkbox" name="cb5" id="option10" value="223"> Gestion
+        </label>
+        <label class="checkbox-inline" for="option11">
+          <input type="checkbox" name="cb5" id="option11" value="224"> Gestion de projet
+        </label>
+        <label class="checkbox-inline" for="option12">
+          <input type="checkbox" name="cb5" id="option12" value="225"> Gestion d'entreprise
+        </label>
+        <label class="checkbox-inline" for="option13">
+          <input type="checkbox" name="cb5" id="option13" value="226"> Gestion immobilière
+        </label>
+        <label class="checkbox-inline" for="option14">
+          <input type="checkbox" name="cb5" id="option14" value="236"> Management
+        </label>
+        <label class="checkbox-inline" for="option15">
+          <input type="checkbox" name="cb5" id="option15" value="261"> Stratégie
+        </label>
+
+        <h4>Industrie</h4>
+        <label class="checkbox-inline" for="option16">
+          <input type="checkbox" name="cb5" id="option16" value="188"> Agriculture
+        </label>
+        <label class="checkbox-inline" for="option17">
+          <input type="checkbox" name="cb5" id="option17" value="189"> Alimentation
+        </label>
+        <label class="checkbox-inline" for="option18">
+          <input type="checkbox" name="cb5" id="option18" value="192"> Automation
+        </label>
+        <label class="checkbox-inline" for="option19">
+          <input type="checkbox" name="cb5" id="option19" value="193"> Automobile
+        </label>
+        <label class="checkbox-inline" for="option20">
+          <input type="checkbox" name="cb5" id="option20" value="195"> Biologie
+        </label>
+        <label class="checkbox-inline" for="option21">
+          <input type="checkbox" name="cb5" id="option21" value="197"> CFAO
+        </label>
+        <label class="checkbox-inline" for="option22">
+          <input type="checkbox" name="cb5" id="option23" value="201"> Communication
+        </label>
+        <label class="checkbox-inline" for="option24">
+          <input type="checkbox" name="cb5" id="option24" value="204"> Construction
+        </label>
+        <label class="checkbox-inline" for="option25">
+          <input type="checkbox" name="cb5" id="option25" value="205"> Controlling
+        </label>
+        <label class="checkbox-inline" for="option26">
+          <input type="checkbox" name="cb5" id="option26" value="208"> Décolletage
+        </label>
+        <label class="checkbox-inline" for="option27">
+          <input type="checkbox" name="cb5" id="option27" value="209"> Design
+        </label>
+        <label class="checkbox-inline" for="option28">
+          <input type="checkbox" name="cb5" id="option28" value="214"> Electricité
+        </label>
+        <label class="checkbox-inline" for="option29">
+          <input type="checkbox" name="cb5" id="option29" value="217"> Energie
+        </label>
+        <label class="checkbox-inline" for="option30">
+          <input type="checkbox" name="cb5" id="option30" value="219"> Environnement
+        </label>
+        <label class="checkbox-inline" for="option31">
+          <input type="checkbox" name="cb5" id="option31" value="228"> Horlogerie
+        </label>
+        <label class="checkbox-inline" for="option32">
+          <input type="checkbox" name="cb5" id="option32" value="230"> Informatique
+        </label>
+        <label class="checkbox-inline" for="option33">
+          <input type="checkbox" name="cb5" id="option33" value="231"> Ingénierie
+        </label>
+        <label class="checkbox-inline" for="option34">
+          <input type="checkbox" name="cb5" id="option34" value="235"> Logistique
+        </label>
+        <label class="checkbox-inline" for="option35">
+          <input type="checkbox" name="cb5" id="option35" value="238"> Mathématiques
+        </label>
+        <label class="checkbox-inline" for="option36">
+          <input type="checkbox" name="cb5" id="option36" value="239"> Mécanique
+        </label>
+        <label class="checkbox-inline" for="option37">
+          <input type="checkbox" name="cb5" id="option37" value="247"> Plasturgie
+        </label>
+        <label class="checkbox-inline" for="option38">
+          <input type="checkbox" name="cb5" id="option38" value="248"> Production
+        </label>
+        <label class="checkbox-inline" for="option39">
+          <input type="checkbox" name="cb5" id="option39" value="251"> Qualité
+        </label>
+        <label class="checkbox-inline" for="option40">
+          <input type="checkbox" name="cb5" id="option40" value="253"> Restauration
+        </label>
+        <label class="checkbox-inline" for="option41">
+          <input type="checkbox" name="cb5" id="option41" value="256"> Sciences
+        </label>
+        <label class="checkbox-inline" for="option42">
+          <input type="checkbox" name="cb5" id="option42" value="258"> Sécurité
+        </label>
+        <label class="checkbox-inline" for="option43">
+          <input type="checkbox" name="cb5" id="option43" value="262"> Supply Chain
+        </label>
+        <label class="checkbox-inline" for="option44">
+          <input type="checkbox" name="cb5" id="option44" value="263"> Technique
+        </label>
+        <label class="checkbox-inline" for="option45">
+          <input type="checkbox" name="cb5" id="option45" value="264"> Technologie
+        </label>
+        <label class="checkbox-inline" for="option46">
+          <input type="checkbox" name="cb5" id="option46" value="253"> Restauration
+        </label>
+        <label class="checkbox-inline" for="option47">
+          <input type="checkbox" name="cb5" id="option47" value="266"> TIC
+        </label>
+        <label class="checkbox-inline" for="option48">
+          <input type="checkbox" name="cb5" id="option48" value="267"> Tourisme
+        </label>
+        <label class="checkbox-inline" for="option49">
+          <input type="checkbox" name="cb5" id="option49" value="269"> Transport
+        </label>
+        <label class="checkbox-inline" for="option50">
+          <input type="checkbox" name="cb5" id="option50" value="270"> Urbanisation
+        </label>
+
+
+        <h4>Finance</h4>
+        <label class="checkbox-inline" for="option51">
+          <input type="checkbox" name="cb5" id="option51" value="191"> Assurances
+        </label>
+        <label class="checkbox-inline" for="option52">
+          <input type="checkbox" name="cb5" id="option52" value="194"> Banking
+        </label>
+        <label class="checkbox-inline" for="option53">
+          <input type="checkbox" name="cb5" id="option53" value="212"> Economie
+        </label>
+        <label class="checkbox-inline" for="option54">
+          <input type="checkbox" name="cb5" id="option54" value="221"> Finances
+        </label>
+
+
+        <h4>Développement personnel</h4>
+        <label class="checkbox-inline" for="option55">
+          <input type="checkbox" name="cb5" id="option55" value="198"> Coaching
+        </label>
+        <label class="checkbox-inline" for="option56">
+          <input type="checkbox" name="cb5" id="option56" value="210"> Développement personnel
+        </label>
+        <label class="checkbox-inline" for="option57">
+          <input type="checkbox" name="cb5" id="option57" value="213"> Education
+        </label>
+        <label class="checkbox-inline" for="option58">
+          <input type="checkbox" name="cb5" id="option58" value="222"> Formateur
+        </label>
+        <label class="checkbox-inline" for="option59">
+          <input type="checkbox" name="cb5" id="option59" value="232"> Langue
+        </label>
+        <label class="checkbox-inline" for="option60">
+          <input type="checkbox" name="cb5" id="option60" value="243"> Négociation
+        </label>
+        <label class="checkbox-inline" for="option61">
+          <input type="checkbox" name="cb5" id="option61" value="244"> Opinion publique
+        </label>
+        <label class="checkbox-inline" for="option62">
+          <input type="checkbox" name="cb5" id="option62" value="268"> Traduction
+        </label>
+
+
+        <h4>Services</h4>
+        <label class="checkbox-inline" for="option63">
+          <input type="checkbox" name="cb5" id="option55" value="199"> Coiffure
+        </label>
+        <label class="checkbox-inline" for="option56">
+          <input type="checkbox" name="cb5" id="option56" value="203"> Conciergerie
+        </label>
+        <label class="checkbox-inline" for="option57">
+          <input type="checkbox" name="cb5" id="option57" value="216"> Emploi
+        </label>
+        <label class="checkbox-inline" for="option58">
+          <input type="checkbox" name="cb5" id="option58" value="229"> Humanitaire
+        </label>
+        <label class="checkbox-inline" for="option59">
+          <input type="checkbox" name="cb5" id="option59" value="240"> Médical
+        </label>
+        <label class="checkbox-inline" for="option60">
+          <input type="checkbox" name="cb5" id="option60" value="245"> Pédagogie
+        </label>
+        <label class="checkbox-inline" for="option61">
+          <input type="checkbox" name="cb5" id="option61" value="246"> Petite enfance
+        </label>
+        <label class="checkbox-inline" for="option62">
+          <input type="checkbox" name="cb5" id="option62" value="249"> Psychologie
+        </label>
+        <label class="checkbox-inline" for="option59">
+          <input type="checkbox" name="cb5" id="option59" value="250"> Psychomotricité
+        </label>
+        <label class="checkbox-inline" for="option60">
+          <input type="checkbox" name="cb5" id="option60" value="252"> Ressources humaines
+        </label>
+        <label class="checkbox-inline" for="option61">
+          <input type="checkbox" name="cb5" id="option61" value="254"> Santé
+        </label>
+        <label class="checkbox-inline" for="option62">
+          <input type="checkbox" name="cb5" id="option62" value="259"> Social
+        </label>
+        <label class="checkbox-inline" for="option62">
+          <input type="checkbox" name="cb5" id="option62" value="260"> Soins
+        </label>
+
+
+
+        <h4>Culture</h4>
+        <label class="checkbox-inline" for="option55">
+          <input type="checkbox" name="cb5" id="option55" value="190"> Art
+        </label>
+        <label class="checkbox-inline" for="option56">
+          <input type="checkbox" name="cb5" id="option56" value="206"> Cuisine
+        </label>
+        <label class="checkbox-inline" for="option57">
+          <input type="checkbox" name="cb5" id="option57" value="207"> Culture
+        </label>
+        <label class="checkbox-inline" for="option58">
+          <input type="checkbox" name="cb5" id="option58" value="220"> Expression créatrice
+        </label>
+        <label class="checkbox-inline" for="option59">
+          <input type="checkbox" name="cb5" id="option59" value="227"> Histoire
+        </label>
+        <label class="checkbox-inline" for="option60">
+          <input type="checkbox" name="cb5" id="option60" value="233"> Lettres
+        </label>
+        <label class="checkbox-inline" for="option61">
+          <input type="checkbox" name="cb5" id="option61" value="234"> Littérature
+        </label>
+        <label class="checkbox-inline" for="option62">
+          <input type="checkbox" name="cb5" id="option62" value="241"> Musique
+        </label>
+        <label class="checkbox-inline" for="option59">
+          <input type="checkbox" name="cb5" id="option59" value="242"> Nature
+        </label>
+        <label class="checkbox-inline" for="option60">
+          <input type="checkbox" name="cb5" id="option60" value="257"> Sciences humaines
+        </label>
+        <label class="checkbox-inline" for="option60">
+          <input type="checkbox" name="cb5" id="option60" value="265"> Théologie
+        </label>
+      <!--</li>-->
+
+
+      <!--</ol>-->
+      </div>
+
+        <!-- Submit button -->
+        <!--<center><button type="button" class="btn btn-primary">Submit</button></center>-->
+        <!--<center><a class="btn btn-primary" href="{% url 'recommender:results' %}" role="button">Submit</a></center>-->
+        <center><input class="btn btn-primary" type="submit" value="Submit" /></center>
+
+      </form>
+      <hr>
+
+      <footer>
+        <!--<p>&copy; 2015 Company, Inc.</p>-->
+      </footer>
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
+
+

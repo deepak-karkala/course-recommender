@@ -1,0 +1,1699 @@
+Id;Ecole;Commune;Langue;Sector;Course;Level;Degree;Mode;Price;Price_id;Duration;Duration_id
+1;82;6621;Français;225;Communication d'entreprise;4;164;4;0;4;30;4
+2;82;6621;Français;236;Management international;4;164;4;0;4;30;4
+3;82;6621;Français;236;Management-Marketing;4;164;6;0;4;42;4
+4;82;6621;Français;225;MBA francophone;1;194;3;0;4;18;4
+5;82;6621;Français;225;Executive MBA francophone;1;194;3;0;4;18;4
+6;82;6621;Français;225;DBA en sciences de gestion;4;185;3;0;4;0;6
+7;82;6621;Français;236;Management - Marketing;3;181;3;0;4;0;6
+8;82;6621;Français;237;Marketing digital;1;187;3;0;4;12;4
+9;82;6621;Français;224;Management de projets sociaux;2;187;2;0;4;10;3
+10;82;6621;Français;225;Transmission d'entreprise;2;187;2;0;4;18;3
+11;82;6621;Français;271;Performance et excellence dans la vente;2;187;2;0;4;6;3
+12;82;6621;Français;225;Rédacteur en entreprise;2;187;2;0;4;3.5;3
+13;82;6621;Français;225;Séminaire sur mesure;2;187;2;0;4;1;3
+14;81;5589;Français;225;Agent de processus;3;165;3;12000;1;18;4
+15;81;6458;Français;225;Agent de processus;3;165;3;12000;1;18;4
+16;81;5589;Français;225;Processus d'entreprise - technicien (ES);3;182;3;24000;1;36;4
+17;81;6458;Français;225;Processus d'entreprise - technicien (ES);3;182;3;24000;1;36;4
+18;81;5589;Français;217;Energie et environnement - technicien (ES);3;182;3;24000;1;36;4
+19;81;6458;Français;217;Energie et environnement - technicien (ES);3;182;3;24000;1;36;4
+20;81;5589;Français;225;Agent de maintenance;3;165;3;8000;1;12;4
+21;81;6458;Français;225;Agent de maintenance;3;165;3;8000;1;12;4
+22;81;5589;Français;225;Gestion d'entreprise (EPD - ES);3;182;3;12000;1;18;4
+23;81;6458;Français;225;Gestion d'entreprise (EPD - ES);3;182;3;12000;1;18;4
+24;81;5589;Français;225;Dirigeant;3;184;3;0;4;12;4
+25;81;6458;Français;225;Dirigeant;3;184;3;0;4;12;4
+26;114;5589;Français;236;Chef d'équipe;2;155;2;7190;1;13;3
+28;114;5589;Français;236;Chef d'équipe;2;155;2;7720;1;14;3
+30;114;5589;Français;236;Chef de projet;2;155;2;7190;1;13;3
+32;114;5589;Français;236;Chef de projet;2;155;2;7720;1;14;3
+34;114;5589;Français;236;Responsable de secteur;2;155;2;7720;1;14;3
+36;114;5589;Français;236;Responsable de secteur;2;155;2;8250;1;15;3
+38;114;5589;Français;236;Communication, entretiens et gestion  des conflits;2;155;2;1110;1;2;3
+40;114;5589;Français;236;Conduite du personnel;2;155;2;1640;1;3;3
+42;114;5589;Français;236;Méthode personnelle de travail;2;155;2;1110;1;2;3
+44;114;5589;Français;236;Penser et agir économiquement;2;155;2;1110;1;2;3
+46;114;5589;Français;236;Formation à la place de travail et  sécurité;2;155;2;1110;1;2;3
+48;114;5589;Français;224;Gestion de projet;2;155;2;1640;1;3;3
+50;114;5589;Français;236;Conduite d'équipe de projet;2;155;2;1110;1;2;3
+52;114;5589;Français;236;Présenter et convaincre;2;155;2;1110;1;2;3
+54;114;5589;Français;236;Gestion écononique et financière;2;155;2;1640;1;3;3
+56;114;5589;Français;236;Optimisation des processus et résolution  de problèmes;2;155;2;1110;1;2;3
+58;114;5589;Français;236;Comportement orienté clients;2;155;2;1110;1;2;3
+60;114;5589;Français;236;Maître dans l'industrie MI;2;170;2;16300;1;60;3
+61;114;5589;Français;236;Dirigeant de maintenance DM;2;170;2;16300;1;60;3
+62;114;5589;Français;236;Dirigeant en facility management;2;170;2;16300;1;60;3
+65;114;5589;Français;222;Animateur de formations pour adultes;2;155;2;4500;1;14;3
+66;114;5589;Français;222;Formateur d'adulte;3;165;2;9350;1;24;3
+67;105;5586;Français;254;Santé des populations vieillisantes;1;180;5;14000;1;53;3
+68;105;5586;Français;254;Action comunautaire en promotion de la santé;1;180;5;13700;1;52.5;4
+69;105;5586;Français;254;Intervention spécifique de l'infirmière de Santé au travail;1;169;5;6500;1;26;4
+70;105;5586;Français;254;Leadership éthique et responsabilité profesionnelle dans les organisations  de soins;1;169;5;4400;1;15;4
+72;105;5586;Français;254;Intégration des savoir scientifique dans les pratiques professionnelles de la santé;1;169;5;6000;1;25;4
+73;105;5586;Français;254;Aspects et soins médico-légaux dans le domaine de la violence interpersonnelle;1;169;2;4400;1;14;3
+74;105;5586;Français;254;Evaluation clinique infirmière;1;169;2;6500;1;24;3
+75;105;5586;Français;254;Notions fondamentales de psychogériatrie de l'âge avancé et accompagnement des équipes;2;155;4;2100;1;8;3
+76;105;5586;Français;254;Maltraitance envers les personnes âgées: aspects et soins-légaux;2;155;2;2200;1;7;3
+77;105;5586;Français;254;Santé de l'enfant, de l'adolescent et de la famille;1;180;7;0;4;0;6
+78;105;5586;Français;254;Interprofessionel en addictions;1;169;7;0;4;0;6
+79;105;5586;Français;254;Soins à l'enfant en milieu hospitalier;1;169;7;0;4;0;6
+80;105;5586;Français;254;Gestion de la douleur selon la théorie de gestion des symptômes;1;169;7;0;4;0;6
+81;105;5586;Français;254;Migration et sociétés plurielles;1;169;7;0;4;22;3
+82;118;5586;Français;254;Sciences infimières (MscSI);1;195;2;0;4;24;4
+83;118;5586;Français;254;Sciences infimières (PhD SI);4;185;2;0;4;36;4
+84;118;5586;Français;265;Baccaloréat universitaire de théologie;3;163;2;0;4;36;4
+85;118;5586;Français;265;Baccaloréat universitaire en science des  religions;3;163;2;0;4;36;4
+86;118;5586;Français;265;Maîtrise universitaire de théologie;3;192;2;0;4;24;4
+87;118;5586;Français;265;Maîtrise universitaire en science des  religions;3;192;2;0;4;0;6
+88;118;5586;Français;211;Baccaloréat universitaire en droit;3;163;2;0;4;36;4
+89;118;5586;Français;211;Maîtrise universitaire en droit;3;192;2;0;4;18;4
+90;118;5586;Français;211;Maîtrise universitaire en droit des  universités de Zurich et Lausanne;3;192;2;0;4;12;4
+91;118;5586;Français;211;Maîtrise universitaire en sciences  criminelles/ mention criminologie;3;192;2;0;4;24;4
+92;118;5586;Français;211;Maîtrise universitaire en droit en sciences criminelles/ mention magistrature;3;192;2;0;4;24;4
+93;118;5586;Français;211;Maîtrise universitaire en droit, criminalité et sécurité des technologies de l'information;3;192;2;0;4;0;6
+94;118;5586;Français;211;Maîtrise universitaire en droit et économie;3;192;2;0;4;18;4
+95;118;5586;Français;211;Maîtrise universitaire en politique et  management publics;3;192;2;0;4;24;4
+96;118;5586;Français;267;Maîtrise universitaire en études du tourisme;3;192;2;0;4;24;4
+97;118;5586;Français;211;Baccaloréat universitaire ès science forensique;3;163;2;0;4;36;4
+98;118;5586;Français;211;Maîtrise universitaire ès Sciences forensique/ mention criminalistique chimique;3;192;2;0;4;24;4
+99;118;5586;Français;211;Maîtrise universitaire ès Science forensique, mention identification physique;3;192;2;0;4;24;4
+100;118;5586;Français;211;Maîtrise universitaire en droit en sciences criminelles/ mention criminologie et sécurité;3;192;2;0;4;24;4
+101;118;5586;Français;211;Maîrtise universitaire ès Sciences en traçologie et analyse de la criminalité;3;192;2;0;4;24;4
+102;118;5586;Français;233;Baccaloréat universitaire ès Lettres;3;163;2;0;4;36;4
+103;118;5586;Français;233;Maîtrise universitaire ès Lettres;3;192;2;0;4;18;4
+104;118;5586;Français;233;Maîtrise universitaire ès Lettres avec spécialisation;3;192;2;0;4;24;4
+105;118;5586;Français;212;Baccaloréat universitaire en science politique;3;163;2;0;4;36;4
+106;118;5586;Français;212;Maîtrise universitaire en science politique;3;192;2;0;4;24;4
+107;118;5586;Français;212;Maîtrise universitaire en sciences sociles;3;192;2;0;4;24;4
+108;118;5586;Français, Anglais;236;Maîtrise universitaire en politique et management publics;3;192;2;0;4;24;4
+109;118;5586;Français;213;Master en sciences et pratiques de l'éducation;1;194;2;0;4;18;4
+110;118;5586;Français;213;Master en sciences et pratiques de l'éducation avec spécialisation;1;194;2;0;4;24;4
+111;118;5586;Anglais;244;Maîtrise universiataire en méthodologie d'enquête et opinion publique;3;192;2;0;4;18;4
+112;80;5586;Anglais;235;Global Supply Chain management;1;193;2;18800;4;12;4
+113;80;5586;Français;226;Expertise dans l'immobilier;1;193;2;0;4;30;4
+114;118;5586;Anglais;254;Healthcare Management Focus;1;186;4;0;4;15;4
+116;118;5586;Anglais;223;International Taxation (MASIT);1;193;2;0;4;12;4
+117;68;2206;Français;224;Utilisation de MS Project;2;155;2;665;1;2;3
+118;68;2206;Français;235;Préparation informatique pour le diplôme fédéral de logisticien;2;155;2;665;1;2;3
+119;68;2206;Français;235;Dipôme fédéral de logisticien;3;184;3;13450;1;0;6
+120;68;2206;Français;235;Préparation informatique pour le brevet  fédéral de logisticien;2;155;2;665;1;2;3
+121;68;2206;Français;235;Brevet fédéral de logisticien;3;165;3;11100;1;12;4
+122;68;2206;Français;222;Complément du cours pour formateur en  entreprise logisticien (AFP/CFC);2;155;2;310;1;1;3
+123;68;2206;Français;222;Cours pour formateurs en entreprise "Logisticien";2;155;2;866;1;5;3
+124;68;2206;Français;222;Techniques de présentation et d'animation;2;155;2;450;1;1;3
+125;68;2206;Français;236;Formation pour chef d'équipe (Module 1);2;155;2;1050;1;3;3
+126;68;2206;Français;236;Formation pour chef d'équipe (Module 2);2;155;2;650;1;2;3
+127;68;2206;Français;235;Gestion des produits (module 1);2;155;2;665;1;1;3
+128;68;2206;Français;235;Gestion des produits (module 2);2;155;2;450;1;1;3
+129;68;2206;Français;235;Préparer, conditionner des marchandises en vue de l'expédier;2;155;2;380;1;1;3
+130;68;2206;Français;235;Charger correctement;2;155;2;380;1;1;3
+131;68;2206;Français;235;Démontrateur/ Plateforme élévtatrice;2;168;2;650;1;1;3
+132;68;2206;Français;235;Opérateur/ Plateforme élévatrice;2;168;2;650;1;1;3
+133;68;2206;Français;235;Formation pour contrepoids et latéral;2;198;2;410;1;1;3
+134;68;2206;Français;235;Formation pour contrepoids et latéral;2;198;2;845;1;2;3
+135;68;2206;Français;235;Formation pour contrepoids et latéral;2;198;2;1450;1;4;3
+136;68;2206;Français;235;Cours de répétition pour instructeurs caristes;2;155;2;430;1;1;3
+137;68;2206;Français;235;Formation d'instructeur cartiste;2;159;2;2850;1;7.5;3
+138;68;2206;Français;235;Formation pour chariot télescopiques ;2;198;2;410;1;1;3
+139;68;5749;Français;235;Formation pour chariot télescopiques ;2;198;2;410;1;1;3
+140;106;6021;Français;235;Formation pour chariot télescopiques ;2;198;2;410;1;1;3
+141;71;6711;Français;235;Formation pour chariot télescopiques ;2;198;2;410;1;1;3
+142;68;2206;Français;235;Formation pour contrepoids et chariots téléscopiques;2;198;2;845;1;2;3
+143;68;5749;Français;235;Formation pour contrepoids et chariots téléscopiques;2;198;2;845;1;2;3
+144;106;6021;Français;235;Formation pour contrepoids et chariots téléscopiques;2;198;2;845;1;2;3
+145;71;6711;Français;235;Formation pour contrepoids et chariots téléscopiques;2;198;2;845;1;2;3
+146;68;2206;Français;235;Formation théorique pour caristes;2;198;2;160;1;0.5;3
+147;68;2206;Français;235;Mise à jour des formations de caristes en entreprise ou de l'étranger;2;198;2;395;1;1;3
+148;68;5749;Français;235;Mise à jour des formations de caristes en entreprise ou de l'étranger;2;198;2;395;1;1;3
+149;106;6021;Français;235;Mise à jour des formations de caristes en entreprise ou de l'étranger;2;198;2;395;1;1;3
+150;71;6711;Français;235;Mise à jour des formations de caristes en entreprise ou de l'étranger;2;198;2;395;1;1;3
+151;68;2206;Français;235;Ecole de conduite pour chariots élévateurs;2;198;2;270;1;0.5;3
+152;68;5749;Français;235;Ecole de conduite pour chariots élévateurs;2;198;2;270;1;0.5;3
+153;68;2206;Français;235;Cours de perfectionnement pour caristes;2;155;2;380;1;1;3
+154;68;5749;Français;235;Cours de perfectionnement pour caristes;2;155;2;380;1;1;3
+155;106;6021;Français;235;Cours de perfectionnement pour caristes;2;155;2;380;1;1;3
+156;71;6711;Français;235;Cours de perfectionnement pour caristes;2;155;2;380;1;1;3
+157;68;2206;Français;235;Formation de caristes ;2;198;2;730;1;2;3
+158;68;5749;Français;235;Formation de caristes ;2;198;2;730;1;2;3
+159;106;6021;Français;235;Formation de caristes ;2;198;2;730;1;2;3
+160;71;6711;Français;235;Formation de caristes ;2;198;2;730;1;2;3
+161;68;2206;Français;235;Formation de caristes ;2;198;2;1150;1;4;3
+162;68;5749;Français;235;Formation de caristes ;2;198;2;1150;1;4;3
+163;106;6021;Français;235;Formation de caristes ;2;198;2;1150;1;4;3
+164;71;6711;Français;235;Formation de caristes ;2;198;2;1150;1;4;3
+165;68;2206;Français;235;Formation pour la conduite des chariots élévateurs à timon;2;198;2;330;1;1;3
+166;68;5749;Français;235;Formation pour la conduite des chariots élévateurs à timon;2;198;2;330;1;1;3
+167;106;6021;Français;235;Formation pour la conduite des chariots élévateurs à timon;2;198;2;330;1;1;3
+168;71;6711;Français;235;Formation pour la conduite des chariots élévateurs à timon;2;198;2;330;1;1;3
+169;68;2206;Français;235;Compétences selon la législation des produits  chimiques avec certificat;2;155;2;820;1;2;3
+170;68;2206;Français;235;Utilisateurs de plateforme élévatrice;2;155;2;750;1;1;3
+171;68;2206;Français;235;Cours pour utilisateur de pont roulant;2;155;2;750;1;2;3
+172;68;2206;Français;235;Cours pour utilisateur de pont roulant (module de base);2;155;2;0;4;1;3
+173;68;2206;Français;235;Stockage et manutention des marchandises  dangereuses;2;155;2;650;1;2;3
+174;68;2206;Français;235;Réception de marchandises;2;155;2;380;1;1;3
+175;68;2206;Français;235;Cours de base pour la logistique;2;155;2;4200;1;15;3
+176;69;5586;Français;212;Entrainement à la journée de l'excellence;2;170;2;2150;1;2;3
+177;69;5586;Français;252;Assistant en gestion du personnel;2;170;5;4140;1;6;4
+178;69;5586;Français;252;Leadership certificat SVF-ASFC;2;170;5;5760;1;6;4
+180;69;5586;Français;202;Cours préparatoires comptabilité ESBF;2;202;3;436;1;3;3
+181;69;6621;Français;202;Cours préparatoires comptabilité ESBF;2;202;3;436;1;3;3
+182;69;5586;Français;194;Cours préparatoires mathématiques et statistiques ESBF ;2;202;3;436;1;3;3
+183;69;6621;Français;194;Cours préparatoires mathématiques et statistiques ESBF ;2;202;3;436;1;3;3
+186;66;5586;Français;222;Le jeu en formation;2;202;2;660;1;1;3
+187;66;5586;Français;222;Analyse de pratique entre formateurs  par le « théâtre-image »;2;202;2;825;1;1;3
+191;66;5586;Français;210;Passerelles entre neurosciences cognitives et apprentissage;2;202;2;2790;1;6;3
+192;66;5586;Français;222;Maîtriser les techniques d’animation;2;202;2;1980;1;3;3
+193;66;5586;Français;187;Gérer administrativement des formations;2;202;2;1320;1;2;3
+194;66;2275;Français;222;Accompagner des processus de formation en groupe;2;179;2;1900;1;5;3
+195;66;5586;Français;222;Animer des sessions de formation pour adultes (FSEA 1);2;175;5;4580;1;4;4
+196;66;2275;Français;222;Soutenir des processus d’apprentissage individuels;2;178;2;1200;1;4;3
+197;66;2275;Français;222;Concevoir des sessions de formation pour adultes  sur le plan didactique;2;178;2;4100;1;12;3
+198;66;2275;Français;222;Concevoir des offres de formation pour adultes;2;178;2;4100;1;12;3
+199;67;5586;Français;236;Réussir sa prise de parole en public;2;157;2;0;4;2;3
+200;67;5586;Français;236;Perfectionner sa prise de parole en public;2;157;2;0;4;1;3
+201;67;5586;Français;218;Elevator pitch;2;202;2;0;4;1;3
+202;67;5586;Français;236;La team building pour créer une équipe gagnante;2;202;2;0;4;2;3
+203;67;5586;Français;236;Bien (ré)agir avec un client;2;202;2;0;4;1;3
+204;70;5586;Français;236;Spécialiste en organisation d'entreprise;3;165;3;14900;1;52;4
+205;70;5586;Français;266;HERMES 5.1 Upgrade;2;202;2;450;1;1;3
+206;70;5586;Français;266;HERMES 5.1 Introduction;2;202;2;750;1;1;3
+207;70;5586;Français;266;HERMES 5.1 Foundation;2;177;2;1350;1;2;3
+208;70;5586;Français;266;HERMES 5.1 Advanced;2;177;2;1590;1;3;3
+209;70;5586;Français;252;Start - Coaching;2;202;2;525;1;1;3
+210;70;5586;Français;236;Lean Six Sigma Yellow Belt;2;202;2;625;1;1;3
+211;70;5586;Anglais;212;Business Ana﻿lyst;2;177;2;6350;1;10;3
+212;72;371;Français;202;Comptabilité intensive;2;202;3;2460;1;10;4
+213;72;371;Français;202;Comptable spécialisé;3;181;3;7350;1;18;4
+214;72;371;Français;202;Agent fiduciaire spécialisé;3;181;3;2450;1;6;4
+215;72;371;Français;236;Conduire une équipe;2;202;2;2050;1;6;3
+216;72;371;Français;237;Généraliste en marketing et communication moderne;3;181;3;6000;1;4;4
+217;72;371;Français;237;Spécialiste marketing;3;165;3;10900;1;14;4
+218;72;371;Français;271;Spécialiste de vente;3;165;3;9000;1;18;4
+219;72;371;Français;252;Assistant en gestion du personnel;2;177;3;2950;1;6;4
+220;72;371;Français;252;Spécialiste RH;3;165;3;9300;1;12;4
+221;72;371;Français;222;Cours obligatoire pour formateurs d'apprentis;2;156;2;730;1;5;3
+222;72;371;Français;200;Accompagnement des STA/UF Formation commerciale;2;202;2;340;1;1;3
+223;72;371;Français;200;Diplôme de bureautique;3;181;3;9150;1;18;4
+226;72;371;Français;200;Office Management - Responsabilité et efficacité;2;202;2;750;1;2;3
+227;72;371;Français;200;Le langage moderne des lettres et des e-mails;2;202;2;450;1;1;3
+228;72;371;Allemand;232;Niveau moyen B1;2;160;3;830;1;8;4
+229;72;371;Allemand;232;Niveau moyen B2;2;161;3;830;1;8;4
+230;72;371;Allemand;232;Niveau avancé C1;2;166;3;890;1;8;4
+231;72;371;Français;232;Niveau moyen B1;2;160;3;830;1;8;4
+232;72;371;Français;232;Niveau moyen B2;2;161;3;830;1;8;4
+233;72;371;Français;232;Niveau avancé C1;2;166;3;890;1;8;4
+234;72;371;Anglais;232;Niveau moyen B1;2;160;3;830;1;8;4
+235;72;371;Anglais;232;Niveau moyen B2;2;161;3;830;1;7;4
+236;72;371;Anglais;232;Niveau avancé C1;2;166;3;890;1;7;4
+237;72;371;Anglais;232;Cambridge BEC Vantage Business English Certificate;2;170;3;1645;1;11;4
+238;73;5586;Français;186;Certificat d'approvisionneur;2;170;3;6000;1;12;4
+239;73;6458;Français;186;Certificat d'approvisionneur;2;170;3;6000;1;12;4
+240;73;5586;Français;186;Diplôme en achats et approvisionnements;3;181;3;9180;1;6;4
+241;73;6458;Français;186;Diplôme en achats et approvisionnements;3;181;3;9180;1;6;4
+242;73;5586;Français;186;Formation acheteur confirmé;3;181;3;7150;1;12;4
+243;73;5586;Français;186;Diplôme d'études supérieures en achats  (préparation travail de mémoire);3;181;2;4200;1;1;3
+244;73;2196;Français;202;Diplôme d'aide comptable;3;181;3;5410;1;10;4
+245;73;6621;Français;202;Diplôme d'aide comptable;3;181;3;5410;1;9;4
+246;73;5586;Français;202;Diplôme d'aide comptable;3;181;3;5410;1;11;4
+247;73;6458;Français;202;Diplôme d'aide comptable;3;181;3;5410;1;10;4
+248;73;6266;Français;202;Diplôme d'aide comptable;3;181;3;5410;1;8;4
+249;73;6621;Français;202;Diplôme de comptable confirmé;3;181;3;6485;1;11;4
+250;73;5586;Français;202;Diplôme de comptable confirmé;3;181;3;6485;1;11;4
+251;73;6458;Français;202;Diplôme de comptable confirmé;3;181;3;6485;1;11;4
+252;73;6621;Français;236;Diplôme assistant de direction;3;181;3;7450;1;14;4
+253;73;5586;Français;236;Diplôme assistant de direction;3;181;3;7450;1;15;4
+254;73;6458;Français;236;Diplôme assistant de direction;3;181;3;7450;1;16;4
+255;73;6621;Français;237;Diplôme business coordinator  Marketing stratégique et opérationnel;3;181;3;7300;1;5;4
+256;73;5586;Français;237;Diplôme business coordinator  Marketing stratégique et opérationnel;3;181;3;7300;1;5;4
+257;73;6458;Français;237;Diplôme business coordinator  Marketing stratégique et opérationnel;3;181;3;7300;1;5;4
+258;73;6621;Français;236;Diplôme business coordinator  Management et communication interpersonnelle;3;181;3;7300;1;5;4
+259;73;5586;Français;236;Diplôme business coordinator  Management et communication interpersonnelle;3;181;3;7300;1;6;4
+260;73;6458;Français;236;Diplôme business coordinator  Management et communication interpersonnelle;3;181;3;7300;1;3;4
+261;73;6621;Français;236;Diplôme business coordinator  Négociation et organisation de réunion;3;181;3;7300;1;2;4
+262;73;5586;Français;236;Diplôme business coordinator  Négociation et organisation de réunion;3;181;3;7300;1;3;4
+263;73;6458;Français;236;Diplôme business coordinator  Négociation et organisation de réunion;3;181;3;7300;1;3;4
+264;73;6621;Français;225;Diplôme de Gestion d’Entreprise Brevet fédéral de Spécialiste en gestion de PME;3;165;3;11400;1;18;4
+265;73;5586;Français;225;Diplôme de Gestion d’Entreprise Brevet fédéral de Spécialiste en gestion de PME;3;165;3;11400;1;18;4
+266;73;6458;Français;225;Diplôme de Gestion d’Entreprise Brevet fédéral de Spécialiste en gestion de PME;3;165;3;11400;1;18;4
+267;73;5586;Français;236;Etudes supérieures en Management  & Administration d’Entreprise;1;186;3;22500;1;24;4
+268;73;6458;Français;236;Etudes supérieures en Management  & Administration d’Entreprise;1;186;3;22500;1;24;4
+269;73;5586;Français;237;Certificat fédéral Examen d'admission Markom;2;170;3;3340;1;0;6
+270;73;6621;Français;237;Diplôme de Marketing & Communication d’Entreprise;3;181;3;5580;1;11;4
+271;73;5586;Français;237;Diplôme de Marketing & Communication d’Entreprise;3;181;3;5580;1;12;4
+272;73;6458;Français;237;Diplôme de Marketing & Communication d’Entreprise;3;181;3;5580;1;12;4
+273;73;6266;Français;237;Diplôme de Marketing & Communication d’Entreprise;3;181;3;5580;1;11;4
+274;73;5586;Français;237;Brevet fédéral spécialiste en marketing;3;165;3;11500;1;0;6
+275;73;6621;Français;224;Introduction au management de projet;2;202;3;1210;1;2;4
+276;73;5586;Français;224;Introduction au management de projet;2;202;3;1210;1;2;4
+277;73;6458;Français;224;Introduction au management de projet;2;202;3;1210;1;2;4
+278;73;6621;Français;224;Diplôme de chef de projet;3;181;3;6720;1;11;4
+279;73;5586;Français;224;Diplôme de chef de projet;3;181;3;6720;1;11;4
+280;73;6458;Français;224;Diplôme de chef de projet;3;181;3;6720;1;11;4
+281;73;5586;Français;224;Certification internationale PMI;2;167;3;1850;1;2;4
+282;73;5586;Français;224;Certification internationale PMI;2;199;3;1850;1;2;4
+283;73;5586;Français;224;Certification internationale IPMA;2;189;2;1200;1;2;3
+284;73;5586;Français;224;Certification internationale IPMA;2;188;2;1650;1;3;3
+285;73;5586;Français;224;Diplôme d'Etudes Supérieures de Directeur de Projet;3;181;3;0;4;0;6
+286;73;6621;Français;252;Diplôme de management et resources humaines;3;181;3;5450;1;11;4
+287;73;5586;Français;252;Diplôme de management et resources humaines;3;181;3;5450;1;11;4
+288;73;6458;Français;252;Diplôme de management et resources humaines;3;181;3;5450;1;11;4
+289;73;6266;Français;252;Diplôme de management et resources humaines;3;181;3;5450;1;11;4
+290;73;5586;Français;271;Diplôme de conseiller de vente;3;181;3;5750;1;11;4
+291;73;6458;Français;271;Diplôme de conseiller de vente;3;181;3;5750;1;11;4
+292;73;5586;Français;271;Diplôme de coordinateur commercial;3;181;3;4170;1;8;4
+293;73;6458;Français;271;Diplôme de manager de vente;3;181;3;9770;1;11;4
+294;73;5586;Français;271;Diplôme de manager de vente;3;181;3;9770;1;11;4
+296;75;6458;Français;230;Preliminary U-CH - premier niveau bureautique;2;170;3;0;4;0;6
+297;75;6458;Français;230;First U-CH - deuxième niveau bureautique;2;170;3;0;4;0;6
+298;75;6458;Français;230;Job ict User Certificate U-CH - troisième niveau de qualification;2;170;3;0;4;0;6
+299;75;6436;Français;228;Formation modulaire en horlogerie;2;170;3;0;4;12;4
+300;75;446;Français;239;Formation modulaire de mécanicien de production;2;170;3;0;4;0;6
+301;75;6436;Français;239;Formation modulaire de mécanicien de production;2;170;3;0;4;0;6
+302;75;6458;Français;248;CFC d'opérateur-trice de machines automatisées selon l'art. 32;2;174;3;0;4;24;4
+303;75;446;Français;248;Brevet Fédéral d'Expert-e en production;3;165;3;18880;1;24;4
+304;75;6436;Français;248;Brevet Fédéral d'Expert-e en production;3;165;3;18880;1;24;4
+305;75;6266;Français;248;Brevet Fédéral d'Expert-e en production;3;165;3;18880;1;24;4
+306;75;6458;Français;271;CFC de Gestionnaire du commerce de détail selon l'art. 32;2;174;3;0;4;24;4
+307;75;6458;Français;271;CFC d'employé-e de commerce selon l'art. 32 (voie B et voie E);2;174;3;0;4;0;6
+308;75;6458;Français;202;Brevet fédéral de spécialiste en finance et comptabilité;3;165;3;11400;1;24;4
+310;75;6458;Français;211;Diplôme de secrétaire juridique;3;181;3;4650;1;12;4
+311;75;6458;Français;236;Brevet fédéral Leadership & Management;3;165;3;15500;1;18;4
+312;75;6458;Français;236;Certificat d'assistant-e en gestion du personnel;2;170;3;1950;1;6;4
+313;75;6421;Français;236;Certificat d'assistant-e en gestion du personnel;2;170;3;1950;1;6;4
+314;75;446;Français;248;Brevet Fédéral d'Expert-e en production;3;165;3;18880;1;24;4
+315;75;6436;Français;248;Brevet Fédéral d'Expert-e en production;3;165;3;18880;1;24;4
+316;75;6458;Français;248;Brevet Fédéral d'Expert-e en production;3;165;3;18880;1;24;4
+317;75;2196;Français;248;Brevet Fédéral d'Expert-e en production;3;165;3;18880;1;24;4
+318;75;6458;Français;259;Post-Diplôme ES - Direction d'institution de l'enfance;1;182;4;12500;1;12;4
+319;75;6458;Français;259;CFC d'assistant en soins et santé communautaire selon l'art. 32;2;174;4;7804;1;15;4
+320;75;6458;Français;259;CFC d'assistant-e socio-éducatif-ve selon l'art. 32;2;174;4;4242;1;12;4
+321;75;6458;Français;222;Brevet fédéral de formateur d'adultes;3;165;4;11510;1;8;4
+322;75;6458;Français;222;Certificat formateurs de langue dans le domaine de l’intégration;2;170;4;14090;1;7;4
+323;76;446;Français;186;Négocier et communiquer dans l'achat et la vente;2;155;4;1490;1;4;3
+324;76;443;Français;192;Initiation à l'automate programmable;2;155;3;987;1;8;3
+325;76;700;Français;258;Brevet fédéral de Conseiller en sécurité électrique;3;165;3;5800;1;24;4
+326;76;443;Français;203;Brevet fédéral de concierge;3;165;4;6300;1;24;4
+327;76;446;Français;260;Assistant spécalisé en soins de longue durée et accompagnement;2;165;2;0;4;5;3
+328;74;443;Français;197;Lecture de plan;2;155;3;0;4;2;3
+329;76;446;Français;197;Programmeur CFAO sur tour ou fraiseuse à  commande numérique (AlphaCAM);2;155;3;2200;1;12;3
+330;76;446;Français;197;Programmeur CFAO sur tour ou fraiseuse  à commande numérique (GibbsCAM);2;155;2;2305;1;5;3
+331;76;446;Français;197;Programmeur CFAO sur tour poupée mobile  à commande numérique (Mastercam Swiss Expert);2;155;2;2305;1;5;3
+332;76;700;Français;204;CADWORK - Cours de base;2;155;4;680;1;4;3
+333;76;446;Français;198;La communication et l'information dans le cadre du coaching ;2;155;2;680;1;2;3
+334;76;446;Français;198;Introduction au coaching;2;155;2;680;1;2;3
+335;76;446;Français;198;Les différentes approches et outils psychologiques  dans le cadre du coaching;2;155;2;680;1;2;3
+336;76;446;Français;198;Connaissance de soi et du coaché;2;155;2;950;1;2;3
+337;76;446;Français;198;Les principaux domaines d'intervention du coaching;2;155;2;680;1;2;3
+338;76;446;Français;198;La communication et l'information dans le cadre du coaching ;2;155;2;680;1;2;3
+339;76;446;Français;198;La communication avancée;2;155;2;680;1;2;3
+340;76;446;Français;198;Les entraînements aux séances de coaching;2;155;2;680;1;2;3
+341;76;446;Français;198;Les différentes approches et outils psychologiques  dans le cadre du coaching;2;155;2;680;1;2;3
+342;76;446;Français;198;Les principaux domaines d'intervention du coaching;2;155;2;680;1;2;3
+343;76;446;Français;201;L'équilibre de vie : la clé du succès;2;155;2;680;1;2;3
+344;76;446;Français;201;Gérer, traiter et anticiper les relations difficiles au travail;2;155;2;810;1;2;3
+345;76;446;Français;201;Mensonge et manipulation;2;155;2;450;1;1;3
+346;76;446;Français;201;Les émotions nos amies…;2;155;2;580;1;2;3
+347;76;446;Français;201;Connaître ses interlocuteurs pour mieux communiquer  (méthode PCM);2;155;4;1250;1;3;3
+348;76;446;Français;201;Prévention du burnout;2;155;2;680;1;2;3
+349;76;446;Français;201;La prise de parole en public;2;155;2;750;1;2;3
+350;76;446;Français;201;Conduire des séances et y participer efficacement;2;155;2;450;1;1;3
+351;76;446;Français;252;Les pratiques d'un engagement optimal;2;155;4;1490;1;4;3
+352;76;446;Français;201;Les gestes parlent, apprenez à les écouter;2;155;2;450;1;1;3
+353;76;446;Français;252;Repérer et réduire le présentéisme;2;155;2;810;1;2;3
+354;76;446;Français;201;L'accueil performant de la clientèle;2;155;2;680;1;2;3
+355;76;446;Français;201;Automotivation et pensée positive;2;155;2;680;1;2;3
+356;76;446;Français;210;La psychologie du bonheur :  apprendre à être heureux malgré tout;2;155;2;580;1;2;3
+357;76;446;Français;207;La sphère privée;2;155;3;300;1;2;4
+358;76;446;Français;207;La politique et la justice;2;155;3;300;1;2;4
+359;76;446;Français;207;L'entreprise et ses acteurs;2;155;3;300;1;2;4
+360;76;446;Français;207;La consommation;2;155;3;300;1;2;4
+361;76;446;Français;210;Travail personnel d'approfondissement;2;155;3;300;1;6;4
+362;76;446;Français;208;Initiation à l'utilisation des machines-outils  à commande numérique;2;155;4;842;1;2;3
+363;76;446;Français;208;Opérateur - régleur - programmeur  sur tour à commande numérique;2;155;4;1484;1;4;3
+364;76;446;Français;208;Opérateur - régleur - programmeur sur TORNOS DECO 2000;2;155;4;2676;1;6;3
+365;76;446;Français;208;Opérateur - régleur - programmeur sur tour STAR SA-12;2;155;4;2034;1;4;3
+366;76;446;Français;208;Initiation à l'utilisation des machines-outils  à commande numérique;2;155;2;842;1;2;3
+367;76;446;Français;208;Opérateur - régleur - programmeur  sur tour à commande numérique;2;155;4;1484;1;4;3
+368;76;446;Français;208;Opérateur - régleur - programmeur sur TORNOS DECO 2000;2;155;2;2676;1;6;3
+369;76;446;Français;208;Opérateur - régleur - programmeur sur TORNOS DECO 2000;2;155;3;890;1;5;3
+370;76;446;Français;208;Opérateur - régleur - programmeur  sur TORNOS DECO 2000 (suite);2;155;2;1563;1;3;3
+371;76;446;Français;208;Opérateur - régleur - programmeur  sur tour à commande numérique;2;155;3;1400;1;15;3
+372;76;446;Français;208;Opérateur - régleur - programmeur sur tour CITIZEN C-16;2;155;2;2034;1;4;3
+373;76;446;Français;208;Opérateur - régleur - programmeur sur tour CITIZEN R-04;2;155;2;1663;1;3;3
+374;76;446;Français;208;Opérateur - régleur - programmeur  sur tour Tornos Micro 8 (avec TB Deco);2;155;2;2576;1;6;3
+375;76;446;Français;208;Opérateur - régleur - programmeur  sur tour Tornos Micro 8 (base ISO);2;155;2;1744;1;4;3
+376;76;446;Français;208;Opérateur - régleur - programmeur  sur tour TSUGAMI B0-12 (AE);2;155;2;1463;1;3;3
+378;76;446;Français;208;Matériaux et usinabilité;2;155;4;960;1;3;3
+379;76;446;Français;208;Rappel de calculs, géométrie et trigonométrie;2;155;2;360;1;1;3
+380;76;446;Français;208;Initiation au contrôle en décolletage et taillage;2;155;3;660;1;3;4
+381;76;446;Français;208;Statistiques;2;155;3;500;1;5;3
+382;76;446;Français;208;Formation de base à l'utilisation du tour monobroche poupée  mobile à cames;2;155;2;0;4;15;3
+383;76;446;Français;208;La découverte du décolletage;2;155;2;1200;1;3;3
+384;76;446;Français;208;Utilisation d'un combiné 3 broches sur tour  monobroche à cames;2;155;2;0;4;3;3
+385;74;443;Français;259;Les directives anticipées;2;155;2;275;1;1;3
+386;74;443;Français;217;Se chauffer futé;2;155;2;90;1;1.5;3
+387;74;443;Français;217;Electricité futée;2;155;2;45;1;1.5;3
+388;76;446;Français;222;Formation de formateur/trice : FFA-BF-M4/M5;2;170;4;3850;1;8;4
+389;76;446;Français;222;Formation de formateur/trice : FFA-BF-M3;2;170;4;1250;1;4;3
+390;76;446;Français;222;Accompagner son apprenti avec succès;2;155;4;950;1;2;3
+392;76;446;Français;222;Formation de formateur occasionnel (FFOC);2;155;4;1050;1;4;3
+393;76;446;Français;222;Formation de formateur/trice : FFA-BF-M1;2;170;4;3300;1;6;3
+394;76;446;Français;222;Formateur/trice en entreprise (standard);2;155;4;625;1;5;3
+395;76;446;Français;222;Formateur/trice en entreprise (domaine social);2;155;4;625;1;5;3
+396;76;446;Français;222;Formateur/trice en entreprise (domaine commerce);2;155;4;625;1;5;3
+397;76;446;Français;228;Initiation;2;155;2;140;1;1.5;3
+398;76;446;Français;228;Module de base;2;170;3;3180;1;10;4
+399;76;446;Français;230;Formation individuelle aux outils d'informatique standards;2;155;3;1120;1;12;4
+400;76;446;Français;230;Formation individuelle aux outils d'informatique avancés;2;155;3;1280;1;12;4
+401;76;446;Français;230;P@rtiCIP;2;202;4;350;1;12;4
+402;76;446;Français;230;Formation individuelle aux technologies Apple;2;202;4;1120;1;12;4
+403;76;446;Français;230;Edition de documents avec Indesign;2;155;4;560;1;4;3
+404;76;446;Français;230;Réalisation d'un site web;2;155;3;1020;1;9;3
+405;76;446;Français;230;CertiCIP, Profil Bureautique;2;171;2;3645;1;3;4
+406;76;446;Français;230;Traitement d'images avec Photoshop;2;155;3;590;1;1;4
+407;76;446;Français;230;Prendre un bon départ avec l'informatique;2;155;3;235;1;1;4
+408;74;443;Français;230;Brevet fédéral d'informaticien-ne Formation complète;3;165;3;0;4;24;4
+409;74;443;Français;230;Assurer la sécurité de l'information (des données) en entreprise;2;155;3;740;1;2;4
+410;74;443;Français;230;La sécurité informatique pour les particuliers;2;155;3;220;1;1;4
+411;76;446;Français;232;Français de base pour non francophones;2;155;3;183;1;4;4
+412;76;446;Français;232;Français perfectionnement pour non francophones;2;155;3;183;1;4;4
+413;76;446;Français;232;Français perfectionnement pour non francophones, avancé 2;2;155;3;183;1;4;4
+414;76;446;Français;224;Gestion efficace des projets et des changements;2;155;4;1490;1;4;3
+415;76;446;Français;236;Développer, communiquer et implanter  des stratégies de management;2;155;4;2070;1;6;3
+416;76;446;Français;252;Management des absences et du bien-être au travail;2;155;2;810;1;2;3
+417;76;446;Français;252;Connaître, conduire et motiver son équipe;2;155;4;2070;1;6;3
+418;76;446;Français;236;Gestion du temps et des priorités;2;155;2;810;1;2;3
+419;76;446;Français;252;Recruter et intégrer ses futurs collaborateurs;2;155;2;810;1;2;3
+420;74;700;Français;236;Chef d'équipe industrie;3;181;3;1890;1;18;4
+421;74;700;Français;236;Contremaitre d'industrie;3;181;7;5370;1;0;6
+422;76;371;Français;238;Mathématiques de base;2;155;2;0;4;12;3
+423;76;371;Français;238;Mathématiques de base - niveau 1;2;155;3;1440;1;2;4
+424;76;371;Français;238;Mathématiques de base - niveau 2;2;155;3;1440;1;2;4
+425;74;443;Français;239;Découverte de la fabrication micromécanique;2;202;2;0;4;1;3
+426;74;443;Français;239;Diagnostic de défauts des pièces;2;155;2;1750;1;5;3
+427;74;443;Français;239;Initiation à la mise en forme des métaux en feuilles;2;202;2;650;1;1;3
+428;74;443;Français;239;Mise en forme et frittage des poudres;2;155;3;780;1;9;3
+429;76;446;Français;242;Cours de naturalisation;2;202;3;290;1;5;3
+430;74;443;Français;255;Accompagner des stagiaires en pratique  dans le domaine de la santé et du social;2;155;2;200;1;1;3
+431;74;443;Français;255;Evaluer des stagiaires dans la pratique  du domaine santé et social;2;155;2;200;1;1;3
+432;74;443;Français;247;Initiation à la conception de moules d’injection;2;155;3;925;1;2;4
+433;74;443;Français;247;Mise en forme et frittage des poudres;2;155;7;780;1;2;4
+434;74;443;Français;247;Régleur de presse d’injection;2;202;2;2700;1;6;3
+435;74;443;Français;255;Les médicaments dans le domaine des soins à domicile,  priorité à la sécurité;2;155;2;216;1;1;3
+436;74;443;Français;255;Les médicaments en institution, priorité à la sécurité;2;155;2;216;1;1;3
+437;74;443;Français;255;Médicaments et douleur;2;155;2;213;1;1;3
+438;74;443;Français;255;Kinaesthetics dans les soins - cours de base;2;155;4;950;1;4;3
+439;74;443;Français;255;Introduction à l'approche de la stimulation basale;2;155;4;950;1;4;3
+440;74;443;Français;255;Brevet fédéral d'assistant spécialisé en soins de longue durée  et accompagnement;3;165;7;0;4;24;4
+441;76;446;Français;259;Spécialiste de la migration;2;155;4;7600;1;15;4
+442;74;443;Français;255;L'autodéfense en milieu institutionnel;2;155;2;275;1;1;3
+443;74;443;Français;255;Initiation à l'autohypnose;2;155;2;275;1;1;3
+444;77;2198;Français, Allemand;230;Bureautique complète ECDL Profile;2;170;4;2616;1;0;6
+445;77;2198;Français, Allemand;230;Bureautique complète U-CH Preliminary;2;155;4;2477;1;0;6
+447;77;2198;Français, Allemand;230;Infrastructure bureau;2;176;2;7032;1;10;3
+448;77;2198;Français, Allemand;230;Infrastructure serveur;2;176;2;7032;1;10;3
+449;77;2198;Français, Allemand;230;Technicien windows;2;155;3;6940;1;10;4
+450;77;2198;Français, Allemand;230;Windows 7;2;176;2;8188;1;11;3
+451;77;2198;Français, Allemand;230;Windows 8;2;176;2;7032;1;10;3
+452;77;2198;Français, Allemand;230;Windows server 2012;2;176;2;20664;1;30;3
+453;77;2198;Français, Allemand;252;Brevet fédéral de spécialiste en conduite d'équipe;3;165;3;13600;1;24;4
+454;77;2198;Français, Allemand;236;Certificat ASFC Management;2;170;3;7500;1;12;4
+455;77;2198;Français, Allemand;236;Certificat ASFC Leadership;2;170;3;6100;1;12;4
+456;77;2198;Français, Allemand;252;Certificat d'assistant RH;2;170;4;2450;1;12;4
+457;77;2198;Français, Allemand;252;Brevet fédéral Spécialiste RH;3;165;3;0;4;24;4
+458;77;2198;Français, Allemand;237;Brevet fédéral d'agent technico-commercial;3;165;3;15100;1;24;4
+459;77;2198;Français, Allemand;237;Evenementiel & Sponsoring;2;155;3;6800;1;12;4
+460;77;2198;Français, Allemand;222;Brevet fédéral de formateur;3;165;4;10661;1;24;4
+461;77;2198;Français, Allemand;222;Brevet fédéral de spécialiste en formation professionnelle;3;165;4;11790;1;24;4
+462;77;2198;Français, Allemand;222;Certificat FSEA de formateur/formatrice pratique;2;170;4;2800;1;12;4
+463;77;2198;Français, Allemand;222;Formation continue des formateurs en entreprises;2;170;4;800;1;5;3
+464;77;2198;Français, Allemand;248;Expert en production avec brevet fédéral;3;165;4;21680;1;24;4
+465;78;5938;Français;198;EMOGRAMME: Méthode de Gestion émotionnelle  pour les Adultes;2;155;2;150;1;1;3
+466;78;5938;Français;198;L'art du temps et de l'apprenance en entretien et en coaching;2;155;2;150;1;1;3
+467;78;5938;Français;198;Techniques d'entretien: Motivation, Engagement et Valeurs;2;155;2;150;1;1;3
+468;78;5938;Français;198;Outils et techniques de Coaching individuel  en entreprises et en institutions;2;155;2;150;1;1;3
+469;78;5938;Français;198;Techniques Entretien coaching: l'art du questionnement;2;155;2;150;1;1;3
+470;78;5938;Français;198;Cohésion cardiaque et gestion du stress;2;155;2;150;1;1;3
+471;78;5938;Français;198;Estime de soi, Identité professionnelle  et projet de vie en coaching;2;155;2;150;1;1;3
+472;78;5938;Français;198;Le bilan de compétences et l'analyse de l'activité  en formation et en coaching;2;155;2;150;1;1;3
+473;78;5938;Français;198;Techniques entretien coaching: conduire la séance;2;155;2;150;1;1;3
+474;78;5938;Français;198;Prévenir un burnout professionnel ou parental par le coaching;2;155;2;150;1;1;3
+475;78;5938;Français;198;Mindfulness, relaxation et pleine conscience  en coaching individuel;2;155;2;150;1;1;3
+476;78;5938;Français;198;Coaching scolaire ados/enfants, quels outils, quelles méthodes;2;155;2;150;1;1;3
+477;78;5938;Français;198;Coaching parental et familial, quels outils – quelles méthodes;2;155;2;150;1;1;3
+478;78;5938;Français;198;A la découverte de son projet de vie par le coaching;2;155;2;150;1;1;3
+479;78;5938;Français;198;MOGAMME cohérence cardiaque pour ados et enfants;2;155;2;150;1;1;3
+480;78;5938;Français;198;Affirmation de soi - Intelligence relationnelle en coaching;2;155;2;150;1;1;3
+481;78;5938;Français;198;Outils et méthodes de résolution de problèmes  et prise de décision en coaching;2;155;2;150;1;1;3
+482;78;5938;Français;198;Techniques d'entretien coaching:  Construire un dispositif de coaching et d'accompagnement;2;155;2;150;1;1;3
+483;78;5938;Français;198;Ecoute, Communication et cohérence cardiaque  Atelier formation - coaching;2;155;2;150;1;1;3
+484;78;5938;Français;198;Mind-Map, Intuition et créativité Outils et Méthodes;2;155;2;150;1;1;3
+485;84;6621;Français;255;CAS en Soins palliatifs et Personnes âgées;1;169;4;5200;1;12;4
+486;84;6621;Français;255;Formations en soins de plaies;2;170;4;4400;1;12;4
+487;84;6621;Français;255;CAS en Interventions basées sur la Pleine Conscience;1;169;4;6500;1;12;4
+488;84;6621;Français;255;CAS en Démences et troubles psychiques de la personne âgée;1;169;4;5200;1;12;4
+489;84;6621;Français;255;CAS HES-SO de Praticienne formatrice ou de Praticien formateur;1;169;4;600;1;12;4
+490;84;6621;Français;255;DAS en Santé des populations vieillissantes;1;180;4;1875;1;30;4
+491;85;6621;Français;255;DAS en Gestion et direction d'institutions éducatives,  sociales et socio-sanitaires;1;180;4;1500;1;24;4
+492;84;6621;Français;259;DAS en Médiation de conflits,  spécialisation dans le champ familial;1;180;4;2250;1;36;4
+493;85;6621;Français;255;MAS en Direction et stratégie d'institutions éducatives,  sociales et socio-sanitaires;1;193;4;1500;1;24;4
+494;84;6621;Français;259;Outils de l'approche centrée sur la solution  pour l'entretien pédagogique;2;202;2;200;1;2;3
+495;84;6621;Français;259;La place de l'évaluation dans la relation pédagogique  praticien-ne formateur-trice / étudiant-e;2;202;2;150;1;2;3
+496;84;6621;Français;254;Prise en charge des symptômes en soins palliatifs;2;202;2;150;1;2;3
+497;84;6621;Français;255;Bénévoles et professionnels en soins palliatifs :  leviers et freins à la collaboration;2;202;3;0;4;1;3
+498;84;6621;Français;259;L'occidentalisation de la méditation : bénéfices et limites;2;202;3;0;4;1;3
+499;84;6621;Français;254;S'initier à la simulation avec patient simulé/standardisé;2;202;4;950;1;3;3
+500;84;6621;Français;255;Mindfulness MBSR :  La réduction du stress basée sur la pleine conscience;2;202;3;820;1;3;4
+501;84;6621;Français;254;Maladie cœliaque, sensibilité non cœliaque  au gluten et FODMAPs;2;202;2;580;1;2;3
+502;84;6621;Français;254;Mindfulness et mindful eating;2;202;2;310;1;1;3
+503;84;6621;Français;254;Hormones et régulation pondérale;2;202;2;290;1;1;3
+504;84;6621;Français;254;Traitement physique des oedèmes;2;202;4;1610;1;6.5;3
+505;84;6621;Français;254;Gainage - Tronc;2;202;2;230;1;1;3
+506;84;6621;Français;254;Lymphologie;2;202;2;230;1;1;3
+507;84;6621;Français;254;Désencombrement des voies aériennes;2;202;2;575;1;2.5;3
+508;84;6621;Français;254;ABC des plaies : A - Peau saine et peau lésée;2;202;2;200;1;1;3
+509;84;6621;Français;254;ABC des plaies : B - Plaies chroniques et infections;2;202;2;200;1;1;3
+510;84;6621;Français;254;ABC des plaies : C - Plaies chirurgicales et traumatiques;2;202;2;200;1;1;3
+511;84;6621;Français;254;Formation à l’Examen clinique dans les Soins Infirmiers -  Session supplémentaire pour la spécificité de l’ainé;2;202;2;220;1;1;3
+512;86;6458;Français;253;Eclairage et collections sensibles à la lumière;2;155;2;700;1;2;3
+513;86;6421;Français;253;Conservation des naturalia: les collections en fluide;2;155;2;700;1;2;3
+514;86;6458;Français;253;Conditionnement;2;155;2;700;1;2;3
+515;86;351;Français;253;Les papiers japonais dans la restauration  des collections occidentales;2;155;2;950;1;3;3
+516;86;6458;Français;253;Mise en conservation et conditionnement des matériaux plastiques et des élastomères;2;155;2;700;1;2;3
+517;86;6458;Français;253;Prévention et contrôle des infestations biologiques;2;155;2;700;1;2;3
+518;86;6458;Français;253;Intervention de sauvetage des biens culturels en cas d'urgence;2;155;2;700;1;2;3
+519;86;6458;Anglais;253;A new electrolytic pencil for the local cleaning of  tarnished silver and gilded silver;2;155;2;1800;1;2;3
+520;86;6458;Français;223;CAS en administration judiciaire pénale;1;169;4;5900;1;12;4
+521;86;6458;Français;236;CAS pour la conduite des engagements de police à l'échelon d'officier;1;169;4;15000;1;24;4
+522;86;6458;Français;223;CAS en gestion du développement régional;1;169;4;6900;1;0;6
+523;86;6458;Français;223;CAS en gestion publique;1;169;2;6400;1;20;3
+524;86;6458;Français;223;CAS en investigation financière;1;169;4;8800;1;10;4
+525;86;6458;Français;223;CAS en investigation numérique;1;169;4;10500;1;6;4
+526;86;6458;Français;223;CAS en investigation numérique - Stations de travail;1;169;4;10500;1;6;4
+527;86;6458;Français;223;CAS en investigation numérique - Matériels nomades;1;169;4;10500;1;6;4
+528;86;6458;Français;223;CAS en investigation numérique - Réseau et live forensic;1;169;4;10500;1;6;4
+529;86;6458;Français;223;CAS en investigation numérique - Réparation et dessoudage;1;169;4;14000;1;6;4
+530;86;6458;Français;223;CAS en investigation numérique - Criminalité informatique;1;169;4;10500;1;6;4
+531;86;6458;Français;223;CAS pour la magistrature pénale;1;169;4;5900;1;9;4
+532;86;6458;Français;223;CAS en management judiciaire;1;169;4;7800;1;10;4
+533;86;6458;Français;237;CAS en marketing horloger;1;169;4;6900;1;6;4
+534;86;6458;Français;223;CAS Public affairs & lobbying;1;169;4;8900;1;9;4
+535;86;6458;Français;236;CAS en stratégie et management du système d'information;1;169;4;6200;1;7;4
+536;86;6458;Français;225;CAS en systèmes de gestion d'entreprises;1;169;4;6500;1;6;4
+537;86;6458;Français;254;CAS travail et santé;1;169;4;7200;1;8;4
+538;86;6458;Français;223;Généraliste en assurances sociales;2;170;3;950;1;4;4
+539;86;6458;Français;202;Généraliste en comptabilité et finance;2;170;3;950;1;6;4
+540;86;6458;Français;223;Généraliste en marchés financiers;2;170;3;950;1;6;4
+541;86;6458;Français;237;Généraliste en marketing et communication I;2;170;3;950;1;5;4
+542;86;6458;Français;237;Généraliste en marketing et communication II;2;170;3;950;1;4;4
+544;86;6458;Français;252;Généraliste en ressources humaines;2;170;3;950;1;5;4
+545;86;6458;Français;254;Généraliste en santé au travail;2;170;3;950;1;5;4
+546;86;6458;Français;202;Audit et fiscalité;2;170;3;500;1;2;4
+547;86;6458;Français;237;Le neuromarketing au service de la vente et de la publicité;2;170;3;950;1;5;4
+548;86;6458;Français;259;Spécialiste en assurances sociales;2;170;3;4200;1;12;4
+549;86;6458;Français;223;Séminaire de révision des examens  du brevet en assurances sociales;2;202;3;950;1;3;4
+550;86;6458;Français;262;Spécialiste en logistique/achats;4;170;3;4800;1;10;4
+551;86;6458;Français;186;Spécialiste en achats;4;170;3;2800;1;7;4
+552;86;6458;Français;252;Préparation au diplôme fédéral de responsable RH;4;170;4;17000;1;24;4
+553;86;6458;Français;232;Préparation au diplôme "Business English Certificate Vantage";2;202;3;790;1;6;4
+554;86;6458;Français;232;Préparation au diplôme "Wirtschaftsdeutsch international";2;202;3;790;1;7;4
+555;86;6458;Français;232;Russe des affaires;2;202;3;950;1;4;4
+556;86;6458;Français;232;Préparation aux certificats de langue russe TRKI1 et TRKI2;2;202;3;950;1;4;4
+557;86;6458;Français;228;MAS-CH Formation horlogère;1;193;4;24000;1;30;4
+558;86;6458;Français;231;MAS Rapid application development;1;193;4;24000;1;30;4
+559;90;6458;Français;231;MAS Information and Communication technologies;1;193;4;0;4;36;4
+560;86;6458;Français;231;CAS en sécurité embarquée;1;169;3;5500;1;6;4
+561;86;6458;Français;231;Métrologie et ingénierie de la qualité;2;170;4;10000;1;6;4
+562;86;6458;Français;254;DAS Spécialiste en soins palliatifs;1;180;4;10000;1;18;4
+563;86;6458;Français;254;CAS Soins palliatifs;1;169;4;4200;1;9;4
+564;86;6458;Français;255;Décider d'hydrater ou ne pas hydrater en phase terminale  de la vie : regards interdisciplinaires?;2;202;2;250;1;1;3
+565;86;6458;Français;255;Douleur et souffrance des personnes très agées : des outils pour évaluer, soulager et traiter;2;202;2;500;1;2;3
+566;86;6458;Français;255;Mourir très âgé en hébergement de long séjour : analyser sa pratique pour un meilleur accompagnement;2;202;2;500;1;2;3
+567;86;6458;Français;224;CAS Gestion d'équipe et conduite de projet;1;169;4;5700;1;11;4
+568;86;6458;Français;254;Travailler en santé;2;202;2;500;1;2;3
+569;86;6458;Français;254;CAS Praticien formateur région ARC-FRI;1;169;4;450;1;12;4
+570;86;6458;Français;254;Inititation à l'examen clinique pour le public des infirmiers;2;202;2;500;1;2;3
+571;86;6458;Français;254;L'examen clinique par système;2;202;2;500;1;2;3
+572;86;6458;Français;254;Modélisation de l'entrevue structurée et de l'état mental;2;202;2;250;1;1;3
+573;86;6458;Français;255;Mobiliser les ressources et les compétences des individus  et des familles;2;202;2;500;1;2;3
+574;86;6458;Français;254;La violence, un problème de santé publique;2;202;2;500;1;2;3
+575;86;6458;Français;255;Proposer une démarche globale d'accompagnement de  la personne présentant une démence de type Alzheimer;2;202;2;500;1;2;3
+576;86;6458;Français;255;Les transmissions ciblées : ue méthode de travail commune pour traduire les informations pertinentes et agir avec efficacité;2;202;3;550;1;3;3
+577;86;6458;Français;255;Regards croisées sur le dossier de soins informatisé;2;202;2;500;1;2;3
+578;86;6458;Français;255;Spiritualité, vulnérabilité et qualité des soins;2;202;2;500;1;2;3
+579;86;6458;Français;254;Qualité et sécurité des soins : état des lieux dans une visée EBN;2;202;2;250;1;1;3
+580;94;6608;Français;223;Executive MBA Genève;1;186;4;24000;1;24;4
+581;94;6608;Français;236;MAS Management de la sécurité et des systèmes d'information;1;193;4;17500;1;18;4
+582;94;6608;Français;236;MAS Management du luxe;1;193;4;28000;1;24;4
+583;94;6608;Français;225;DAS Gestion des risques d'entreprise;1;180;4;9900;1;10;4
+584;94;6608;Français;236;DAS Management durable;1;180;4;10600;1;10;4
+585;94;6608;Français;261;DAS Intelligence économique et veille stratégique;1;180;4;10700;1;10;4
+586;87;6608;Français;201;DAS Responsable communication;1;180;4;9500;1;10;4
+587;87;6608;Français;224;CAS Management de projet appliqué;1;169;4;6700;1;7;4
+588;87;6608;Français;223;CAS Business analyse;1;169;4;8700;1;7;4
+589;87;6608;Français;223;CAS Audit interne;1;169;4;8200;1;7;4
+590;87;6608;Français;236;CAS Capmanager;1;169;4;8000;1;16;4
+591;87;6608;Français;258;PME-RISC - Gérer les risques, la sécurité de l’information  et la conformité dans les PME;2;202;4;1800;1;3;3
+592;87;6608;Anglais;258;SANS® Essentials Bootcamp Style;2;170;4;0;4;6;3
+593;87;6608;Français;258;SANS® +S Training Program for the CISSP® Certification Exam;2;170;4;0;4;6;3
+594;87;6608;Français;230;Mise à niveau pour développeur Java;2;202;4;1500;1;5;3
+595;87;6608;Français;230;Impact des décisions informatiques;2;202;2;1800;1;2;3
+596;87;6608;Français;187;Secrétariat - Perfectionnement;2;202;4;4700;1;6;4
+597;117;6621;Anglais;218;DAS Community trading (with UNIGE);1;180;4;16000;1;12;4
+598;94;6621;Français;236;CAS Spécialiste en insertion professionnelle (avec HES SO);1;169;4;5700;1;10;4
+599;94;6621;Français;198;CAS Job coaching et placement d'actifs (avec HES SO);1;169;4;5700;1;10;4
+600;87;6621;Français;236;CAS Conception et direction de programmes d'insertion  (avec HES SO);1;169;4;5700;1;10;4
+601;87;6621;Français;236;CAS Management d'entreprises de l'économie sociale  et solidaire (avec HEG Fribourg);1;169;4;6800;1;12;4
+602;94;6621;Français;223;CAS Travail santé et gestion : entre défis et innovations (avec HES SO);1;169;4;6200;1;12;4
+603;95;5938;Français;236;Spécialiste Systèmes de management et gestion des processus;2;202;4;3000;1;3;4
+604;95;5938;Français;219;Spécialiste écobilan et écoconception;2;202;4;3000;1;3;4
+605;95;5938;Français;219;Spécialiste Efficacité énergétique et gestion des émissions de CO2;2;202;4;2500;1;1;4
+606;95;5938;Français;259;Spécialiste Responsabilité sociale;2;202;4;2500;1;2;4
+607;95;5938;Français;219;Droit de l'environnement - Les sites contaminés;2;202;2;590;1;1;3
+609;95;5938;Français;219;Droit de l'environnement - Le bruit;2;202;2;590;1;1;3
+610;95;5938;Français;219;Stratégie environnementale - Développement durable;2;202;2;590;1;1;3
+611;95;5938;Français;219;Stratégie environnementale - Ecobilan et analyse cycle de vie;2;202;2;1120;1;2;3
+612;95;5938;Français;219;Stratégie environnementale - Gestion des eaux/déchets…;2;202;2;1120;1;2;3
+614;95;5938;Français;219;Stratégie environnementale - Innovation produit;2;202;2;1120;1;2;3
+615;95;5938;Français;219;Stratégie environnementale - Ecologie et symbioses industrielles;2;202;2;590;1;1;3
+616;95;5938;Français;259;Responsabilité sociale - Enjeux, premiers pas;2;202;2;590;1;1;3
+621;95;5938;Français;219;Efficacité énergétique - Réduire consommation énergie;2;202;2;590;1;1;3
+622;95;5938;Français;219;Efficacité énergétique - Gestion émissions CO2 entreprises;2;202;2;1120;1;2;3
+623;95;5938;Français;219;Efficacité énergétique - Gestion de la mobilité;2;202;2;1120;1;2;3
+624;95;5938;Français;236;Système de management - QES;2;202;2;1120;1;2;3
+625;95;5938;Français;236;Système de management - Des outils informatiques efficaces;2;202;2;590;1;1;3
+626;95;5938;Français;236;Système de management - Optimisation, mise en œuvre;2;202;2;1120;1;2;3
+628;95;5938;Français;236;Système de management - Marketing et communication;2;202;2;1120;1;2;3
+629;95;5938;Français;236;CAS Entrainement au leardership;1;169;4;7300;1;9;4
+630;95;5938;Français;219;CAS Energies renouvelables : Techniques et applications;1;169;4;9500;1;18;4
+631;95;5586;Français;223;CAS Finance d'entreprise avancée;1;169;4;9000;1;12;4
+632;95;2196;Français;223;CAS Gestion publique locale;1;169;4;7950;1;12;4
+634;95;5938;Français;219;CAS Manager en Développement Durable :  Stratégie et Performance;1;169;4;7900;1;12;4
+635;95;5938;Français;258;CAS Protection incendie des bâtiments;1;169;4;7000;1;9;4
+636;95;5938;Français;219;CAS Rénovation des bâtiments à  hautes performances énergétiques et environnementales;1;169;4;5000;1;4;4
+637;95;5586;Français;258;CAS en Gestion stratégique de la sécurité / sûreté en entreprise;1;169;4;10500;1;12;4
+638;95;5586;Français;223;CAS Systèmes de gestion d'entreprise;1;169;4;6500;1;6;4
+639;95;5586;Français;236;EMBA Leader - Manager responsable;1;186;4;22000;1;6;4
+640;95;5586;Français;219;MAS Energie et développement durable  dans l'environnement bâti;1;193;4;12500;1;36;4
+641;95;5938;Français;236;MAS Human Capital Management;1;193;4;19500;1;24;4
+642;95;5938;Français;236;MAS Human Systems Engineering;1;193;4;26500;1;0;6
+643;95;5938;Français;236;MAS Information and Communication Technologies;1;193;4;23000;1;24;4
+644;95;5586;Français;231;MAS Ingénierie de la mobilité;1;193;4;19500;1;40;4
+645;95;5938;Anglais;231;Swiss MAS Nano- and Micro Technology;1;193;4;12000;1;0;6
+646;95;5586;Français;236;MAS Quality & Strategy Management;1;193;4;26500;1;30;4
+647;95;5938;Français;231;MAS RAD - Rapid Application Development;1;193;4;23000;1;30;4
+648;88;6621;Français;241;CAS en pédagogie Dalcrozienne;1;169;4;4250;1;16;4
+649;88;6621;Français;241;CAS en perfectionnement instrument et/ou vocal;1;169;4;6000;1;12;4
+650;88;6621;Français;241;CAS en musique de chambre;1;169;4;7500;1;0;6
+651;88;6458;Français;241;CAS en gestion de projets culturels et musicaux;1;169;4;4500;1;12;4
+652;88;6621;Français;241;DAS en pratique d'orchestre;1;180;4;4500;1;12;4
+653;89;6621;Français;204;CAS Nature en ville;1;169;4;5500;1;12;4
+654;89;5938;Français;204;CAS Revitalisation des cours d'eau;1;169;4;4800;1;8;4
+655;89;5586;Français;204;CAS Planification et Gestion de Projets;1;169;4;5000;1;5;4
+656;89;6621;Français;204;CAS Territoires Urbains et Énergie;1;169;4;5000;1;5;4
+657;89;6621;Français;204;Environnement des constructions;1;169;4;7250;1;12;4
+658;89;6621;Français;195;CAS Phytobenthos – Plantes aquatiques et algues;1;169;4;7000;1;18;4
+659;89;6621;Français;195;Poissons d’eau douce d’Europe – Ecologie et gestion;1;169;4;6800;1;18;4
+660;89;6621;Français;195;CAS Biologie, identification et gestion des Mammifères;1;169;4;6700;1;15;4
+661;89;6621;Français;195;CAS Floristique et analyse de la végétation;1;169;4;7000;1;0;6
+662;89;6621;Français;195;CAS MacroZooBenthos;1;169;4;7000;1;0;6
+665;89;6621;Français;195;CAS Biotechnologie;1;169;4;3800;1;12;4
+666;90;5586;Français;209;MAS en Design for Luxury and Craftsmanship;1;193;4;8000;1;10;4
+667;90;5586;Français;209;MAS en Design Research for Digital Innovation;1;193;4;8000;1;24;4
+668;91;5586;Français;261;MAS en Direction et stratégie d'institutions éducatives,  sociales et socio-sanitaires;1;193;4;24400;1;36;4
+669;90;5586;Français;231;MAS System engineering;1;193;4;25000;1;0;6
+670;90;5586;Français;212;MAS en Lutte contre la criminalité économique;1;193;4;22000;1;24;4
+671;90;6458;Français;237;MAS en Marketing Management;1;193;4;19500;1;30;4
+672;91;6621;Français;259;MAS en Direction et stratégie d'institutions éducatives,  sociales et socio-sanitaires;1;193;4;24400;1;36;4
+673;92;5586;Anglais;187;EMBA Hospitality administration;1;186;4;50000;1;13;4
+674;90;6248;Français;267;EMBA Innovation touristique;1;186;4;18500;1;20;4
+675;90;2196;Français, Anglais;236;EMBA Integrated management;1;186;4;27000;1;18;4
+677;90;5586;Français;254;Action communautaire et promotion de la santé;1;180;4;13700;1;24;4
+678;90;6248;Français;254;DAS en physiothérapie du sport;1;180;4;13700;1;24;4
+679;90;5586;Français;254;DAS Santé des populations vieillissantes;1;180;4;0;4;30;4
+680;90;6248;Français;254;DAS Soins urgents, soins aigus;1;180;4;16200;1;24;4
+681;91;6621;Français;255;DAS en gestion et direction d'institutions éducatives,  sociales et socio-sanitaires;1;180;4;16900;1;24;4
+682;90;6621;Français;259;DAS en conseil conjugal;1;180;4;9200;1;24;4
+683;91;6621;Français;259;DAS en intervention systémique dans l'action sociale;1;180;4;11700;1;24;4
+684;90;6621;Français;259;DAS en Médiation de conflits,  spécialisation dans le champ familial;1;180;4;11600;1;36;4
+685;90;6621;Français;259;DAS en protection de l'enfance et de l'adolescence;1;180;4;6075;1;24;4
+686;90;6621;Français;259;DAS en santé sexuelle;1;180;4;13000;1;24;4
+687;90;6621;Français;259;DAS dans l'action sociale, éducative, psychosociale et de la santé;1;180;4;12200;1;24;4
+688;90;6621;Français;209;CAS Visible ou invisible;1;169;4;4500;1;12;4
+689;90;6621;Français;237;Entrepreneurship and Self marketing for young designers;1;169;4;3600;1;4;4
+690;90;2196;Français;219;CAS Analyse énergétique des batiments;1;169;4;5500;1;0;6
+691;90;2196;Français;219;CAS Cité de l'énergie;1;169;4;5500;1;0;6
+692;97;6621;Français;270;CAS Espace public urbain, mobilité douce;1;169;4;6200;1;6;4
+693;90;5586;Français;226;CAS en expertise technique dans l'immobilier;1;169;4;5000;1;9;4
+694;90;2196;Français;204;CAS Génie parasismique;1;169;4;5000;1;12;4
+695;90;2196;Français;204;CAS Management de projets de construction;1;169;4;7700;1;12;4
+696;90;5586;Français;267;CAS Mobilité de loisirs, touristique, événementielle;1;169;4;4000;1;6;4
+697;90;5586;Français;270;CAS Planification et gestion de la mobilité;1;169;4;6000;1;6;4
+698;90;5586;Français;270;CAS Espace public et mobilités douces;1;169;4;6000;1;6;4
+699;90;5586;Français;269;CAS Transports collectifs;1;169;4;6000;1;6;4
+700;90;5586;Français;270;CAS Services et technoogies pour la mobilité durable;1;169;4;4000;1;6;4
+701;90;2196;Français;231;CAS Qualité de l'air intérieur;1;169;4;7800;1;0;6
+702;90;6458;Français;230;CAS Introduction à la programmation de logiciels libres;1;169;4;5500;1;6;4
+703;90;6458;Français;230;CAS Développement d'applications Web;1;169;4;5500;1;6;4
+704;90;6458;Français;230;CAS Développement d'applications riches;1;169;4;5500;1;6;4
+705;90;6458;Français;230;CAS Génie logiciel et méthodes agiles;1;169;4;5500;1;6;4
+706;95;5938;Français;231;CAS IT Interceptor;1;169;4;15500;1;6;4
+707;90;2196;Français;219;CAS Efficience énergétique industrielle;1;169;4;6000;1;12;4
+708;90;2196;Français;219;CAS Energie électrique - Gestion du réseau;1;169;4;12200;1;12;4
+709;90;2196;Français;231;CAS Génie ferroviaire - Installations de sécurité;1;169;4;12200;1;12;4
+710;90;2196;Français;231;CAS Génie ferroviaire - Installations électriques;1;169;4;5700;1;12;4
+711;90;2196;Français, Allemand;231;CAS Génie ferroviaire - Voies ferrées;1;169;4;4800;1;0;6
+712;90;6266;Français;255;CAS en arts et techniques hypnotiques dans la santé  et le travail social;1;169;4;6100;1;18;4
+713;90;6266;Français;254;CAS douleur et approches interdisciplinaires;1;169;4;5700;1;12;4
+714;90;6266;Français;254;CAS Psychiatrie;1;169;4;5700;1;12;4
+715;90;6266;Français;255;CAS Psychiatrie de la personne âgée / Psychogériatrie;1;169;4;5700;1;12;4
+716;90;6266;Français;255;CAS Qualité des soins et conseils;1;169;4;6100;1;12;4
+717;90;6266;Français;254;CAS Réhabilitation du sportif;1;169;4;5800;1;12;4
+718;90;6266;Français;254;CAS en soins continus;1;169;4;6300;1;12;4
+719;90;5586;Français;254;CAS Evaluation clinique infirmière;1;169;4;6500;1;0;6
+720;90;5586;Français;255;CAS Aspects et soins médico-légaux  dans le domaine de la violence interpersonnelle;1;169;4;4400;1;0;6
+721;90;5586;Français;254;CAS Intégration des savoirs scientifiques  dans les pratiques professionnelles de la santé;1;169;4;6000;1;18;4
+722;90;5586;Français;254;CAS Interventions spécifiques de l'infirmier de santé au travail;1;169;4;6500;1;12;4
+723;90;5586;Français;255;CAS Leadership éthique et responsabilité professionnelle  dans les organisations de soins;1;169;4;4400;1;12;4
+724;90;5586;Français;254;CAS Liaison et orientation dans les réseaux de soins;1;169;4;6000;1;0;6
+725;90;6621;Français;236;CAS en médiation de conflits;1;169;4;5400;1;10;4
+726;90;5586;Français;255;CAS Migration et sociétés plurielles;1;169;4;4900;1;0;6
+727;98;5586;Français;254;CAS en neuroréhabilitation;1;169;4;6500;1;12;4
+728;98;5586;Français;254;CAS en physiothérapie cardiorespiratoire;1;169;4;6500;1;12;4
+729;98;5586;Français;254;CAS en Pratique de l'endoscopie;1;169;4;6500;1;12;4
+730;98;5586;Français;254;CAS en Pratique de l'imagerie médicale: nouvelles technologies  et dynamique de l'information;1;169;4;5250;1;0;6
+731;98;5586;Français;255;CAS en Santé materno-infantile dans les crises humanitaires;1;169;4;4500;1;12;4
+732;98;5586;Français;254;CAS en soins à l'enfant en milieu hospitalier;1;169;4;4700;1;12;4
+733;98;5586;Français;254;CAS en soins aux nouveaux-nés à risque;1;169;4;6500;1;0;6
+734;98;5586;Français;254;CAS en soins aux personnes à insuffisance rénale;1;169;4;6500;1;10;4
+735;98;5586;Français;254;CAS en utilisation de la simulation dans le domaine de la santé;1;169;4;6500;1;12;4
+736;93;2196;Français;254;CAS HES-SO en psychogériatrie;1;169;4;0;4;18;4
+737;93;2196;Français;254;CAS HES-SO en gestion de la douleur selon la théorie  de gestion des symptômes;1;169;4;4900;1;12;4
+738;93;2196;Français;254;CAS HES-SO en soins de cardiologie;1;169;4;6700;1;18;4
+739;90;6248;Français;198;CAS en job coaching et placement d'actifs;1;169;4;6000;1;0;6
+740;90;5938;Français;259;CAS Acteurs et systèmes;1;169;4;6800;1;6;4
+741;90;5938;Français;259;CAS Pilotage et performance;1;169;4;6800;1;6;4
+742;90;5938;Français;236;CAS Ressources et développement;1;169;4;6800;1;6;4
+743;90;5938;Français;236;CAS Leadership et grands challenges;1;169;4;8000;1;6;4
+744;90;5938;Français;236;CAS The organisation - the living system;1;169;4;8000;1;6;4
+745;90;5938;Français;198;CAS Communication & coaching;1;169;4;8000;1;6;4
+746;90;5938;Français;236;CAS Entrainement au leadership;1;169;4;7800;1;8;4
+747;100;5586;Français;190;Animation et médiation théâtrale;1;169;4;7000;1;18;4
+748;100;5586;Français;190;Dramaturgie;1;169;4;3000;1;10;4
+749;96;5586;Français;190;CAS Coprofessionnalisant en éducation musicale d'inspiration Willems;1;169;4;12000;1;24;4
+750;96;5586;Français;190;CAS en perfectionnement instrument et/ou vocal;1;169;4;6000;1;12;4
+751;96;5586;Français;190;DAS en direction des écoles de musique;1;169;4;12000;1;12;4
+752;99;5586;Français;259;CAS Aide et conseils aux victimes d'infraction;1;169;4;1700;1;8;4
+753;99;6621;Français;259;CAS en approche centrée sur la solution;1;169;4;5000;1;12;4
+754;99;6621;Français;259;CAS en protection de l'enfance et de l'adolescence;1;169;4;5325;1;12;4
+755;99;5586;Français;259;CAS Santé sexuelle : approches de prévention et promotion;1;169;4;5200;1;12;4
+756;99;6621;Français;259;CAS Spécialisation en gestion des dettes;1;169;4;5500;1;10;4
+757;101;6621;Français;259;Approche centrée sur la solution, un nouveau paradigme pour les relations d'aide;2;202;2;750;1;3;3
+758;101;6621;Français;259;Introduction à l'intelligence collective et  à l'intervention communautaire;2;202;2;750;1;3;3
+759;101;6621;Français;259;Le soutien à la parentalité à l'épreuve du quotidien;2;202;2;500;1;2;3
+760;101;6621;Français;259;Santé sexuelle et droits sexuels;2;202;2;500;1;2;3
+761;101;6621;Français;259;Danser la relation;2;202;2;250;1;1;3
+762;101;6621;Français;259;Surmonter les conflits et les crises : comment en sortir?;2;202;2;750;1;3;3
+763;101;6621;Français;259;Insertion professionnelle approche collective;2;202;2;750;1;3;3
+764;101;6621;Français;259;L'animation d'espaces d'écoute, de parole et de liens I;2;202;2;750;1;3;3
+765;101;6621;Français;259;Asile: rôle et fonctionnement des institutions suisses;2;202;2;250;1;1;3
+766;101;6621;Français;259;Analyse de situation et mise en place d'un projet;2;202;2;250;1;1;3
+767;101;6621;Français;259;Diversité et genres : quelles articulations?;2;202;2;250;1;1;3
+768;101;6621;Français;259;Migrations dans le travail du sexe ;2;202;2;250;1;1;3
+769;101;2196;Français;259;Aide aux victimes de la traite humaine;2;202;2;250;1;1;3
+770;101;6621;Français;259;La systémique pour mieux intervenir;2;202;2;750;1;3;3
+771;101;6621;Français;259;Approche centrée sur la solution, un nouveau paradigme pour les relations d'aide;2;202;2;750;1;3;3
+772;101;6621;Français;259;Relations éducatives au sein et autour de l'école;2;202;2;500;1;2;3
+773;101;6621;Français;259;Représentations et rapport à l'argent dans le travail social;2;202;2;500;1;2;3
+774;101;6621;Français;259;Les techniques d'impact pour concilier interventions  socio-éducatives et créativité;2;202;2;250;1;1;3
+775;101;6621;Français;259;Le nouveau droit de la protection de l'adulte;2;202;2;500;1;2;3
+776;101;6621;Français;259;Aider par la parole: améliorer sa posture et ses outils;2;202;2;750;1;3;3
+777;101;6621;Français;259;Budget et gestion de dettes: outils à l'intervention professionnelle;2;202;2;750;1;3;3
+779;101;6621;Français;259;Dynamiques relationnelles en classe, avec les parents;2;202;2;750;1;2;3
+780;101;6621;Français;259;Analyse de pratique et supervision: similitudes et différences;2;202;2;500;1;2;3
+781;101;6621;Français;259;Initiation au montage vidéo;2;202;2;1000;1;4;3
+782;101;6621;Français;259;Atelier d'initiation à l'usage de l'autohypnose;2;202;2;500;1;2;3
+783;101;6621;Français;259;Analyse de sa pratique professionnelle;2;202;2;750;1;3;3
+784;101;6621;Français;259;Créativité de l'agir professionnel;2;202;2;750;1;3;3
+785;101;6621;Français;259;Projets intergénérationnels: échanges de bonnes pratiques;2;202;2;250;1;1;3
+786;101;6621;Français;259;Prévention, sécurité et travail en réseau;2;202;2;375;1;1.5;3
+787;101;6621;Français;259;"Publiquement intime": comprendre les usages adolescents  des médias sociaux;2;202;2;500;1;2;3
+788;101;6621;Français;259;Bien et maltraitance en milieu institutionnel;2;202;2;500;1;2;3
+789;101;6621;Français;259;Se mettre en scène dans le jeu professionnel et social;2;202;2;500;1;2;3
+790;101;6621;Français;259;La communication constructive - L'art de mieux communiquer;2;202;2;750;1;3;3
+791;101;6621;Français;259;Les adolescents et la mort comprendre et agir;2;202;2;500;1;2;3
+792;101;6621;Français;259;Prise de risque ou risque zéro?;2;202;2;500;1;2;3
+793;101;6621;Français;259;Animation et culture, réflexions sur l'animation centres culturels;2;202;2;750;1;3;3
+794;101;6621;Français;259;Sensibilisation à l'approche interactionnelle de palo alto;2;202;2;500;1;2;3
+795;101;6621;Français;259;Le cycle du développement de l'autonomie en analyse transactionnelle;2;202;2;750;1;3;3
+796;101;6621;Français;259;L'animation d'espaces d'écoute, de parole et de liens II;2;202;2;750;1;3;3
+797;101;6621;Français;259;Pour mieux prendre soin d'autrui, prenez soin de vous;2;202;2;750;1;3;3
+798;101;6621;Français;259;Rapport à l'argent et gestion de dettes;2;202;2;750;1;3;3
+799;101;6621;Français;259;L'état de présence dans la relation;2;202;2;500;1;2;3
+800;101;6621;Français;259;L'approfondissement en éthique u travail social;2;202;2;250;1;1;3
+801;101;6621;Français;259;Vers une esquisse de dialogue entre psychanalyse et neurosciences;2;202;2;500;1;2;3
+802;101;6621;Français;259;Limites et pièges dans la relation d'aide;2;202;2;750;1;3;3
+803;101;6621;Français;250;Trouble de l'acquisition de la coordination ou dyspraxie développementale : approche théorico clinique;2;202;2;250;1;1;3
+804;101;6621;Français;250;La batterie d'évaluations des fonctions neuropsychomotices de l'enfant;2;202;2;500;1;2;3
+805;101;6621;Français;259;Travailler professionnellement avec ses émotions;2;202;2;750;1;3;3
+806;101;6621;Français;246;Animation, manipulation, création de scénarios de marionnettes;2;202;2;1010;1;4;3
+807;101;6621;Français;259;Comment travailler la conscience avec les enfants grâce à la  prise en compte de leurs émotions?;2;202;2;500;1;2;3
+808;101;6621;Français;259;Le droit de la famille en cas de séparation;2;202;2;375;1;1.5;3
+809;101;6621;Français;246;Construire des ateliers gourmands pour tout-petits;2;202;2;560;1;2;3
+810;101;6621;Français;241;Avec la musique dans un groupe, tout se joue!;2;202;2;775;1;3;3
+811;101;6621;Français;241;Ne tournons pas seulement en rond - Danser (2 à 4 ans);2;202;2;750;1;3;3
+812;101;6621;Français;259;Intervision entre cadres: un espace pour développer l'intelligence collective;2;202;2;500;1;2;3
+813;101;6621;Français;241;Chantons au rythme des saisons;2;202;2;500;1;2;3
+814;101;6621;Français;210;Comment gérer mon énergie tout au long de la journée;2;202;2;500;1;2;3
+815;101;6621;Français;259;La poupée de Timothée et le camion de Lison - dépasser les  stéréotypes du genre;2;202;2;500;1;2;3
+816;101;6621;Français;246;La prise de risque en IPE;2;202;2;250;1;1;3
+817;101;6621;Français;246;Pourquoi et comment intégrer des activités de détente pour 0-4 ans;2;202;2;750;1;3;3
+818;101;6621;Français;246;Le bébé, ses parents et les professionnels: comprendre pour aider;2;202;2;750;1;3;3
+819;101;6621;Français;246;Le bébé, une aventure au quotidien 1, les deux premieres années;2;202;2;500;1;2;3
+820;101;6621;Français;246;Le bébé, une aventure au quotidien ;2;202;2;1500;1;6;3
+821;101;6621;Français;246;"Bouger futé";2;202;2;750;1;3;3
+822;101;6621;Français;210;Estime de soi, confiance et affirmation de soi;2;202;2;500;1;2;3
+823;101;6621;Français;210;De l'agressivité nécessaire pour grandir à la violence qui détruit;2;202;2;500;1;2;3
+824;101;6621;Français;210;La place de l'humour dans la relation professionnelle;2;202;2;500;1;2;3
+825;101;6621;Français;246;Sensibilisation à l'accueil des enfants en groupes multiages;2;202;2;500;1;2;3
+826;101;6621;Français;246;Le bébé, une aventure au quotidien: observation des bébés;2;202;2;500;1;2;3
+827;101;6621;Français;259;Jeux traditionnels au service des apprentissages;2;202;2;750;1;3;3
+828;101;6621;Français;259;Quand il ne comprend pas, qu'est ce que je change ?;2;202;2;750;1;3;3
+829;101;6621;Français;246;Initiation à la psychologie des jumeaux;2;202;2;250;1;1;3
+830;101;6621;Français;246;Les techniques d'entretien dans la petite enfance;2;202;2;750;1;3;3
+831;101;6621;Français;246;Les ateliers RIEN: espaces de créativité;2;202;2;750;1;3;3
+832;101;6621;Français;246;Ateliers d'activités manuelles et créatrices;2;202;2;750;1;3;3
+833;101;6621;Français;246;Le bébé, une aventure au quotidien 3;2;202;2;500;1;2;3
+834;101;6621;Français;246;Cadre éducatif: entre règles de vies et sanctions;2;202;2;500;1;2;3
+835;101;6621;Français;246;Collaboration entre éducatrices de l'enfance et assistants socio éducatifs: déléguer ou coopérer ?;2;202;2;500;1;2;3
+836;101;6621;Français;246;Petite terre en partage: le role de la nature;2;202;2;765;1;3;3
+837;101;6621;Français;246;Observer l'enfant: niveau I;2;202;2;500;1;2;3
+838;101;6621;Français;246;Aider les enfants en difficulté: la musique en crèche;2;202;2;750;1;3;3
+839;101;6621;Français;246;Le vrai héros, c'est qui? Soutien pédagogique pour enfant;2;202;2;500;1;2;3
+840;101;6621;Français;236;L'art de déléguer et dévlopper l'autonomie de ses collaborateurs;2;202;2;500;1;2;3
+841;101;6621;Français;246;Le bébé, un corps en jeu;2;202;2;750;1;3;3
+842;101;6621;Français;246;B comme bébé, A comme adulte, L comme livre;2;202;2;750;1;3;3
+843;101;6621;Français;201;La force de l'attitude dans la communication;2;202;2;750;1;3;3
+844;101;6621;Français;236;Les épreuves du travail des cadres;2;202;2;500;1;2;3
+845;101;6621;Français;246;Les histoires: si on les racontait autrement?;2;202;2;750;1;3;3
+846;101;6621;Français;259;Stress et vie en collectivité: identifier les déclencheurs;2;202;2;750;1;3;3
+847;101;6621;Français;246;Eduquer ensemble au quotidien;2;202;2;750;1;3;3
+848;101;6621;Français;252;Bien vivre les relationsinterpersonnelles dans l'équipe;2;202;2;750;1;3;3
+849;101;6621;Français;210;Eduquer au bien être et à la joie;2;202;2;500;1;2;3
+850;101;6621;Français;210;Entre compétences et dépendances: penser l'autonomie dans IPE;2;202;2;750;1;3;3
+851;101;6621;Français;210;La sécurité dans son for intérieur;2;202;2;750;1;3;3
+852;101;6621;Français;246;Coucou c'est ma maison. Jeux et enjeux cabanes chez l'enfant;2;202;2;500;1;2;3
+853;101;6621;Français;210;Gérer son stress professionnel et gagner en énergie positive;2;202;2;750;1;3;3
+854;101;6621;Français;210;Développement psychomoteur et choix des objets à la crèche;2;202;2;750;1;3;3
+855;101;6621;Français;246;L'album: tout un monde !;2;202;2;750;1;3;3
+856;103;5591;Français;222;CAS Animation de sessions de formation;1;169;4;3500;1;0;6
+857;103;5591;Français;222;Conception et animation de dispositifs de formation d'adultes;1;169;4;7600;1;10;4
+858;103;5591;Français;222;Reconnaissance et validation des acquis d'expérience;1;169;4;5050;1;11;4
+859;103;5591;Français;222;Formateur, Formatrice à la pratique professionnelle ES;1;169;4;2250;1;18;4
+860;103;5591;Français;222;Bases de l'accompagnement dans la formation  des responsables de la formation professionnelle;1;169;4;4100;1;11;4
+861;103;5591;Français;260;Accompagnement clinique en soins spécialisés;1;169;4;4100;1;10;4
+862;103;5591;Français;222;Encadrement individuel;1;169;4;4100;1;10;4
+863;103;5591;Français;259;Mesures de soutien pédagogique;1;169;4;4100;1;12;4
+864;103;5591;Français;222;Soutien et accompagnement en formation professionnelle initiale;1;169;4;11850;1;0;6
+865;103;5591;Français;222;Praticien formateur, Praticienne formatrice ES;1;169;4;1500;1;7;4
+866;103;5591;Français;222;Spécialisation en formation professionnelle;1;180;4;1850;1;0;6
+936;104;0;Français;202;Formation comptable;3;181;1;0;4;12;4
+937;104;0;Français;202;Formation d'aide comptable;3;181;1;0;4;8;4
+938;104;0;Français;202;Formation de comptabilité pour indépendant;3;181;1;0;4;8;4
+939;104;0;Français;202;Formation de spécialiste en gestion et comptabilité;3;181;1;0;4;0;6
+940;104;0;Français;202;Brevet fédéral de spécialiste en finance et comptabilité;3;165;1;0;4;36;4
+941;104;0;Français;252;Assistant en gestion du personnel;2;170;1;0;4;0;6
+942;104;0;Français;223;Certification intermédiaire d'assurance AFA;2;170;1;0;4;0;6
+943;102;2196;Français;188;Jardiner cool, enfin ma rotation de cultures est optimale;2;202;3;130;1;2;3
+944;102;2196;Français;188;Endives et poireaux;2;202;3;100;1;1;3
+945;102;2196;Français;188;Variations autour du poulet;2;202;3;110;1;1;3
+946;102;2196;Français;188;Rôtis, ragouts, émincés : de savoureux mijotés revisités;2;202;3;110;1;1;3
+947;102;2196;Français;188;Œufs en chocolat garnis de pralinés;2;202;3;120;1;1;3
+948;102;2196;Français;188;Le jardinage sur bottes de paille;2;202;3;90;1;1;3
+949;102;2196;Français;188;Terre de printemps;2;202;3;110;1;1;3
+950;102;2196;Français;206;Pâte levée : cuchaule et mouatrde de Bénichon;2;202;3;120;1;1;3
+951;102;2196;Français;206;Caissettes d'été variées;2;202;3;90;1;1;3
+952;102;2196;Français;206;Les carpaccios;2;202;3;110;1;1;3
+953;102;2196;Français;206;Glaces, sorbets et parfaits;2;202;3;100;1;1;3
+954;102;2196;Français;206;Buffet dinatoire au jardin;2;202;3;120;1;1;3
+955;102;2196;Français;206;Confitures;2;202;3;120;1;1;3
+956;102;2196;Français;264;Créer son propre logo;2;202;4;120;1;2;3
+957;102;2196;Français;188;Les documents en cas d'urgence, accident ou décès;2;202;3;60;1;1;3
+958;102;2196;Français;188;AgroTwin Cash;2;202;4;60;1;1;3
+959;102;2196;Français;188;AgroTwin eBanking;2;202;4;60;1;1;3
+960;102;2196;Français;223;Comment financer son projet;2;202;4;60;1;1;3
+961;102;2196;Français;188;Exploitation sans succession;2;202;4;120;1;1;3
+962;102;2196;Français;188;GELAN - recensement de printemps;2;202;4;60;1;1;3
+963;102;2196;Français;188;Innover dans l'agrotourisme;2;202;4;120;1;1;3
+964;102;2196;Français;188;Collaborer en gardant son indépendance;2;202;4;120;1;1;3
+965;102;2196;Français;237;Le marketing: un processus de gestion stratégique de vos produits et services;2;202;4;120;1;1;3
+966;102;2196;Français;188;Construction d'une enseigne de ferme ou escalier en bois;2;202;4;600;1;5;3
+967;102;2196;Français;188;Journée bovine;2;202;4;60;1;1;3
+968;102;2196;Français;188;Anesthésie pour écornage et castration des veaux;2;202;4;60;1;1;3
+969;102;2196;Français;188;Journée porcine;2;202;4;100;1;1;3
+970;102;2196;Français;188;Vaches allaitantes;2;202;4;120;1;1;3
+971;102;2196;Français;188;Journée volailles d'engraissement;2;202;4;130;1;1;3
+972;102;2196;Français;188;Les défis techniques de la production laitière;2;202;4;0;4;1;3
+973;102;2196;Français;188;Création et entretien de lisières de forêts étagées;2;202;4;130;1;1;3
+974;102;2196;Français;188;HODUFLU, apprendre à utiliser l'application;2;202;4;60;1;1;3
+975;102;2196;Français;188;Taille des arbres fruitiers pour débutants;2;202;4;180;1;1.5;3
+976;102;2196;Français;188;Taille des arbres fruitiers pour avancés;2;202;4;120;1;1;3
+977;102;2196;Français;188;Journée des légumineuses à graine;2;202;4;120;1;1;3
+978;102;2196;Français;188;Informations phytosanitaires;2;202;4;0;4;1;3
+979;102;2196;Français;188;Actualités techniques dans la culture de la pomme de terre;2;202;4;60;1;1;3
+980;102;2196;Français;188;Techniques culturales simplifiées et semis direct;2;202;4;60;1;1;3
+981;102;2196;Français;188;Se reconvertir à l'agriculture biologique;2;202;4;120;1;2;3
+982;107;5938;Français;196;Excel niveau avancé;2;202;3;535;1;3;4
+983;107;5938;Français;196;Messagerie Outlook;2;202;3;185;1;8;3
+984;107;5938;Français;196;Powerpoint;2;202;3;215;1;1;4
+985;107;5938;Français;196;Word niveau avancé;2;202;3;535;1;3;4
+986;107;5938;Français;232;Allemand A2 Start Deutch intensif;2;202;3;1790;1;45;4
+989;107;5938;Français;232;Anglais A1 Elementary;2;202;3;560;1;10;4
+991;107;5938;Français;232;Anglais A2 Key English Test;2;202;3;1755;1;10;4
+992;107;5938;Français;232;Anglais B1 Preliminary English;2;202;3;1965;1;30;4
+993;107;5938;Français;232;Anglais B2 First certificate;2;202;3;2145;1;30;4
+994;107;5938;Français;232;Anglais commercial;2;202;3;1652;1;27;4
+995;107;5938;Français;232;Espagnol moyen;2;202;3;620;1;3;4
+996;107;5938;Français;232;Italien débutant;2;202;3;480;1;3;4
+997;107;5938;Français;232;Russe débutant;2;202;3;0;4;3;4
+998;107;5938;Français;263;Electricité pour mécaniciens M1;2;202;3;640;1;8;4
+999;107;5938;Français;263;Electricité pour mécaniciens M2;2;202;3;640;1;8;4
+1000;107;5938;Français;223;Séminaire "Evaluer mon entreprise";2;202;2;2350;1;3;3
+1001;107;5938;Français;235;Brevet fédéral de logisticien en stockage;3;165;3;10839;1;94;4
+1002;107;5938;Français;223;Brevet fédéral d'assistant de direction;3;165;3;10400;1;24;4
+1003;107;5938;Français;236;Animer des sessions de formation pour adultes (FSEA 1);2;170;4;3450;1;4;4
+1004;107;5938;Français;201;Correspondance externe;2;202;3;444;1;8;4
+1005;107;5938;Français;201;Correspondance interne;2;202;3;444;1;8;4
+1006;107;5938;Français;201;Procès verbaux;2;202;3;414;1;8;4
+1008;107;5938;Français;210;Stress;2;202;3;50;1;1;3
+1009;107;5938;Français;210;Equilibre vie privée, vie professionnelle;2;202;3;50;1;1;3
+1010;107;5938;Français;210;Motivation;2;202;3;50;1;1;3
+1011;107;5938;Français;236;Conduite, leadership;2;202;3;50;1;1;3
+1012;107;5938;Français;252;Ergonomie des postes de travail administratifs;2;202;3;50;1;1;3
+1013;107;5938;Français;259;Prévention des conflits;2;202;3;50;1;1;3
+1014;108;5586;Français;187;Assistante, secrétaire, valorisez vos compétences;2;202;2;1130;1;2;3
+1015;108;5586;Français;187;L'accueil téléphonique, vitrine de l'entreprise;2;202;2;630;1;1;3
+1016;108;5586;Français;210;La communication non violente;2;202;2;1130;1;2;3
+1017;108;5586;Français;201;Orthographe: objectif zéro faute;2;202;2;630;1;1;3
+1018;108;5586;Français;201;Rédiger efficacement vos procès verbaux;2;202;2;630;1;1;3
+1019;108;5586;Français;201;Rédiger vite et mieux;2;202;2;1130;1;2;3
+1020;108;5586;Français;201;Techniques d'accueil et de communication;2;202;2;1130;1;2;3
+1021;108;5586;Français;230;HTML CSS - Adapter un site au support mobile;2;202;2;950;1;15;3
+1022;108;5586;Français;230;Javascript: Animer des objets d'une interface web;2;202;3;1090;1;6;3
+1023;108;5586;Français;230;Javascript: jQuery;2;202;3;1090;1;6;3
+1024;108;5586;Français;230;Webdesigner;2;202;3;7900;1;10;4
+1025;108;5586;Français;191;AVS/AI/APG et prévoyance professionnelle;2;202;2;1130;1;2;3
+1026;108;5586;Français;259;Sécurité sociale internationale;2;202;2;700;1;1;3
+1027;108;5586;Français;211;Améliorer le recouvrement des créances;2;202;2;1130;1;2;3
+1028;108;5586;Français;211;Le droit et les rapports de travail;2;202;2;1130;1;2;3
+1029;108;5586;Français;211;Tout savoir sur la procédure de main levée d'opposition;2;202;2;300;1;1;3
+1030;108;5586;Français;210;Gérer efficacement son temps et sa fonction;2;202;2;1130;1;2;3
+1031;108;5586;Français;210;La gestion du stress;2;202;2;1130;1;2;3
+1032;108;5586;Français;210;Mieux interagir grâce à la process communication;2;202;2;1130;1;2;3
+1033;108;5586;Français;210;Négocier avec efficacité;2;202;2;1130;1;2;3
+1034;108;5586;Français;210;Organiser ses idées avec le Mind mapping;2;202;2;690;1;1;3
+1035;108;5586;Français;210;Parler en public;2;202;2;1130;1;2;3
+1036;108;5586;Français;202;Comprendre la comptabilité sans la pratiquer;2;202;2;1130;1;2;3
+1037;108;5586;Français;202;Comprendre les indicateurs comptables et  financiers de l'entreprise;2;202;2;1130;1;2;3
+1038;108;5586;Français;202;Que faire des actes de défaut de bien?;2;202;2;300;1;1;3
+1039;108;5586;Français;202;Système de contrôle interne;2;202;2;690;1;1;3
+1040;108;5586;Français;230;Initiation au dessin assisté par ordinateur 2D AutoCad Windows;2;202;3;670;1;6;3
+1042;108;5586;Français;230;Perfectionnement au dessin assisté par ordinateur 2D AutoCad ;2;202;3;670;1;6;3
+1043;108;5586;Français;236;Comment devenir un chef efficace;2;202;2;1130;1;2;3
+1044;108;5586;Français;236;Devenir pilote d'équipe;2;202;2;1200;1;2;3
+1045;108;5586;Français;201;La communication non verbale;2;202;2;630;1;1;3
+1046;108;5586;Français;236;Motiver et responsabiliser ses collaborateurs;2;202;2;1130;1;2;3
+1047;108;5586;Français;236;Twitter pour votre PME, indispensable ou intéressant?;2;202;2;300;1;1;3
+1048;108;5586;Français;252;En finir avec l'erreur de recrutement, méthode d'approche  et de sélection de personnel;2;202;2;1130;1;2;3
+1053;108;5586;Français;187;L'administrateur face aux différents véhicules d'investissement;2;202;2;690;1;1;3
+1054;108;5586;Français;236;L'entrepreneur et le droit de la concurrence;2;202;2;690;1;1;3
+1055;108;5586;Français;236;Micro MBA en management entrepreneurial;1;197;4;17000;1;6;4
+1057;108;5586;Français;236;Responsabilités et rôle de l'adminstrateur;2;202;2;2600;1;2;3
+1061;108;5586;Français;237;Développer ses compétences de vente;2;202;2;1130;1;2;3
+1062;108;5586;Français;237;Facebook: comment optimiser votre page entreprise;2;202;2;300;1;1;3
+1063;108;5586;Français;237;Gérant du commerce de détail;2;202;2;2990;1;6;4
+1065;108;5586;Français;237;Utiliser LinkedIn pour séduire des prospects;2;202;2;630;1;1;3
+1066;108;5586;Français;223;Certification en Business Analyse du PMI;2;170;4;4800;1;1.5;4
+1067;108;5586;Français;224;Certification en gestion de projet CAPM;2;170;4;4800;1;1.5;4
+1068;108;5586;Français;224;Certification en gestion de projet PMP;2;170;4;4800;1;1;4
+1069;108;5586;Français;224;Diplôme de chef de projet;3;181;3;7900;1;10;4
+1070;108;5586;Français;223;Fondamentaux en business analyse;2;202;4;3700;1;1;4
+1071;108;5586;Français;224;La gestion de projet selon Hermès;2;177;2;1900;1;2;3
+1072;108;5586;Français;224;Les fondamentaux du management de projet;2;202;4;3500;1;1;4
+1074;108;5586;Français;224;Utiliser Microsoft project;2;202;3;3200;1;5;3
+1075;108;5586;Français;199;Coiffure - module 1 (Cours de Formation pour  Formateurs en Entreprise CFFE) et module 2 (cours didactique);2;155;3;2230;1;3;4
+1076;108;5586;Français;193;Certificat USIC de professionnel/elle de la carrosserie;2;170;4;12900;1;30;4
+1078;108;5586;Français;211;Connaissances techniques selon le droit chimique;2;170;4;690;1;2;3
+1080;108;5586;Français;214;Electricité perfectionnement;2;202;4;400;1;1;4
+1081;108;5586;Français;188;Brevet fédéral de Chef d'atelier en machines agricoles,  machines de chantier et appareils à moteur;3;165;4;11500;1;27;4
+1082;108;5586;Français;193;Brevet fédéral de conseiller de service à la clientèle  dans la branche automobile;3;165;3;10500;1;24;4
+1083;108;5586;Français;193;Brevet fédéral de conseiller de vente en automobile;3;165;4;8900;1;15;4
+1084;108;5586;Français;193;Brevet fédéral de tôlier en carrosserie et  de peintre en automobile;3;165;4;0;4;22;4
+1085;108;5586;Français;237;Diplôme fédéral d'Installateur-Electricien, module Marketing;3;184;4;1150;1;3;4
+1086;108;5586;Français;193;Diplôme fédéral de gestionnaire d'entreprise  de la branche automobile;3;184;4;13900;1;24;4
+1087;108;5586;Français;193;Diplôme fédéral de maître carrossier,  options tôlier, peintre, serrurier;3;184;4;0;4;15;4
+1088;108;5586;Français;193;Maîtrise fédérale de Maître-mécanicien en machines agricoles;3;191;4;8300;1;18;4
+1089;108;5586;Français;187;Brevet fédéral d'assistant-e de direction;3;165;4;10150;1;24;4
+1091;108;5586;Français;202;Brevet fédéral de spécialiste en finance et comptabilité;3;165;4;7900;1;24;4
+1092;108;5586;Français;202;Diplôme fédéral d'expert fiduciaire TREX | MAS HES;3;184;4;21450;1;18;4
+1093;108;5586;Français;193;Brevet fédéral de coordinateur d'atelier automobile UPSA;3;165;3;8200;1;18;4
+1095;108;5586;Français;223;Diplôme fédéral de gestionnaire d'entreprise  de la branche automobile;3;184;4;13900;1;24;4
+1096;108;5586;Français;223;Spécialiste en gestion de PME avec brevet fédéral;3;165;4;11400;1;18;4
+1097;108;6621;Français;223;Spécialiste en gestion de PME avec brevet fédéral;3;165;4;11400;1;18;4
+1098;108;2196;Français;223;Spécialiste en gestion de PME avec brevet fédéral;3;165;4;11400;1;18;4
+1099;108;6266;Français;223;Spécialiste en gestion de PME avec brevet fédéral;3;165;4;11400;1;18;4
+1100;108;5586;Français;223;Brevet fédéral d'assistant-e de gestion en pharmacie;3;165;4;9300;1;12;4
+1101;108;5586;Français;223;Brevet fédéral de Spécialiste de commerce international;3;165;4;8750;1;19;4
+1102;108;5586;Français;223;Brevet fédéral de Spécialiste du commerce de détail;3;165;4;10300;1;12;4
+1103;108;5586;Français;252;Brevet fédéral de spécialiste en Ressources Humaines  (RH) - Option A;3;165;4;11500;1;18;4
+1105;108;5586;Français;252;Certificat d'Assistant(e) en gestion du personnel ;2;170;4;3500;1;0;6
+1106;108;5586;Français;199;Brevet fédéral de coiffure;3;165;4;8900;1;12;4
+1107;108;5586;Français;199;Diplôme fédérale de coiffure;3;184;4;6500;1;12;4
+1108;108;5586;Français;199;Diplôme de coiffure en 4 modules;3;181;4;6900;1;12;4
+1109;109;5586;Français;260;Cours de Sauveteurs (permis de conduire);2;158;4;160;1;2;3
+1110;109;5586;Français;260;Cours eSauveteurs (permis de conduire);2;158;5;160;1;2;3
+1111;109;5586;Français;260;Cours Réanimation (BLS-AED);2;155;2;200;1;1;3
+1112;109;5586;Français;260;Cours eReanimation (BLS-AED);2;155;5;200;1;1;3
+1113;109;5586;Français;260;Cours 1er secours refresher;2;202;2;60;1;1;3
+1114;109;5586;Français;260;Urgences dans le sport;2;202;2;120;1;1;3
+1115;109;5586;Français;260;Urgences petite enfance;2;202;2;140;1;1;3
+1116;109;5586;Français;260;Répétition réanimation (BLS-AED);2;202;2;120;1;1;3
+1117;109;5586;Français;260;Cours de Samaritains;2;202;4;200;1;3;3
+1118;110;2196;Français;202;Brevet fédéral de spécialiste en finance et comptabilité –  1ère phase – Comptable spécialisé;3;165;3;5270;1;18;4
+1119;110;2196;Français;202;Brevet fédéral de spécialiste en finance et comptabilité - 2ème phase;3;165;3;6020;1;18;4
+1120;110;2196;Français;202;Mise à niveau CFC en comptabilité;2;155;3;1160;1;6;4
+1121;110;2196;Français;202;Comptabilité générale – Module de base;2;155;3;2100;1;7;4
+1122;110;2196;Français;187;Diplôme SECSuisse de secrétaire juridique;3;181;3;4100;1;12;4
+1123;110;2196;Français;187;Brevet fédéral d'assistant-e de direction;3;165;3;9440;1;26;4
+1124;110;2196;Français;252;Brevet fédéral de spécialiste en ressources humaines/OPTION A;3;165;3;8820;1;18;4
+1125;110;2196;Français;252;Certificat d’assistant-e en gestion du personnel;2;170;3;1900;1;6;4
+1126;111;5586;Français;202;Comptable spécialisé(e) edupool.ch – Journée;3;181;4;6990;1;18;4
+1128;111;5586;Français;202;Comptable spécialisé(e) edupool.ch – Soirée;3;181;3;6990;1;18;4
+1129;111;5586;Français;202;Notions générales en comptabilité, module de révision;2;170;3;1490;1;4;4
+1130;111;5586;Français;236;Séminaire Préparation au Brevet fédéral de spécialiste  de la conduite d’un groupe;2;202;4;1890;1;2;4
+1131;111;5586;Français;236;Spécialiste de la conduite d’équipe;3;165;3;10890;1;0;6
+1132;111;5586;Français;236;Management avec certificat de l’ASFC;2;170;3;6990;1;18;4
+1133;111;5586;Français;236;Leadership avec certificat de l’ASFC;2;170;3;4890;1;18;4
+1134;111;5586;Français;236;Responsable d’équipe (médico-sociale);3;165;4;8000;1;12;4
+1135;111;5586;Français;236;Secrétaire juridique;3;181;3;4590;1;12;4
+1136;111;5586;Français;252;Assistant-e en gestion du personnel &  Spécialiste en ressources humaines;2;173;7;10000;1;18;4
+1137;111;5586;Français;252;Spécialiste en ressources humaines – Journée;3;165;4;8670;1;18;4
+1138;111;5586;Français;252;Spécialiste en ressources humaines – Soirée;3;165;3;8670;1;24;4
+1139;111;5586;Français;252;Assistant-e en gestion du personnel – Soirée;2;170;3;3090;1;6;4
+1140;111;5586;Français;252;Assistant-e en gestion du personnel – Journée ;2;170;4;3090;1;5;4
+1141;111;5586;Français;252;Spécialiste en recrutement et sélection de personnel;3;181;3;2390;1;5;4
+1142;111;5586;Français;252;Généraliste en droit du travail;2;170;3;1590;1;3;4
+1143;111;5586;Français;191;Généraliste en assurances sociales;2;170;3;1790;1;4;4
+1144;111;5586;Français;260;De l’élaboration à la remise d’un certificat de travail;2;155;2;570;1;1;3
+1145;111;5586;Français;271;Force de vente;3;181;2;5540;1;2;4
+1146;113;2196;Français;201;CAS Corporate Communications;1;169;4;9800;1;8;4
+1147;113;5586;Français;201;CAS Corporate Communications;1;169;4;9800;1;8;4
+1148;113;5586;Français;201;Spécialiste en communication et relations publiques;3;165;4;9950;1;11;4
+1149;113;5586;Français;201;Praticien-ne en relations publiques;3;181;4;2850;1;3;4
+1150;112;6458;Français;237;Construire votre stratégie marketing;2;202;2;1300;1;2;3
+1151;112;6458;Français;237;Développer l'identité de votre entreprise;2;202;2;975;1;1.5;3
+1152;112;6458;Français;237;Promouvoir votre entreprise;2;202;2;975;1;1.5;3
+1153;112;6458;Français;230;Concevoir votre site internet;2;202;2;975;1;1.5;3
+1154;112;6458;Français;237;Communiquer sur les réseaux sociaux;2;202;2;650;1;1;3
+1155;112;6458;Français;237;Atteindre votre cible grâce aux médias;2;202;2;650;1;1;3
+1156;112;6458;Français;252;Définir votre politique RH;2;202;2;650;1;1;3
+1157;112;6458;Français;252;Donner une structure à votre entreprise;2;202;2;650;1;1;3
+1158;112;6458;Français;252;Définir vos indicateurs RH;2;202;2;650;1;1;3
+1159;112;6458;Français;252;Recruter vos collaborateurs;2;202;2;1300;1;2;3
+1160;112;6458;Français;252;Faire progresser vos collaborateurs;2;202;2;975;1;1.5;3
+1161;112;6458;Français;252;Prévenir et gérer les conflits;2;202;2;650;1;1;3
+1162;112;6458;Français;202;Etablir un décompte de salaire;2;202;2;675;1;1.5;3
+1163;112;6458;Français;202;Gérer les salaires avec un logiciel de comptabilité;2;202;2;1300;1;2;3
+1164;112;6458;Français;252;Gérer les horaires et absences de vos collaborateurs;2;202;2;325;1;0.5;3
+1165;112;6458;Français;187;Prévenir les risques en tant qu'indépendant;2;202;2;325;1;0.5;3
+1166;112;6458;Français;252;Concevoir votre règlement d'entreprise;2;202;2;650;1;1;3
+1167;112;6458;Français;252;Agir au sein d'une commission du personnel;2;202;2;1300;1;2;3
+1168;112;6458;Français;252;Gérer les absences de longue durée;2;202;2;325;1;0.5;3
+1169;112;6458;Français;252;Préparer vos collaborateurs à la retraite;2;202;2;325;1;0.5;3
+1170;112;6458;Français;236;Qui êtes vous en tant que manager;2;202;2;650;1;1;3
+1171;112;6458;Français;223;Gérer votre temps;2;202;2;650;1;1;3
+1172;112;6458;Français;198;Animer un groupe de travail;2;202;2;975;1;1.5;3
+1173;112;6458;Français;236;Piloter des séances;2;202;2;650;1;1;3
+1174;112;6458;Français;224;Gérer vos projets;2;202;2;1300;1;2;3
+1175;112;6458;Français;187;Construire votre business plan;2;202;4;2450;1;5;3
+1176;112;6458;Français;187;Evaluer votre entreprise grâce à l'analyse SWOT;2;202;2;650;1;1;3
+1177;112;6458;Français;251;Analyser les risques;2;202;2;650;1;1;3
+1178;112;6458;Français;251;Réaliser un audit interne;2;202;2;650;1;1;3
+1179;112;6458;Français;251;Etablir la cartographie des processus;2;202;2;650;1;1;3
+1180;112;6458;Français;251;Gérer les réclamations clients et les non conformités;2;202;2;650;1;1;3
+1181;112;6458;Français;251;Piloter une revue de direction;2;202;2;325;1;0.5;3
+1182;112;6458;Français;216;Réfléchir à votre projet professionnel;2;202;2;600;1;2.5;3
+1183;112;6458;Français;216;Réaliser votre dossier de candidature;2;202;2;840;1;3.5;3
+1184;112;6458;Français;216;Réussir votre entretien d'embauche;2;202;2;840;1;2;3
+1185;112;6458;Français;216;Recherche d'emploi : pack 3 modules;2;202;4;2280;1;8;3
+1186;112;6458;Français;232;Pack vacances;2;202;4;500;1;2;4
+1187;112;6458;Français;232;Pack commercial;2;202;4;800;1;2;4
+1188;112;6458;Français;232;Cours de langues;2;202;4;500;1;2;4
+1189;112;6458;Français;232;Français orthographe et grammaire;2;202;4;800;1;2;4
+1190;112;6458;Français;232;Français rédiger un procès verbal;2;202;4;320;1;1;4
+1191;112;6458;Français;202;Elaborer un budget;2;202;2;325;1;0.5;3
+1192;112;6458;Français;202;Elaborer un plan comptable;2;202;2;325;1;0.5;3
+1193;112;6458;Français;202;Gérer la facturation et son suivi;2;202;2;325;1;0.5;3
+1194;112;6458;Français;202;Gérer les salaires;2;202;2;325;1;0.5;3
+1195;112;6458;Français;202;Appliquer la TVA dans votre entreprise;2;202;2;325;1;0.5;3
+1196;112;6458;Français;202;Réaliser un bouclement;2;202;2;650;1;1;3
+1197;112;6458;Français;202;Analyser la santé financière de votre entreprise;2;202;2;325;1;0.5;3
+1198;112;6458;Français;202;Appliquer la fiscalité dans votre entreprise;2;202;2;325;1;0.5;3
+1199;112;6458;Français;202;Analyser les risques et appliquer un système de contrôles internes;2;202;2;325;1;0.5;3
+1200;112;6458;Français;202;Utiliser un tableau de bord;2;202;2;325;1;0.5;3
+1201;112;6458;Français;202;Votre role en tant que vérificateur de comptes;2;202;2;325;1;0.5;3
+1202;112;6458;Français;202;Réaliser votre comptabilité avec un programme de gestion;2;202;2;325;1;0.5;3
+1203;112;6458;Français;202;Evaluer vos compétences à travers une étude de cas;2;202;2;360;1;0.5;3
+1204;112;6458;Français;202;Transmettre votre entreprise;2;202;2;325;1;0.5;3
+1205;112;6458;Français;202;Comptabilité accélérée (module préparatoire);2;155;3;1900;1;3;4
+1206;112;6458;Français;202;Comptable spécialisé;2;170;3;6960;1;18;4
+1207;112;6458;Français;202;Brevet fédéral de spécialiste en finance et comptabilité;3;165;3;13500;1;42;4
+1208;113;5586;Français;201;CAS Rédaction stratégique en communication;2;169;4;8900;1;7;4
+1209;113;5586;Français;201;CAS Corporate Communications;2;169;4;9800;1;10;4
+1210;113;5586;Français;201;Brevet fédéral spécialiste en relations publiques;3;165;4;9950;1;11;4
+1211;113;5586;Français;201;Cours de préparation MarKom;2;200;4;3240;1;4;4
+1212;113;5586;Français;201;Praticienne en relations publiques;2;170;4;2850;1;4;4
+1213;113;6621;Français;201;Praticienne en relations publiques;2;170;4;2850;1;4;4
+1214;113;5586;Français;201;Chargé-e de communication interne;2;170;4;2850;1;2;4
+1216;113;5586;Français;201;Communication de crise;2;202;2;1250;1;2;3
+1217;113;5586;Français;201;Relations publiques 2.0;2;202;2;1700;1;3;3
+1218;113;5586;Français;201;Réseaux sociaux et stratégie RP;2;202;2;1250;1;2;3
+1219;113;5586;Français;201;Parler aux médias et en public;2;202;2;1250;1;2;3
+1220;113;5586;Français;201;Sponsoring et mécénat;2;202;2;1250;1;2;3
+1221;116;2196;Français, Allemand;211;Bachelor en droit;4;164;4;11700;1;54;4
+1222;116;5586;Français;212;Bachelor en économie et management;4;164;4;11700;1;54;4
+1223;116;6248;Français;225;Programme court en gestion d'entreprise;3;181;4;3600;1;24;4
+1224;116;6248;Français;230;Licence en informatique;1;190;4;5000;1;24;4
+1225;116;6248;Français;230;Master en informatique;1;194;4;10000;1;48;4
+1226;116;6248;Français;233;Licence en lettres modernes;1;190;4;6000;1;0;6
+1227;116;6248;Français;233;Master en Lettres Modernes, parcours Recherche (M1+M2);1;194;4;4000;1;0;6
+1228;116;6248;Français;233;Master en Didactique du français (FLE) (M1+M2);1;194;4;4000;1;0;6
+1229;116;6248;Français;233;Master 2 FLE voie professionnelle;1;194;4;4000;1;0;6
+1230;116;6248;Français;238;Licence en mathématiques;1;190;4;12600;1;72;4
+1231;116;6248;Français;238;Master en mathématiques;1;194;4;8400;1;48;4
+1232;116;5586;Français;249;Bachelor en psychologie;4;164;4;11700;1;54;4
+1233;116;0;Français;201;Certificat en communication organisationnelle;2;170;1;9000;1;0;6
+1234;116;0;Français;201;Baccalauréat en communication;3;162;1;27000;1;0;6
+1235;116;0;Français;201;Programme court en  Communication appliquée aux relations publiques;3;181;1;4500;1;0;6
+1236;116;5586;Français;213;Licence en sciences de l'éducation;1;190;4;2000;1;0;6
+1237;116;5586;Français;213;Master en sciences de l'éducation;1;194;4;3200;1;0;6
+1238;116;2196;Français;227;Bachelor of Arts en Sciences historiques;4;164;4;11700;1;54;4
+1239;120;6458;Français;254;CAS Droits des patients et santé publique;1;169;4;6500;1;4;4
+1240;120;6458;Français;255;CAS Droit des assurances sociales, travail et santé;1;169;4;6500;1;4;4
+1241;120;6458;Français;211;Droit pharmaceutique et des biotechnologies;1;169;4;6500;1;4;4
+1242;120;6458;Anglais;211;CAS in Arbitration;1;169;4;13900;1;9;4
+1243;120;6458;Français;211;CAS en magistrature;1;169;4;12000;1;24;4
+1244;120;6458;Français;207;Promouvoir une institution culturelle;2;155;4;2800;1;2;4
+1246;120;6458;Français;222;Séminaire pour formateurs de stagiaires en logopédie;2;155;4;0;4;2;3
+1247;120;6458;Français;223;CAS en gestion du développement régional;1;169;4;6900;1;12;4
+1248;120;6458;Français;270;MAS en urbanisme durable;1;193;4;12000;1;30;4
+1250;120;6458;Français;219;CAS en gestion des sites pollués;1;169;4;5850;1;24;4
+1251;120;6458;Anglais;219;CAS Deep Geothermal Systems;1;169;4;5900;1;18;4
+1252;120;6458;Français;219;DAS ECOFOC : écologie et sciences de l'environnement;1;180;4;11000;1;24;4
+1253;120;6458;Anglais;219;Water and sanitation engineering from emergency  towards development;2;155;2;2000;1;7;3
+1254;120;6458;Anglais;236;MAS Integrated Crop Management;1;193;4;15000;1;24;4
+1255;120;6458;Français;252;MAS en gestion des RH et des carrières;1;193;4;15000;1;24;4
+1371;115;5586;Français;232;Français B1 à B2: expression et compréhension orale et écrite;2;202;3;890;1;9;4
+1374;115;5586;Français;232;Préparation au DALF C1;2;202;3;1090;1;9;4
+1412;115;5586;Français;232;Polonais Préintermédiaire A2 à B1 et B1.1 à B1.2;2;202;3;890;1;30;4
+1415;115;5586;Français;232;Russe Intermédiaire B1 à B2;2;202;3;890;1;30;4
+1425;115;5586;Français;232; Arabe débutant;2;202;3;890;1;30;4
+1427;83;5586;Anglais;223;Executive master international taxation;1;193;4;25000;1;18;4
+1428;83;5586;Français;254;Executive master healthcare management;1;193;4;0;4;18;4
+1429;83;5586;Français;237;Strategic marketing and communication;1;169;4;10000;1;5;4
+1430;83;5586;Français;237;Strategic marketing and communication;1;180;4;13500;1;9;4
+1431;83;5586;Français;202;CAS Finance et comptabilité;1;169;4;9500;1;5;4
+1432;83;5586;Anglais;254;CAS en économie et politiques de la santé;1;169;4;7500;1;5;4
+1433;83;5586;Anglais;254;CAS en management de la santé;1;169;4;7500;1;5;4
+1434;83;5586;Anglais;254;CAS en santé publique;1;169;4;7500;1;5;4
+1435;83;5586;Anglais;223;Business analytics;2;202;2;2880;1;3;3
+1436;83;5586;Français;243;Négociation positive;2;202;2;1920;1;2;3
+1437;83;5586;Français;201;Convaincre par la communication;2;202;2;2880;1;3;3
+1438;83;5586;Français;224;Gestion de projets en temps réel;2;202;2;1920;1;2;3
+1439;83;5586;Anglais;236;Enterprise architecture management;2;202;2;1920;1;2;3
+1440;83;5586;Français;223;Business model innovation & design;2;202;2;1920;1;2;3
+1441;83;5586;Français;202;Comptabilité financière;2;202;4;2250;1;1;4
+1442;83;5586;Français;202;Contrôle de gestion;2;202;4;2250;1;1;4
+1443;83;5586;Français;202;Principes de finance;2;202;4;2250;1;1;4
+1444;83;5586;Français;202;Finance d'entreprise;2;202;4;1600;1;1;4
+1445;83;5586;Français;202;Marchés financiers;2;202;4;1600;1;1;4
+1446;83;5586;Français;202;Fiscalité d'entreprise;2;202;4;2250;1;1;4
+1447;83;5586;Français;237;Etudes de marché;4;202;2;2250;1;3;4
+1448;83;5586;Français;237;Stratégie marketing;4;202;2;2250;1;3;4
+1449;83;5586;Français;201;Stratégie de communication;4;202;2;2250;1;3;4
+1450;83;5586;Français;237;Branding;4;202;2;2250;1;3;4
+1451;83;5586;Français;243;Négociation commerciale;4;202;2;2250;1;3;4
+1452;83;5586;Français;237;Gestion de la relation client;4;202;2;2250;1;3;4
+1453;83;5586;Français;237;Marketing digital;4;202;2;2250;1;3;4
+1454;83;5586;Français;237;Réseaux sociaux;4;202;2;2250;1;3;4
+1455;83;5586;Français;237;Communication personnelle efficace;4;202;2;2250;1;3;4
+1456;119;5586;Français;226;Master en expertise immobilière;1;193;4;6600;1;30;4
+1457;119;5586;Anglais;262;Global supply chain management;1;193;4;18800;1;12;4
+1458;119;5586;Anglais;262;Global supply chain management;1;169;4;7900;1;2;4
+1459;119;5586;Anglais;236;Management of technology;1;186;4;35000;1;15;4
+1460;119;5586;Anglais;240;Management of biotech, medtech and pharma ventures;1;169;4;9900;1;5;4
+1461;119;5586;Français;252;MAS en Management, Ressources Humaines et Carrières;1;193;4;15000;1;24;4
+1462;119;5586;Français;252;CAS en ressources humaines;1;169;4;9900;1;8;4
+1463;119;5586;Français;187;MAS en administration publique;1;193;4;22000;1;36;4
+1464;119;5586;Anglais;187;Sport administration & technology;1;193;4;28000;1;14;4
+1465;119;5586;Français;187;DAS en administration publique;1;180;4;11120;1;9;4
+1466;119;5586;Français;223;DAS en gestion culturelle;1;180;4;9800;1;18;4
+1467;119;5586;Français;249;Psychologie légale et psychiatrie forensique;1;180;4;13000;1;42;4
+1468;125;5586;Français;211;Droit du travail;2;170;4;13500;1;8;4
+1469;125;5586;Français;211;Droit de la construction et de l'immobilier;2;170;4;13500;1;12;4
+1470;125;5586;Français;211;Droit des successions;2;170;4;13500;1;7;4
+1471;125;5586;Français;211;Droit de la famille;2;170;4;13500;1;8;4
+1472;125;5586;Français;211;RC et droit des assurances;2;170;4;13500;1;10;4
+1473;119;5586;Français;212;CAS en économie et droit de la régulation;1;169;4;3800;1;3;4
+1474;119;5586;Français;226;Expertise technique dans l'immobilier;1;169;4;5000;1;3;4
+1475;119;5586;Français;226;Expertise économique dans l'immobilier;1;169;4;5000;1;3;4
+1476;119;5586;Français;226;Droit juridique dans l'immobilier;1;169;4;5000;1;3;4
+1477;119;5586;Français;236;CAS en internationalisation des politiques publiques;1;169;4;3800;1;3;4
+1478;119;5586;Français;252;CAS en leadership public et gestion des ressources humaines;1;169;4;3800;1;3;4
+1479;119;5586;Français;252;CAS Management humain;1;169;4;9900;1;9;4
+1480;119;5586;Français;237;CAS en marketing et communication publics;1;169;4;3800;1;3;4
+1481;119;5586;Français;236;CAS en politique et management du sport;1;169;4;4500;1;3;4
+1482;119;5586;Français;259;CAS en politiques sociales;1;169;4;3800;1;3;4
+1483;119;5586;Français;249;Psychologie légale et psychiatrie forensique;1;169;4;9500;1;30;4
+1484;119;5586;Anglais;223;Statistics and the evaluation of forensic evidence;1;169;4;12000;1;18;4
+1485;119;5586;Français;211;Chiffres de la criminalité;2;202;4;1500;1;3;3
+1486;119;5586;Français;201;Communiquer par écrit;2;202;4;1500;1;6;3
+1487;119;5586;Anglais;223;Discrete Choice Analysis: Predicting Demand and Market Shares;2;202;2;6331;1;5;3
+1488;119;5586;Français;212;Economie publique;2;202;2;1900;1;8;3
+1489;119;5586;Anglais;256;Essentials of Bayesian networks in forensic science;2;170;4;3500;1;6;4
+1490;119;5586;Anglais;256;Essentials of DNA interpretation;2;170;4;3500;1;6;4
+1491;119;5586;Anglais;256;Essentials of forensic interpretation;2;170;4;3500;1;6;4
+1492;119;5586;Anglais;230;Fighting Hackers and Malware;2;170;2;2100;1;3;3
+1493;119;5586;Français;236;Management des organisations à but non lucratif (NPO);2;155;2;1900;1;6;3
+1494;119;5586;Français;236;Management du risque;2;155;2;2300;1;5;3
+1495;119;5586;Français;236;Management public;2;155;2;1900;1;8;3
+1496;119;5586;Français;236;Manager la complexité;2;155;2;2900;1;3;3
+1497;119;5586;Français;211;Renseignement forensic et criminel;2;155;2;2000;1;5;3
+1498;119;5586;Français;252;RH plus;2;155;2;950;1;2;3
+1499;119;5586;Français;223;Systèmes d'information et statistiques publiques;2;155;2;1900;1;8;3
+1500;119;5586;Français;270;MAS Urbanisme durable;1;193;4;12000;1;18;4
+1501;119;5586;Français;270;Urbanisme durable : méthodologie du diagnostic territorial,  gestion de l’information et prospective;1;169;4;3900;1;6;4
+1502;119;5586;Français;270;Urbanisme durable : régimes d’urbanisation,  régulation des ressources matérielles et gouvernance;1;169;4;3900;1;6;4
+1503;119;5586;Français;270;Urbanisme durable : urbanisme opérationnel,  de la théorie du projet à la maîtrise de l’ouvrage;1;169;4;3900;1;6;4
+1504;119;5586;Français;236;Certificat exécutif en management et action publique – CEMAP;1;169;4;9500;1;7;4
+1505;119;5586;Français;212;Economie et droit de la régulation;1;169;4;3800;1;3;4
+1506;119;5586;Français;223;Evaluation des politiques publiques;1;169;4;3800;1;3;4
+1507;119;5586;Français;223;CAS en fédéralisme et gouvernance multi-niveaux;1;169;4;3800;1;3;4
+1508;119;5586;Français;223;CAS gestion des carrières;1;169;4;9900;1;9;4
+1509;119;5586;Français;223;CAS gestion financière du service public;1;169;4;3800;1;3;4
+1510;119;5586;Français;236;CAS en management des organisations publiques;1;169;4;3800;1;3;4
+1511;119;5586;Français;187;CAS en méthodes et techniques administratives;1;169;4;3800;1;3;4
+1512;119;5586;Français;259;CAS en politique locale;1;169;4;3800;1;3;4
+1513;119;5586;Français;259;CAS en politiques publiques comparées;1;169;4;3800;1;3;4
+1514;119;5586;Français;223;Défis actuels de la police de proximité;2;202;2;950;1;2;3
+1515;119;5586;Français;211;Droit et législation;2;202;2;1900;1;5;3
+1516;119;5586;Français;259;Face à la diversité religieuse en institution;2;202;4;700;1;3;3
+1517;119;5586;Français;259;MCH2 La nouvelle présentation des comptes :  quels changements pour les cantons et les communes !?;2;202;4;1970;1;4;3
+1518;119;5586;Français;259;Politique de l'emploi et réinsertion professionnelle;2;155;2;1400;1;4;3
+1519;119;5586;Français;259;Politique et institution;2;202;4;1900;1;1;4
+1520;119;5586;Français;259;Politiques publiques;2;202;4;1900;1;1;4
+1521;119;5586;Français, Anglais;256;Design research for digital innovation;1;193;4;16000;1;24;4
+1522;119;5586;Anglais;256;Computational solid mechanics;2;202;2;1100;1;3;3
+1523;119;5586;Français;256;Gestion des risques et dangers chimiques en laboratoire;2;155;2;1200;1;2;3
+1524;119;5586;Français;256;Laser - management de la sécurité et du risque;2;155;2;1200;1;2;3
+1525;119;5586;Français;256;Manipulations de produits chimiques;2;155;2;1200;1;2;3
+1526;119;5586;Français;256;Nanomatériaux;2;155;2;650;1;1;3
+1527;119;5586;Français;256;Sciences cognitives et conscience;2;155;4;675;1;3;3
+1528;119;5586;Français;256;Sciences cognitives et inconscient;2;155;4;450;1;2;3
+1529;119;5586;Anglais;256;Scientific communication;2;155;4;950;1;2;4
+1530;119;6621;Français;255;MAS Pharmacie hospitalière;1;193;4;0;4;36;4
+1531;119;5586;Français;255;MAS Psychologie de la santé;1;193;4;23000;1;12;4
+1532;119;5586;Français;255;Psychanalyse et psychopathologie clinique;1;180;4;9500;1;18;4
+1533;119;6621;Français;255;Qualité et sécurité des soins;1;180;4;11000;1;12;4
+1534;119;5586;Français;255;Recherche clinique;1;180;4;5000;1;6;4
+1535;119;5586;Français;255;Spécialisation en psychothérapie comportementale et cognitive;1;180;4;11200;1;24;4
+1536;119;5586;Français;255;Spécialisation en psychothérapie d’orientation systémique;1;180;4;11950;1;24;4
+1537;119;5586;Anglais;255;Work + Health;1;180;4;22000;1;24;4
+1538;119;5586;Français;255;Jeu excessif;1;169;4;5800;1;18;4
+1539;119;5586;Français;255;Le bilan sensorimoteur;1;169;4;7200;1;18;4
+1540;119;5586;Français;255;Méthodes d’intervention comportementale et cognitive;1;169;4;7200;1;24;4
+1541;119;5586;Français;255;Méthodes d’intervention et de thérapie d’orientation systémique;1;169;4;7600;1;24;4
+1542;119;5586;Français;255;Méthodologie de la recherche en psychiatrie et psychopathologie;1;169;4;5440;1;24;4
+1543;119;5586;Français;255;Migration et sociétés plurielles;1;169;4;5200;1;18;4
+1544;119;5586;Français;255;Nutrition et activités sportives;1;169;4;6500;1;14;4
+1545;119;5586;Français;255;Prévention et réadaptation cardio-vasculaire;1;169;4;3500;1;4;4
+1546;119;5586;Français;255;Psychanalyse et psychopathologie clinique;1;169;4;9500;1;20;4
+1547;124;5586;Français;255;Psychologie de la santé:  Analyse concrète des pratiques de situations de soins;1;169;4;6000;1;3;4
+1548;124;5586;Français;255;Psychologie de la santé:  Conseil psychologique, santé, famille et maladie;1;169;4;6000;1;3;4
+1549;124;5586;Français;255;Psychologie de la santé: Sciences comportementales  appliquées à la promotion de la santé;1;169;4;6000;1;4;4
+1550;119;5586;Français;255;Psychologie légale et psychiatrie forensique;1;169;4;9500;1;24;4
+1551;119;6621;Français;255;Qualité et sécurité des soins;1;169;4;4500;1;6;4
+1552;119;5586;Français;255;Recherche clinique;1;169;4;5000;1;12;4
+1553;119;5586;Français;255;Santé, environnement et éthique;1;169;4;5000;1;15;4
+1554;119;5586;Français;255;Adolescence et consommation de substances;2;202;2;400;1;2;3
+1555;119;5586;Français;255;Adolescence et psychopathologie;2;202;4;950;1;4;3
+1556;119;5586;Français;255;Blooming flowers;2;202;4;900;1;4;3
+1557;119;5586;Français;255;Cancer, sport et mouvement;2;155;2;1200;1;4;3
+1558;119;5586;Français;255;Children and adolescents with chronic illness;2;155;2;900;1;4;3
+1559;119;5586;Français;255;Clinicien et patient face à la mort;2;155;2;300;1;1;3
+1560;119;5586;Français;255;Devenir investigateur clinique;2;155;2;1000;1;5;3
+1561;119;5586;Français;255;Faire face au risque suicidaire;2;155;2;400;1;2;3
+1562;119;6458;Français;255;Faire face au risque suicidaire;2;155;2;400;1;2;3
+1563;119;5586;Français;255;L'enfant anxieux;2;202;2;500;1;3;3
+1564;119;5586;Français;255;L'enfant violent;2;202;2;500;1;3;3
+1565;119;5586;Français;255;Le corps face à la mort;2;202;2;250;1;2;3
+1567;119;5586;Français;255;Médecine de l'adolescence;2;202;2;360;1;2;3
+1569;119;5586;Français;249;Psychanalyse et psychopathologie clinique: cliniques du corps;2;155;4;1600;1;1;4
+1570;119;5586;Français;249;Psychanalyse et psychopathologie clinique: consultation  thérapeutique et psychothérapie brève de l’adulte;2;155;4;1600;1;1;4
+1571;119;5586;Français;249;Psychanalyse et psychopathologie clinique:  Groupe et institution;2;155;4;1600;1;1;4
+1572;119;5586;Français;249;Psychanalyse et psychopathologie clinique:  la technique psychanalytique;2;155;4;1600;1;2;4
+1573;119;5586;Français;249;Psychanalyse et psychopathologie clinique:  le symptôme de Freud à Lacan;2;155;4;1600;1;3;4
+1574;119;5586;Français;249;Psychanalyse et psychopathologie clinique:  traitements psychanalytiques avec les enfants et les adolescents;2;155;4;1600;1;1;4
+1575;119;5586;Français;255;Recherche clinique : analyse de survie;2;155;2;800;1;3;3
+1576;119;5586;Français;255;Recherche clinique : approche qualitative dans la recherche clinique;2;155;2;800;1;3;3
+1577;119;5586;Français;255;Recherche clinique : épidémiologie génétique;2;155;2;800;1;3;3
+1578;119;5586;Français;255;Recherche clinique : régression logistique;2;155;2;800;1;3;3
+1579;119;5586;Français;255;Recherche clinique: analyse médico-économique;2;155;2;800;1;3;3
+1580;119;5586;Français;255;Remédiation cognitive avec RECOS;2;155;4;2700;1;4;4
+1581;119;5586;Français;255;Troubles du comportement alimentaire;2;155;2;800;1;4;3
+1582;119;351;Français;257;Archival, Library and Information Science (Archivistique) avec Université de Berne;1;193;4;27000;1;24;4
+1583;119;351;Anglais;257;Archival, Library and Information Science (Archivistique) avec Université de Berne;1;193;4;27000;1;24;4
+1584;119;351;Allemand;257;Archival, Library and Information Science (Archivistique) avec Université de Berne;1;193;4;27000;1;24;4
+1585;117;6621;Français;257;Conservation du patrimoine et muséologie;1;193;4;2800;1;10;4
+1586;117;6621;Français;257;Théories, pratiques et dispositifs de formation d’enseignants;1;193;4;10000;1;10;4
+1587;119;5586;Français;257;Dramaturgie et performance de textes;1;169;4;3000;1;10;4
+1588;119;5586;Français;257;Hacker l’auteur – Auteur et autorité dans la culture digitale;2;202;3;180;1;3;4
+1590;121;6621;Français;203;Formation continue pour concierges d'immeubles à Genève;2;177;3;1500;1;0;6
+1591;121;6621;Français;203;Formation continue pour concierges d'écoles et  de salles communales de Genève;2;177;4;1500;1;0;6
+1592;121;6621;Français;223;Formation des délégué-e-s du personnel  des Caisses de prévoyance professionnelle ;2;177;4;1800;1;0;6
+1593;122;5890;Français;202;Techniques quantitatives de gestion I;2;170;3;990;1;4;4
+1594;122;5890;Français;202;Techniques quantitatives de gestion II;2;170;3;990;1;4;4
+1595;122;5890;Français;202;Séminaire TVA;2;155;2;950;1;4;3
+1596;122;5890;Français;202;Comptabilité orientée pratique;2;170;4;3950;1;2;4
+1597;122;5890;Français;202;Formation comptabilité supérieure;2;170;3;5630;1;12;4
+1598;122;5586;Français;202;Comptabilité générale;2;170;3;3680;1;12;4
+1599;122;5938;Français;202;Brevet fédéral agent fiduciaire;3;165;4;13200;1;36;4
+1600;122;5586;Français;202;Brevet fédéral spécialiste en finance et comptabilité;3;165;4;15120;1;12;4
+1601;122;6621;Français;202;Brevet fédéral spécialiste en finance et comptabilité;3;165;4;15120;1;12;4
+1602;122;6248;Français;202;Brevet fédéral spécialiste en finance et comptabilité;3;165;4;15120;1;12;4
+1603;122;5586;Français;205;Practice controlling diploma;3;181;3;4700;1;6;4
+1604;122;6621;Français;205;Practice controlling diploma;3;181;3;4700;1;6;4
+1605;122;5586;Français;205;Diplôme fédéral expert en finance et controlling;3;184;4;15100;1;18;4
+1606;122;6621;Français;205;Diplôme fédéral expert en finance et controlling;3;184;3;15100;1;18;4
+1607;122;5586;Français;205;Diplôme fédéral expert en finance et controlling;3;184;3;15100;1;30;4
+1608;122;5586;Français;205;Controlling généralités;2;155;3;1500;1;0;6
+1609;122;6621;Français;205;Controlling généralités;2;155;3;1500;1;0;6
+1610;122;5586;Français;205;Controlling sectoriel;2;155;3;1000;1;0;6
+1611;122;6621;Français;205;Controlling sectoriel;2;155;3;1000;1;0;6
+1612;122;5586;Français;205;Corporate finance;2;155;3;1800;1;0;6
+1613;122;6621;Français;205;Corporate finance;2;155;3;1800;1;0;6
+1614;122;5586;Français;205;Costing ou comptabilité des couts;2;155;3;2000;1;0;6
+1615;122;6621;Français;205;Costing ou comptabilité des couts;2;155;3;2000;1;0;6
+1616;122;5586;Français;202;Fiscalité;2;155;3;2100;1;0;6
+1617;122;6621;Français;202;Fiscalité;2;155;3;2100;1;0;6
+1618;122;5586;Français;236;Management;2;155;3;1100;1;0;6
+1619;122;6621;Français;236;Management;2;155;3;1100;1;0;6
+1620;122;5586;Français;202;Normes comptables;2;155;3;1500;1;0;6
+1621;122;6621;Français;202;Normes comptables;2;155;3;1500;1;0;6
+1622;122;5586;Français;205;SWISS GAAP - RPC - IFRS;2;155;3;1900;1;0;6
+1623;122;6621;Français;205;SWISS GAAP - RPC - IFRS;2;155;3;1900;1;0;6
+1624;122;5890;Français;191;Formation Salaires et Assurances - module débutant;2;155;2;550;1;1;3
+1625;122;5890;Français;191;Formation Salaires et Assurances - module avancé;2;155;2;550;1;1;3
+1626;122;5890;Français;191;Formation Salaires et Assurances - module confirmé;2;155;2;690;1;1;3
+1629;122;5890;Français;230;Excel pour la gestion financière de l'entreprise;2;155;4;1200;1;0;6
+1630;122;5890;Français;230;WinBIZ Comptabilité;2;155;4;300;1;2;3
+1631;122;5890;Français;230;WinBIZ Commerce: vente;2;155;4;450;1;3;3
+1632;122;5890;Français;230;WinBIZ Salaires;2;155;4;450;1;3;3
+1633;122;5890;Français;230;WinBIZ Achats;2;155;4;150;1;1;3
+1634;122;5890;Français;230;WinBIZ Commerce: stocks;2;155;4;300;1;2;3
+1635;122;5890;Français;230;WinBIZ Commerce: projects;2;155;4;150;1;1;3
+1637;122;5890;Français;202;Analyse du bilan, du compte de résultat  et tableau de financement;2;155;2;590;1;1;3
+1638;122;5890;Français;232;Anglais débutant A1;2;155;3;700;1;3;4
+1639;122;5890;Français;232;Anglais élémentaire A2;2;155;3;730;1;3;4
+1640;122;5890;Français;232;Preliminary english test B1;2;155;3;900;1;3;4
+1641;122;5890;Français;232;English first certificate B2;2;155;3;900;1;3;4
+1643;122;5890;Français;232;Certificate in advanced english C1;2;155;3;940;1;3;4
+1644;122;5890;Français;232;Allemand débutant A1;2;155;3;370;1;3;4
+1645;122;5890;Français;232;Allemand élémentaire A2;2;155;3;340;1;3;4
+1646;122;5890;Français;232;Allemand intermédiaire  ZD B1;2;155;3;470;1;3;4
+1647;122;5890;Français;232;Allemand indépendant ZDfB B2;2;155;3;440;1;3;4
+1648;122;5890;Français;232;Français débutant A1;2;155;3;700;1;3;4
+1649;122;5890;Français;232;Français intermédiaire A2;2;155;3;700;1;3;4
+1650;122;5890;Français;232;Français DELF B1;2;155;3;940;1;3;4
+1651;122;5890;Français;232;Français DELF B2;2;155;3;940;1;3;4
+1652;122;5890;Français;232;Français oral A2;2;155;3;370;1;3;4
+1653;122;5890;Français;232;Français correspondance professionnelle;2;155;3;500;1;3;4
+1654;123;5586;Français;232;Français niveau A2 B1;2;202;3;1100;1;1;4
+1655;123;5586;Français;232;Allemand niveau A2 B2;2;202;3;1100;1;1;4
+1656;123;5586;Français;232;Anglais niveau A2 B3;2;202;3;1100;1;1;4
+1657;123;5586;Français;232;Espagnol niveau A2 B4;2;202;3;1100;1;1;4
+1659;123;5586;Français;232;Allemand niveau A2 B2;2;202;3;1100;1;2;4
+1660;123;5586;Français;232;Anglais niveau A2 B3;2;202;3;1100;1;2;4
+1661;123;5586;Français;232;Espagnol niveau A2 B4;2;202;3;1100;1;2;4
+1662;123;5586;Français;232;Français standard;2;202;2;430;1;5;3
+1663;123;5586;Français;232;Français standard;2;202;2;860;1;10;3
+1664;123;5586;Français;232;Français standard;2;202;2;1290;1;15;3
+1665;123;5586;Français;232;Français standard;2;202;2;1610;1;20;3
+1666;123;5586;Français;232;Français standard;2;202;2;2040;1;1;4
+1667;123;5586;Français;232;Français standard;2;202;2;2470;1;1.25;4
+1668;123;5586;Français;232;Français standard;2;202;2;2900;1;1.5;4
+1669;123;5586;Français;232;Français standard;2;202;2;3110;1;1.75;4
+1670;123;5586;Français;232;Français standard;2;202;2;3480;1;2;4
+1671;123;5586;Français;232;Français standard;2;202;2;3850;1;2.25;4
+1672;123;5586;Français;232;Français standard;2;202;2;4220;1;2.5;4
+1673;123;5586;Français;232;Français standard;2;202;2;4300;1;2.75;4
+1674;123;5586;Français;232;Français pour au pair;2;202;4;2556;1;10;4
+1675;123;5586;Français;232;Français intensif;2;202;2;640;1;5;3
+1676;123;5586;Français;232;Français intensif;2;202;2;1280;1;10;3
+1677;123;5586;Français;232;Français intensif;2;202;2;1920;1;15;3
+1678;123;5586;Français;232;Français intensif;2;202;2;2350;1;20;3
+1679;123;5586;Français;232;Français intensif;2;202;2;2780;1;1;4
+1680;123;5586;Français;232;Français intensif;2;202;2;3210;1;1.25;4
+1681;123;5586;Français;232;Français intensif;2;202;2;3640;1;1.5;4
+1682;123;5586;Français;232;Français intensif;2;202;2;3820;1;1.75;4
+1683;123;5586;Français;232;Français intensif;2;202;2;4370;1;2;4
+1684;123;5586;Français;232;Français intensif;2;202;2;4920;1;2.25;4
+1685;123;5586;Français;232;Français intensif;2;202;2;5470;1;2.5;4
+1686;123;5586;Français;232;Français intensif;2;202;2;5570;1;2.75;4
+1687;123;5586;Français;232;Pratique de l'oral;2;202;2;235;1;5;3
+1688;123;5586;Français;232;Pratique de l'oral;2;202;2;470;1;10;3
+1689;123;5586;Français;232;Pratique de l'oral;2;202;2;705;1;15;3
+1690;123;5586;Français;232;Pratique de l'oral;2;202;2;940;1;20;3
+1691;123;5586;Français;232;Pratique de l'oral;2;202;2;1175;1;1;4
+1692;123;5586;Français;232;Pratique de l'oral;2;202;2;1410;1;1.25;4
+1693;123;5586;Français;232;Pratique de l'oral;2;202;2;1645;1;1.5;4
+1694;123;5586;Français;232;Pratique de l'oral;2;202;2;1880;1;1.75;4
+1695;123;5586;Français;232;Pratique de l'oral;2;202;2;2115;1;2;4
+1696;123;5586;Français;232;Pratique de l'oral;2;202;2;2350;1;2.25;4
+1697;123;5586;Français;232;Pratique de l'oral;2;202;2;2585;1;2.5;4
+1698;123;5586;Français;232;Pratique de l'oral;2;202;2;2820;1;2.75;4
+1699;117;6621;Anglais;229;Humanitarian action;1;193;4;15000;1;10;4
+1700;117;6621;Anglais;229;International and european securities;1;193;4;15000;1;8;4
+1701;117;6621;Anglais;229;Humanitarian action;1;180;4;8000;1;5;4
+1702;117;6621;Français;236; Management et administration des affaires;1;180;4;12900;1;22;4
+1703;117;6621;Anglais;229;Communication, Advocacy and Negotiation  for Humanitarian Action;1;169;4;5000;1;2;4
+1704;117;6621;Anglais;229;Designing Strategies and Projects for Humanitarian Action;1;169;4;5000;1;2;4
+1705;117;6621;Anglais;229;Designing Strategies and Projects for Humanitarian Action;1;169;4;6000;1;8;4
+1706;117;6621;Anglais;229;Disaster Management;1;169;4;5000;1;0;6
+1707;117;6621;Français;229;E-Reputation Management;1;169;4;0;4;10;4
+1708;117;6621;Anglais;229;Health in Humanitarian Emergencies;1;169;4;5000;1;2;4
+1709;117;6621;Anglais;229;Legal Environment of Humanitarian Action;1;169;4;5000;1;2;4
+1710;117;6621;Anglais;229;People Management in Humanitarian Settings;1;169;4;5000;1;2;4
+1711;117;6621;Anglais;229;Advocacy for Humanitarian Projects in Health;2;202;2;1500;1;5;3
+1712;117;6621;Anglais;229;Anthropology and Intercultural Aspects of Humanitarian Action;2;202;2;1500;1;5;3
+1713;117;6621;Anglais;229;Chronic Diseases in Humanitarian Contexts;2;202;2;1500;1;5;3
+1714;117;6621;Anglais;229;Communication in Humanitarian Settings;2;202;2;1500;1;5;3
+1715;117;6621;Français;229;Les conférences du Global Studies Institute (GSI);2;202;2;0;4;0;6
+1716;117;6621;Anglais;229;Designing an Advocacy Strategy for Humanitarian Action;2;202;2;1500;1;5;3
+1717;117;6621;Anglais;229;International Law and Humanitarian Action;2;202;2;1500;1;5;3
+1718;117;6621;Anglais;229;Legal Framework of Forced Migration;2;202;2;1500;1;5;3
+1719;117;6621;Anglais;229;Manager, Leader and Coach;2;202;2;1500;1;5;3
+1720;117;6621;Anglais;229;Negotiation in Humanitarian Settings;2;202;2;1500;1;5;3
+1721;117;6621;Anglais;229;Sexual Violence in Conflict Settings and Emergencies;2;202;2;1500;1;5;3
+1722;117;6621;Français;229;Sexual Violence in Conflict Settings and Emergencies;2;202;2;1500;1;5;3
+1723;117;6621;Anglais;229;Special Protection Challenges and International Law;2;202;2;1500;1;5;3
+1724;117;6621;Anglais;229;Team Management in Humanitarian Settings;2;202;2;1500;1;5;3
+1725;117;6621;Anglais;229;Values, Ethics and Dilemmas in Humanitarian Action;2;202;2;1500;1;5;3
+1726;117;6621;Français;201;Théorie et techniques de la communication écrite;1;180;4;6900;1;20;4
+1727;117;6621;Français;201;Communication digitale et expertise web;1;169;4;0;4;0;6
+1728;117;6621;Français;201;Communication digitale et réseaux sociaux;1;169;4;0;4;0;6
+1729;117;6621;Français;201;Techniques de la communication écrite;1;169;4;3450;1;8;4
+1730;117;6621;Français;201;Prendre la parole - Elocution, rudiments de rhétorie pratique;2;202;4;2500;1;9;4
+1731;117;6621;Anglais;211;Children's rights;1;193;4;0;4;18;4
+1732;117;6621;Anglais;211;International Law in Armed Conflict;1;193;4;15000;1;20;4
+1733;117;6621;Anglais;211;LL.M. International Dispute Settlement (MIDS);1;193;2;25000;1;12;4
+1734;117;6621;Anglais;211;LL.M. International Humanitarian Law and Human Rights;1;193;4;0;4;12;4
+1735;117;6621;Anglais;211; LL.M. Tax;1;193;4;0;4;12;4
+1736;117;6621;Anglais;211;Transitional Justice, Human Rights and the Rule of Law;1;193;4;0;4;12;4
+1737;117;6621;Français;259;Expertises psycho-judiciaires pour enfants et adolescents;1;180;4;0;4;26;4
+1738;117;6266;Français;259;Protection de l'enfant;1;180;4;0;4;0;6
+1739;117;6621;Anglais;211;Children's rights;1;169;4;5150;1;18;4
+1740;117;6621;Anglais;236;Compliance management;1;169;4;12000;1;12;4
+1741;117;6621;Français;211;Droits de l'homme;1;169;4;5800;1;10;4
+1742;117;6621;Français;211;Enfants victimes, enfants témoins:  la parole de l’enfant en justice;1;169;4;6450;1;18;4
+1743;117;6621;Anglais;221;Financial regulation;1;169;4;10800;1;10;4
+1744;117;6266;Français;211;Fondements théoriques en expertises  psycho-judiciaires pour enfants et adolescents;1;169;4;10150;1;15;4
+1745;117;6621;Anglais;211;Legal Environment of Humanitarian Action;1;169;4;5000;1;2;4
+1746;117;6266;Français;211;Protection de l'enfant;1;169;4;0;4;0;6
+1747;117;6621;Anglais;211;International Criminal Law and Transitional Justice;2;202;2;1500;1;5;3
+1748;117;6621;Anglais;211;E-Learning Programme on International Water Law;2;202;4;0;4;2;4
+1749;117;6621;Anglais;211;International Law and Humanitarian Action;2;202;2;1500;1;5;3
+1750;117;6621;Français;211;Journée de droit administratif;2;202;2;320;1;1;3
+1751;117;6621;Français;211;Journée de droit bancaire et financier;2;202;2;580;1;1;3
+1752;117;6621;Français;211;Journée de droit civil;2;202;2;380;1;1;3
+1753;117;6621;Français;211;Journée de droit de la propriété intellectuelle;2;202;2;450;1;1;3
+1754;117;6621;Français;211;Journée de droit fiscal;2;202;2;500;1;1;3
+1755;117;6621;Français;211;Journée de la responsabilité civile;2;202;2;380;1;1;3
+1756;117;6621;Français;211;La propriété intellectuelle dans le domaine  de la recherche scientifique;2;202;2;80;1;1;3
+1757;117;6621;Anglais;211;Legal Framework of Forced Migration;2;202;2;1500;1;5;3
+1758;117;6621;Français;211;Mieux légiférer: rédaction et méthode législatives;2;202;2;2200;1;4;3
+1759;117;6621;Anglais;211;Special Protection Challenges and International Law;2;202;2;1500;1;5;3
+1760;117;6621;Anglais;259;Corporate social responsibility;1;193;4;0;4;18;4
+1761;117;6621;Anglais;187;International Organizations Master in Business Administration;1;196;2;40500;1;12;4
+1762;117;6621;Français;236;Management stratégique des institutions de santé;1;193;4;15000;1;18;4
+1763;117;6621;Anglais;187;Master in business administration;1;196;4;31500;1;24;4
+1764;117;6621;Anglais;187;Master of business administration;1;186;2;31200;1;24;4
+1765;117;6621;Français;258;Sécurité de l'information;1;193;4;15000;1;24;4
+1766;117;6621;Anglais;187;Sports administration and technology;1;193;4;27000;1;24;4
+1767;117;6621;Français;230;Stratégie et confiance numériques;1;193;4;19000;1;12;4
+1768;117;6621;Anglais;236;Aviation management;1;180;4;18000;1;10;4
+1769;117;6621;Anglais;201;Community trading;1;180;4;0;4;12;4
+1770;117;6621;Français;237;Communication digitale, expertise web et réseaux sociaux;1;180;4;10000;1;10;4
+1771;117;6621;Français;223;Contrôle de gestion;1;180;4;11000;1;10;4
+1772;117;6621;Anglais;259;Corporate social responsibility;1;180;4;0;4;10;4
+1773;117;6621;Anglais;236;Entrepreneurship and business development;1;180;4;14300;1;12;4
+1774;117;6621;Français;236;Face au risque: décider et intervenir;1;169;4;7500;1;12;4
+1775;117;6621;Français;223;Gestion culturelle;1;180;4;9800;1;18;4
+1776;117;6621;Français;225;Gestion d'entreprise;1;180;4;13500;1;24;4
+1777;117;6621;Français;223;Gestion et management dans les organismes sans but lucratif;1;180;4;11500;1;10;4
+1778;117;6621;Français;223;Gestion des risques d'entreprise;1;180;4;9900;1;10;4
+1779;117;6621;Anglais;236;International management / 2 nd year MBA;1;180;4;13100;1;12;4
+1780;117;6621;Anglais;236;International organizations management;1;180;4;15000;1;10;4
+1781;117;6621;Français;219;Management durable.  Responsabilité sociale et environnementale;1;180;4;0;4;10;4
+1782;117;6621;Français;236;Management et administration des entreprises;1;180;4;17000;1;14;4
+1783;117;6621;Français;236;Management des institutions de santé;1;180;4;8850;1;12;4
+1784;117;6621;Français;236;Management des institutions sociales;1;180;4;9500;1;10;4
+1785;117;6621;Français;236;Management de projets;1;180;4;12000;1;10;4
+1786;117;6621;Français;236;Management stratégique, achats,  logistique et approvisionnements;1;180;4;12700;1;10;4
+1787;117;6621;Anglais;237;Strategic marketing;1;180;4;12000;1;10;4
+1788;117;6621;Français;237;Stratégie marketing, communication et e-business;1;180;4;11900;1;10;4
+1789;117;6621;Anglais;237;Analytical marketing;1;169;4;5700;1;10;4
+1791;117;6621;Anglais;237;Branding and digital marketing;1;169;4;5700;1;10;4
+1792;117;6621;Français;223;Comptabilité gestion fiscalité;1;169;4;6000;1;10;4
+1793;117;6621;Anglais;259;Corporate social responsibility;1;169;4;0;4;5;4
+1794;117;6621;Français;219;Développement durable;1;169;4;6800;1;0;6
+1795;117;6621;Français;201;E-business et ecommunication;1;169;4;6900;1;9;4
+1796;117;6621;Anglais;223;Entrepreneurship & Business Development;1;169;4;9500;1;12;4
+1797;117;6621;Français;236;Face au risque: décider et intervenir;1;169;4;7500;1;12;4
+1798;117;6621;Anglais;236;People Management in Humanitarian Settings;1;169;4;5000;1;2;4
+1799;117;6621;Anglais;236;IFRS & IPSAS;1;169;4;8000;1;5;4
+1800;117;6621;Français;236;IFRS & IPSAS;1;169;4;8000;1;5;4
+1801;117;6621;Anglais;236;International organizations management;1;169;4;10500;1;10;4
+1802;117;6621;Français;236;Leadership Diversity, femmes dirigeantes & gouvernance;1;169;4;6000;1;9;4
+1803;117;6621;Français;236;Management de l'énergie;1;169;4;7800;1;9;4
+1804;117;6621;Français;224;Management de projets;1;169;4;7300;1;9;4
+1805;117;6621;Français;236;Management de proximité dans les institutions de santé;1;169;4;5200;1;9;4
+1806;117;6621;Français;236;Management des institutions sociales;1;169;4;5200;1;9;4
+1807;117;6621;Anglais;236;Modern Management for Non Profit Organizations;1;169;4;6900;1;1;4
+1808;117;6621;Français;223;Sécurité de l’information – technologies et services;1;169;4;7000;1;18;4
+1809;117;6621;Français;223;Gouvernance de la sécurité de l’information dans les entreprises ;1;169;4;7000;1;18;4
+1810;117;6621;Français;258;Gestion de la sécurité dans un contexte global;1;169;4;7000;1;18;4
+1811;117;6621;Anglais;229;Designing Strategies and Projects for Humanitarian Action;1;169;4;5000;1;2;4
+1812;117;6621;Français;237;Stratégie marketing;1;169;4;6900;1;10;4
+1813;117;6621;Anglais;236;Executive summer school-Leadership for social innovation;2;202;2;3700;1;5;3
+1814;117;6621;Anglais;229;Designing an Advocacy Strategy for Humanitarian Action;2;202;2;1500;1;5;3
+1815;117;6621;Français;270;Politiques de sécurité urbaine;2;202;2;0;4;1;3
+1816;117;6621;Français;198;Formation des coaches self-leadership;2;155;4;3900;1;12;4
+1817;117;6621;Français;259;Gestion des médias sociaux – fixation des objectifs,  méthodes et outils de mesure;2;202;2;600;1;1;3
+1818;117;6621;Français;236;La montagne suisse-Aménager avec le paysage;2;202;2;190;1;1;3
+1819;117;6621;Anglais;236;Manager, Leader and Coach;2;202;2;1500;1;5;3
+1820;117;6621;Français;236;Normes IPSAS-International Public Sector Accounting Standards;2;202;2;400;1;1;3
+1821;117;6621;Français;236;Normes Swiss GAAP RPC;2;202;2;800;1;2;3
+1822;117;6621;Anglais;236;Project Cycle Management in Humanitarian Settings;2;202;2;1500;1;5;3
+1823;117;6621;Français;236;Self leadership;2;202;4;4400;1;6;4
+1824;117;6621;Anglais;236;Sustainability Transition Leadership (STL);2;202;4;12100;1;5;4
+1825;117;6621;Anglais;236;Team Management in Humanitarian Settings;2;202;2;1500;1;5;3
+1826;117;6621;Anglais;236;How commodity traders confront market,  financial and climate uncertainty;2;202;2;300;1;1;3
+1827;117;6621;Français;213;Education internationale et recherche;1;193;4;11000;1;24;4
+1828;117;6621;Anglais;213;Interpreter training;1;193;4;8000;1;12;4
+1829;117;6621;Français;213;Coopération internationale en éducation;1;180;4;8000;1;24;4
+1830;117;6621;Français;213;Disciplines artistiques et sportives de l’enseignement primaire:  arts visuels, musique, rythmique et éducation physique;1;180;4;0;4;18;4
+1831;117;6621;Français;213;Gestion et direction d'institutions de formation;1;180;4;7000;1;18;4
+1832;117;6621;Français;213;Administration et gestion d’institutions de formation;1;169;4;0;4;20;4
+1833;117;6621;Français;213;Approches didactiques et formation;1;169;4;3000;1;15;4
+1834;117;6621;Français;213;Conception et développement de projets e-learning;1;169;4;6500;1;9;4
+1835;117;6621;Français;213;Education interculturelle;1;169;4;4000;1;24;4
+1836;117;6621;Français;213;Formation d'adultes (anciennement CEDASF);1;169;4;8525;1;22;4
+1837;117;6621;Français;213;Soutien pédagogique;1;169;4;0;4;18;4
+1838;117;6621;Français;213;Logopédie;2;202;2;0;4;2;3
+1839;117;6621;Français;213;Quelles stratégies pour développer les capacités d’apprentissage;2;202;4;2200;1;6;3
+1840;117;6621;Français;270;Urbanisme durable;1;193;4;12000;1;26;4
+1841;117;6621;Français;219;Développement durable;1;169;4;6800;1;0;6
+1842;117;6621;Français;219;Gestion et politique de l'eau;1;169;4;7000;1;9;4
+1843;117;6621;Français;219;Management de l'énergie;1;169;4;7800;1;9;4
+1844;117;6621;Français;219;Méthodologie du diagnostic territorial,  gestion de l'information et prospective;1;169;4;3900;1;4;4
+1845;117;6621;Français;270;Urbanisme durable: régimes d’urbanisation,  régulation des ressources matérielles et gouvernance;1;169;4;3900;1;5;4
+1846;117;6621;Français;270;Urbanisme opérationnel: de la théorie  du projet à la maîtrise d'ouvrage;1;169;4;3900;1;5;4
+1847;117;6621;Français;219;Energie-environnement / Cycle de formation;2;202;3;0;4;9;4
+1848;117;6621;Anglais;219;Executive Summer School Global environmental policy 2015;2;202;4;6800;1;12;3
+1849;117;6621;Français;219;Valorisation de la géothermie:le rôle clé des réseaux de chaleur;2;202;2;300;1;1;3
+1850;117;6621;Français;236;MATIS - Management et technologie  des systèmes d'information;1;180;4;0;4;24;4
+1851;117;6621;Français;230;Direction des systèmes d'information et des services (DSI);1;169;4;5000;1;5;4
+1852;117;6621;Français;224;Gestion de projets des systèmes d'information et des services;1;169;4;5000;1;5;4
+1853;117;6621;Français;230;Modélisation des services et des systèmes d’information;1;169;4;5000;1;5;4
+1854;117;6621;Français;230;Nouvelles technologies du web;1;169;4;5000;1;8;4
+1855;117;6621;Anglais;207;Ecunemical studies;1;193;4;24500;1;10;4
+1856;117;6621;Français;207;Archéologie classique et droit des biens culturels;1;180;4;8200;1;20;4
+1857;117;6621;Français;207;Archéologie classique: une introduction;1;169;4;4200;1;15;4
+1858;117;6621;Anglais;212;Ecunemical studies;1;169;4;11350;1;6;4
+1859;117;6621;Anglais;207; Interpreter Training: Foundations of Training Interpreters;1;169;4;0;4;4;4
+1860;117;6621;Anglais;207; Interpreter Training: Program Design and  Consecutive Interpreting;1;169;4;0;4;4;4
+1861;117;6621;Anglais;207; Interpreter Training: Simultaneous Interpreting  and Pedagogical Innovation;1;169;4;0;4;4;4
+1862;117;6621;Français;207;L'archéologie, une science du passé?  Une réflexion pour le monde actuel;2;202;4;1450;1;3;4
+1863;117;6621;Français;207;De Troie à Alexandrie. Art et archéologie du monde grec;2;202;4;1450;1;4;4
+1864;117;6621;Français;207;De Rome à Constantinople. Art et archéologie du monde romain;2;202;4;1450;1;3;4
+1865;117;6621;Français;207;Le chinois par les TIC;2;202;4;1250;1;0;6
+1866;117;6621;Français;207;L'Italie: langue, culture et société;2;202;4;0;4;4;4
+1868;117;6621;Français;249;Evaluation et interventions psychologiques;1;193;4;2000;1;12;4
+1869;117;6621;Français;249;Psychologie de la santé;1;193;4;23000;1;24;4
+1870;117;6621;Français;249;Mediation;1;180;4;7650;1;18;4
+1871;117;6621;Français;249;Autisme: diagnostic, intervention et recherche;1;169;4;4500;1;18;4
+1872;117;6621;Français;249;Conseil psychologique, santé, famille et maladie;1;169;4;0;4;3;4
+1873;117;6266;Français;249;Mediation;1;169;4;7650;1;18;4
+1874;117;6621;Français;249;Psychologie de la santé. Analyse concrète  des pratiques de situations de soins;1;169;4;0;4;3;4
+1875;117;6621;Français;249;Sciences comportementales appliquées  à la promotion de la santé;1;169;4;0;4;4;4
+1876;117;6621;Français;249;Thérapies basées sur la mentalisation (TBM);2;202;2;1200;1;4;3
+1877;117;6621;Français, Anglais;249;3rd International Conference on Mentalization-Based Therapy;2;202;2;250;1;2;3
+1878;117;6621;Français;254;Médecine dentaire esthétique microinvasive;1;193;4;50000;1;24;4
+1879;117;6621;Anglais;254;Microinvasive Aesthetic Dentistry;1;193;4;50000;1;24;4
+1880;117;6621;Français;254;Microbiologie;1;193;4;0;4;12;4
+1881;117;6621;Français;254;Santé publique;1;193;4;24000;1;36;4
+1882;117;6621;Anglais;254;Toxicology;1;193;4;10900;1;24;4
+1883;117;6621;Anglais;254;Management of clinical trials;1;180;4;6500;1;12;4
+1884;117;6621;Français;254;Médecine dentaire pédiatrique microinvasive;1;180;4;15000;1;12;4
+1885;117;6621;Français;249;Psychothérapie cognitivo-comportementale;1;180;4;15000;1;32;4
+1886;117;6621;Français;249;Psychothérapie psychanalytique - Cadre et espaces thérapeutiques;1;169;3;4600;1;12;4
+1887;117;6621;Français;249;Psychothérapie systémique;1;180;4;16000;1;24;4
+1888;117;6621;Français;254; Colposcopie et pathologie cervico-vaginale et vulvaire;1;169;4;1800;1;8;4
+1889;117;6621;Français;254;Discrimination, santé et droits humains;1;169;4;3500;1;12;4
+1890;117;6621;Français;254; Education thérapeutique du patient (CEFEP);1;169;4;7000;1;6;4
+1891;117;6621;Anglais;254;Health in Humanitarian Emergencies;1;169;4;5000;1;0;6
+1892;117;6621;Français;254;Informatique médicale;1;169;4;6000;1;9;4
+1893;117;6621;Français;254;Médecine psychosomatique et psychosociale;1;169;4;5500;1;26;4
+1894;117;6621;Français;254;Médecine subaquatique et hyperbare;1;169;4;3200;1;12;4
+1895;117;6621;Français;254;Obstétrique, médecine maternelle et fœtale;1;169;4;4000;1;12;4
+1896;117;6621;Français;254;Pharmacie clinique;1;169;4;3000;1;10;4
+1897;117;6621;Français;254;Promotion de la santé et santé communautaire;1;169;4;3950;1;10;4
+1898;117;6621;Français;254;Recherche clinique orientée patients;1;169;4;5000;1;10;4
+1899;117;6621;Français;254;Santé en milieu pénitentiaire;1;169;4;5800;1;14;4
+1900;117;6621;Français;254;Santé et diversités: comprendre et  pratiquer les approches transculturelles;1;169;4;4950;1;9;4
+1901;117;6621;Français;254;Santé mentale publique;1;169;4;6500;1;12;4
+1902;117;6621;Français;254;Sexologie clinique;1;169;4;7200;1;22;4
+1903;117;6621;Français;254;Stratégies cognitives et comportementales  de la relation thérapeutique;1;169;4;9000;1;20;4
+1904;117;6621;Français;254;Médecine dentaire;2;155;4;0;4;10;4
+1905;117;6621;Anglais;254;Nutritional crises: origins, consequences and interventions;2;202;4;1500;1;5;3
+1906;117;6621;Français;254;Sexual and Reproductive Health in Humanitarian Emergencies;2;202;4;1500;1;5;3
+1907;117;6621;Français;268;Comment tirer profit des corpus pour la traduction ?;2;202;2;1300;1;2;3
+1908;117;6621;Anglais;268;Editing in english;2;202;7;500;1;1;3
+1909;117;6621;Français;268;Internet : recherche éveillée pour le traducteur;2;202;7;500;1;1;3
+1910;117;6621;Anglais;268;InZone Basic Course in Humanitarian Interpreting;2;202;4;0;4;4;4
+1911;117;6621;Français, Anglais;268;La révision des traduction: buts et méthodes;2;202;4;500;1;3;3
+1912;117;6621;Français, Anglais;268;La traduction de textes scientifiques et techniques (Anglais - Français);2;202;2;0;4;2;3
+1913;117;6621;Français, Anglais;268;La traduction de documents contractuels:  une approche pragmatique;2;202;4;1000;1;2;4
+1914;117;6621;Français;268;Format TermBase eXchange (TBX);2;202;2;1200;1;2;3
+1915;117;6621;Français;268;Les négociations commerciales expliquées au traducteur;2;202;2;800;1;3;3
+1916;117;6621;Français;268;Les systèmes de mémoire de traduction;2;202;4;3000;1;3;4
+1917;117;6621;Français;268;Reconnaissance vocale au service du traducteur;2;202;2;500;1;1;3
+1918;117;6621;Français;268;Terminographie;2;202;2;600;1;1;3
+1919;117;6621;Français, Allemand;268;Traduire les textes juridiques suisses;2;202;4;1200;1;1;4
+1920;117;6621;Anglais, Arabe;268;Translating Legal Texts in Humanitarian Contexts;2;202;4;2500;1;1;4
+1921;79;5586;Français;255;DAS en art thérapie;1;180;4;18200;1;36;4
+1922;79;5586;Français;255;DAS en thérapie avec le cheval;1;180;4;16700;1;36;4
+1923;79;5586;Français;255;DAS en action communautaire et promotion de la santé;1;180;4;13700;1;24;4
+1924;79;5586;Français;255;DAS en addictions;1;180;4;0;4;24;4
+1925;79;5586;Français;255;CAS en analyse de l’activité et adaptation  ergonomique des postes de travail;1;169;4;6000;1;18;4
+1926;79;5586;Français;255;CAS en case management;1;169;4;6100;1;13;4
+1927;79;5586;Français;255;CAS en conception et direction de programmes d'insertion;1;169;4;6000;1;12;4
+1928;79;5586;Français;255;CAS en curatelles d'adultes;1;169;4;5600;1;12;4
+1929;79;5586;Français;255;CAS en gestion d'équipe et conduite de projets;1;169;4;5600;1;12;4
+1930;79;5586;Français;255;CAS d'intervenante et d’intervenant socio-éducatif  en milieu ouvert et dans les familles;1;169;4;5600;1;20;4
+1931;79;5586;Français;255;CAS en intervention en situation complexe d’accompagnement:  entre déficience intellectuelle et troubles psychiques;1;169;4;6000;1;14;4
+1932;79;5586;Français;255;CAS de manager socioculturel dans le domaine  des musiques actuelles;1;169;4;5600;1;12;4
+1933;79;5586;Français;255;CAS de médiateur culturel;1;169;4;5800;1;16;4
+1934;79;5586;Français;255;CAS de praticienne et de praticien formateur / Vaud;1;169;4;450;1;12;4
+1935;79;5586;Français;255;CAS en santé mentale et psychiatrie sociale;1;169;4;5600;1;12;4
+1936;79;5586;Français;255;CAS de thérapeute en intégration neuro-sensorielle;1;169;4;5200;1;15;4
+1937;79;5586;Français;255;CAS interprofessionnel en addictions;1;169;4;0;4;12;4
+1938;79;5586;Français;255;CAS en éthique du travail social;1;169;4;5600;1;18;4
+1939;79;5586;Français;255;Formation de codeur et codeuse interprète en  Langage Parlé Complété (LPC);2;172;4;3000;1;22;4
+1940;79;5586;Français;255;Formation à la coordination de l'accueil familial de jour;2;172;4;5300;1;24;4
+1941;118;261;Français;211;Maîtrise universitaire en droit des  universités de Zurich et Lausanne;3;192;2;0;4;18;4
+1942;79;6621;Français;255;CAS en éthique du travail social;1;169;4;5600;1;18;4
+1945;66;5586;Français;222;Responsable de formation;3;165;3;0;4;0;6
+1946;66;5586;Français;222;Reconnaissance et validation des acquis d'expérience;2;175;2;200;1;1;3
+1947;70;5586;Français;236;Expert en management des organisations;3;184;3;0;4;0;6
+1948;70;5586;Français;224;Formation project manager;2;177;3;3300;1;6;3
+1949;70;5586;Français;248;Introduction à la gestion des processus;2;155;2;1690;1;3;3
+1950;75;6458;Français;248;CFC d'agent d'exploitation selon l'art. 32;2;174;3;0;4;0;6
+1951;75;6458;Français;202;Comptable spécilisé - Certficat Edupool;2;170;3;6060;1;18;4
+1952;77;2198;Français, Allemand;230;Infrastucture informatique - Fondement du système d'exploitation Windows;2;155;2;2336;1;3;3
+1953;77;2198;Français, Allemand;230;Windows 8 - Configuration;2;155;2;3516;1;5;3
+1954;77;2198;Français, Allemand;230;Windows 8 - Gestion et maintenance;2;155;2;3516;1;5;3
+1955;77;2198;Français, Allemand;230;Windows 7 - Installation et configuration du client ;2;155;2;2336;1;3;3
+1956;77;2198;Français, Allemand;230;Windows 7 - Dépannage et support Winadows dans l'entreprise;2;155;2;2336;1;3;3
+1957;77;2198;Français, Allemand;230;Windows 7 - Planification et gestion des environnements;2;155;2;2516;1;5;3
+1958;77;2198;Français, Allemand;230;Windows Server 2012 - Principe de base;2;155;2;2336;1;3;3
+1959;77;2198;Français, Allemand;230;Windows Server 2012 - Mise en réseau notions fondamentales;2;155;2;2336;1;3;3
+1960;77;2198;Français, Allemand;230;Windows Server 2012 - Principes fondamentaux de sécurité;2;155;2;2336;1;3;3
+1961;77;2198;Français, Allemand;230;Windows Server 2012 - MCSA;2;155;2;10116;1;15;3
+1962;77;2198;Français, Allemand;230;Windows Server 2012 - Installing and configuring;2;155;2;3516;1;5;3
+1963;77;2198;Français, Allemand;230;Windows Server 2012 - Administring ;2;155;2;3516;1;5;3
+1964;77;2198;Français, Allemand;230;Windows Server 2012 - Configuring Advanced Windows Server;2;155;2;3516;1;5;3
+1965;77;2198;Français, Allemand;230;Infrastructure serveur - Designing and Implementing;2;155;2;3516;1;5;3
+1966;77;2198;Français, Allemand;230;Infrastructure serveur - Implementing an Advanced Server;2;155;2;3516;1;5;3
+1967;77;2198;Français, Allemand;230;Infrastructure de bureau - Implementing a Desktop;2;155;2;3516;1;5;3
+1968;77;2198;Français, Allemand;230;Infrastructure de bureau - Implementing a Desktop application environments;2;155;2;3516;1;5;3
+1969;77;2198;Français, Allemand;230;Windows Server 2008 - Vue d'ensemble de l'Active Directoriy Rights Management Service;2;177;2;1510;1;2;3
+1970;77;2198;Français, Allemand;230;Windows Server 2008 - Microsoft Jump Start;2;177;2;990;1;1;3
+1971;77;2198;Français, Allemand;230;Windows Server 2008 - Mise à jour de vos compétences de technologie;2;177;2;3300;1;5;3
+1972;77;2198;Français, Allemand;230;Windows Server 2008 - Déploiement;2;177;2;2120;1;3;3
+1973;77;2198;Français, Allemand;230;Windows Server 2008 - Configuration, gestion et entretien des serveurs;2;177;2;3309;1;5;3
+1974;77;2198;Français, Allemand;230;Windows Server 2008 - Configuration et dépannage d'une infrastructure de réseau;2;177;2;3300;1;5;3
+1975;77;2198;Français, Allemand;230;Windows Server 2008 - Configuration et dépannage de Windows 2008;2;177;2;3300;1;5;3
+1976;77;2198;Français, Allemand;230;Windows Server 2008 - Configuration et dépannage d'identité et solution d'accès;2;177;2;2120;1;3;3
+1977;77;2198;Français, Allemand;230;Windows Server 2008 - Planification et mise en œuvre de Windows;2;177;2;3300;1;5;3
+1978;77;2198;Français, Allemand;230;Windows Server 2008 - Conception de réseau Windows Server 2008;2;177;2;3700;1;5;3
+1979;77;2198;Français, Allemand;230;Windows Server 2008 - Conception de services et infrastructure;2;177;2;3300;1;5;3
+1980;77;2198;Français, Allemand;230;Windows Server 2008 - Implémentation et administration de Windows Share point;2;177;2;1510;1;2;3
+1981;77;2198;Français, Allemand;230;Windows Server 2008 - Configuration et dépannage de Windows 2008 infrastructure d'Applications;2;177;2;3300;1;5;3
+1982;79;5586;Français;255;DAS en intervention systémique dans l'action sociale et psycholosocial;1;180;4;11200;4;0;6
+1983;80;5586;Anglais;235;Global Supply Chain management;1;169;2;7900;4;12;4
+1984;104;0;Français;202;Assistant comptable RH;3;181;1;0;4;8;4
+1985;107;5938;Français;196;Atelier Excel E1: Excel efficace au quotidien;2;202;4;80;1;1;3
+1986;107;5938;Français;196;Atelier Excel E2:  Base de données I;2;202;4;160;1;2;3
+1987;107;5938;Français;196;Atelier Excel E3:  Base de données II;2;202;4;80;1;1;3
+1988;107;5938;Français;196;Atelier Excel E4:  Fonctions statistiques;2;202;4;160;1;2;3
+1989;107;5938;Français;196;Atelier Excel E5:  Les graphiques;2;202;4;80;1;1;3
+1990;107;5938;Français;196;Atelier Excel E6:  Fonctions spéciales de recherche;2;202;4;80;1;1;3
+1991;107;5938;Français;196;Atelier Excel E7:  La consolidation;2;202;4;80;1;1;3
+1992;107;5938;Français;196;Atelier Excel E8:  Valeur cibles/ scénario/ calculs en amont;2;202;4;80;1;1;3
+1993;107;5938;Français;196;Aelier Word W0 - Découverte de Word;2;202;3;80;1;1;3
+1994;107;5938;Français;196;Aelier Word W1 - Word efficiace au quotidien;2;202;3;160;1;2;3
+1995;107;5938;Français;196;Aelier Word W2 - Correspondance;2;202;3;160;1;2;3
+1996;107;5938;Français;196;Aelier Word W3 - Formulaires;2;202;3;80;1;1;3
+1997;107;5938;Français;196;Aelier Word W4 - Travail en équipe;2;202;3;80;1;1;3
+1998;107;5938;Français;196;Aelier Word W5 - Les longs documents;2;202;3;240;1;3;3
+1999;107;5938;Français;196;Prenez en main votre PC;2;202;3;80;1;1;3
+2000;107;5938;Français;232;Espagnol débutant  ;2;202;3;560;1;10;4
+2001;107;5938;Français;210;Apprivoisez votre stress et développez votre énergie;2;202;3;540;1;5;3
+2002;107;5938;Français;223;Business Plan;2;202;3;350;1;5;3
+2003;107;5938;Français;223;Economie entrepreneuriale ;2;202;2;350;1;1.5;3
+2004;107;5938;Français;223;Economie entrepreneuriale ;2;202;3;350;1;4;3
+2005;107;5938;Français;236;l'événementiel abordable;2;202;2;450;1;1;3
+2006;107;5938;Français;210;La communication de crise;2;202;2;450;1;1;3
+2007;108;5586;Français;214;Chef de chantier - électricien;2;202;7;7200;1;5;3
+2008;114;5589;Français;236;Formation commerciale de base - Cours Interentreprise;2;155;2;0;4;3;3
+2009;114;5589;Français;236;Formateur professionnel en entreprise ;2;155;2;3500;1;8;3
+2010;115;5586;Français;232;Allemand stage intensif - Niveau B1 - B2;2;202;3;390;1;5;4
+2011;115;5586;Français;232;Anglais débutant A0 à A1;2;202;3;890;1;30;4
+2012;115;5586;Français;232;Cambridge English First - déc 2016;2;202;3;990;1;30;4
+2013;116;6248;Français;238;Licence en mathématiques;1;190;2;8400;1;36;4
+2014;116;6248;Français;238;Master en mathématiques;1;194;2;5600;1;24;4
+2015;122;5890;Français;232;Français DELF B1 - B2;2;155;4;940;0;3;4
+2016;124;2196;Français;255;Bachelor en psychologie;3;164;7;0;4;36;4
