@@ -77,42 +77,42 @@
       <form action="{% url 'recommender:results' %}" method="post">
       {% csrf_token %}
         <center>
-        <h3>Course Recommender</h3>
-        <h3>Enter your preferences and this application will recommend you courses based on your preferences.</h3>
+        <h3>Recommandation de formations continues</h3>
+        <h3>Renseignez vous préférences en termes d'une éventuelle formation continue, et nous vous recommanderons quinze cours pouvant vous intéresser. Pour chacun d'entre eux, vous devrez en juger le degré de pertinence (sur la base de son intitulé), sur une échelle de 1 à 5.</h3>
         </center>
 
       <div class="jumbotron">
         <!--<input type="form" name="name" placeholder="Name" />
         <input type="form" name="education" placeholder="Highest" />-->
-        <h2>User profile</h2>
-        <h4>Age</h4>
+        <h2>Votre profil</h2>
+        <h4>Âge</h4>
         <input type="form" name="age" placeholder="Age" value="0"/>
         <!--<input type="form" name="name" placeholder="Name" />-->
 
-        <h4>Gender</h4>
+        <h4>Genre</h4>
         <label class="hidden" for="option0"><input type="hidden" name="gender" id="option0" value="0" checked=""/></label>
-        <label class="radio-inline" for="option0"><input type="radio" name="gender" id="option0" value="1"/>Male</label>
-        <label class="radio-inline" for="option1"><input type="radio" name="gender" id="option1" value="2"/>Female</label>
+        <label class="radio-inline" for="option0"><input type="radio" name="gender" id="option0" value="1"/>Homme</label>
+        <label class="radio-inline" for="option1"><input type="radio" name="gender" id="option1" value="2"/>Femme</label>
 
-        <h4>Highest level of education</h4>
+        <h4>Dernier diplôme obtenu</h4>
         <label class="hidden" for="option0"><input type="hidden" name="edu" id="option0" value="0" checked=""/></label>
-        <label class="radio-inline" for="option0"><input type="radio" name="edu" id="option0" value="1"/>High School</label>
-        <label class="radio-inline" for="option1"><input type="radio" name="edu" id="option1" value="2"/>University</label>
-        <label class="radio-inline" for="option2"><input type="radio" name="edu" id="option2" value="3"/>Bachelors</label>
-        <label class="radio-inline" for="option3"><input type="radio" name="edu" id="option3" value="4"/>Masters</label>
-        <label class="radio-inline" for="option4"><input type="radio" name="edu" id="option4" value="5"/>Doctorate</label>
+        <label class="radio-inline" for="option0"><input type="radio" name="edu" id="option0" value="1"/>Haute école</label>
+        <label class="radio-inline" for="option1"><input type="radio" name="edu" id="option1" value="2"/>Université</label>
+        <label class="radio-inline" for="option2"><input type="radio" name="edu" id="option2" value="3"/>Bachelor</label>
+        <label class="radio-inline" for="option3"><input type="radio" name="edu" id="option3" value="4"/>Master</label>
+        <label class="radio-inline" for="option4"><input type="radio" name="edu" id="option4" value="5"/>Doctorat</label>
 
-        <h4>Employment status</h4>
+        <h4>Emploi actuel</h4>
         <label class="hidden" for="option0"><input type="hidden" name="emp" id="option0" value="0" checked=""/></label>
-        <label class="radio-inline" for="option0"><input type="radio" name="emp" id="option0" value="1"/>Unemployed</label>
-        <label class="radio-inline" for="option1"><input type="radio" name="emp" id="option1" value="2"/>Student</label>
-        <label class="radio-inline" for="option2"><input type="radio" name="emp" id="option2" value="3"/>Part time</label>
-        <label class="radio-inline" for="option3"><input type="radio" name="emp" id="option3" value="4"/>Full time</label>
-        <label class="radio-inline" for="option4"><input type="radio" name="emp" id="option4" value="5"/>Retired</label>
+        <label class="radio-inline" for="option0"><input type="radio" name="emp" id="option0" value="1"/>Sans emploi</label>
+        <label class="radio-inline" for="option1"><input type="radio" name="emp" id="option1" value="2"/>Étudiant</label>
+        <label class="radio-inline" for="option2"><input type="radio" name="emp" id="option2" value="3"/>Temps partiel</label>
+        <label class="radio-inline" for="option3"><input type="radio" name="emp" id="option3" value="4"/>Plein temps</label>
+        <label class="radio-inline" for="option4"><input type="radio" name="emp" id="option4" value="5"/>Retraité</label>
       </div>
 
       <div class="jumbotron">
-      <h2>User preferences</h2>
+      <h2>Mode(s) d'enseignement préféré(s)</h2>
       <ol>
       <li>
         <!-- Question 1: Mode-->
@@ -206,7 +206,7 @@
       <div class="jumbotron">
       <!--<li>-->
       <!-- Question 5: Duration-->
-        <h2>Select total of 5 preferred areas of study</h2>
+        <h2>Sélectionnez cinq domaines d'études favoris</h2>
         <h4>Commerce</h4>
         <label class="checkbox-inline" for="option0">
           <input type="checkbox" name="cb5" id="option0" value="186"> Achats

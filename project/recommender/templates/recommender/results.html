@@ -9,8 +9,8 @@
 
       <div>
         <center>
-          <h1>Recommended courses</h1>
-          <h3>Please select a rating for each course and Submit</h3>
+          <h1>Cours recommandés</h1>
+          <h3>Pour chacun d'entre eux, vous devrez en juger le degré de pertinence (sur la base de son intitulé), sur une échelle de 1 à 5</h3>
         </center>
         <br>
         <br>
@@ -22,16 +22,17 @@
         <input type="hidden" value="{{ user.id }}" name="userId">
 
         <div class="row">
-          <div class="table-responsive col-md-9">
+          <div class="table-responsive col-md-12">
             <!--<p>Courses recommended in sector: </p>-->
             <table class="table table-hover table-bordered table-striped">
               <tr class="warning">
-                <td class="col-md-4">Course</td>
+                <td class="col-md-4">Cours</td>
                 <td class="col-md-1">Mode</td>
-                <td class="col-md-1">Level</td>
-                <td class="col-md-1">Degree</td>
-                <td class="col-md-1">Price <SMALL>(CHF)</SMALL></td>
-                <td class="col-md-1">Sector</td>
+                <td class="col-md-1">Niveau</td>
+                <td class="col-md-1">Titre décerné</td>
+                <td class="col-md-1">Prix <SMALL>(CHF)</SMALL></td>
+                <td class="col-md-1">Secteur</td>
+                <td class="col-md-3"><b>Sélectionnez votre évaluation ici</b></td>
               </tr>
                   {% for course in rec_course1 %}
                   {% if course %}
@@ -43,45 +44,33 @@
                       <td class="col-md-1"> {{ course.price }}</td>
                       <td class="col-md-1"> <strong> {{ course.sectorStr }} </strong> </td>
                       <input type="hidden" value="{{ course.id }}" name="courseId_s0c{{forloop.counter0}}">
+                      <td class="col-md-3">
+                        <label class="radio-inline" for="option1"><input type="radio" name="rating_s0c{{forloop.counter0}}" id="option1" value="1"/>1</label>
+                        <label class="radio-inline" for="option2"><input type="radio" name="rating_s0c{{forloop.counter0}}" id="option2" value="2"/>2</label>
+                        <label class="radio-inline" for="option3"><input type="radio" name="rating_s0c{{forloop.counter0}}" id="option3" value="3"/>3</label>
+                        <label class="radio-inline" for="option4"><input type="radio" name="rating_s0c{{forloop.counter0}}" id="option4" value="4"/>4</label>
+                        <label class="radio-inline" for="option5"><input type="radio" name="rating_s0c{{forloop.counter0}}" id="option5" value="5"/>5</label>
+                      </td>
                     </tr>
                   {% endif %}
                   {% endfor %}
             </table>
           </div>
-
-          <div class="table-responsive col-md-3">
-            <table class="table table-hover table-bordered table-striped">
-              <tr class="danger" height="30px">
-                  <td>Select your rating here <br> </td>
-              </tr>
-              {% for i in "xxx" %}
-              <tr class="success" height="55px">
-                <td>
-                  <label class="radio-inline" for="option1"><input type="radio" name="rating_s0c{{forloop.counter0}}" id="option1" value="1"/>1</label>
-                  <label class="radio-inline" for="option2"><input type="radio" name="rating_s0c{{forloop.counter0}}" id="option2" value="2"/>2</label>
-                  <label class="radio-inline" for="option3"><input type="radio" name="rating_s0c{{forloop.counter0}}" id="option3" value="3"/>3</label>
-                  <label class="radio-inline" for="option4"><input type="radio" name="rating_s0c{{forloop.counter0}}" id="option4" value="4"/>4</label>
-                  <label class="radio-inline" for="option5"><input type="radio" name="rating_s0c{{forloop.counter0}}" id="option5" value="5"/>5</label>
-                </td>
-              </tr>
-              {% endfor %}
-            </table>
-          </div>
         </div>
 
 
-
         <div class="row">
-          <div class="table-responsive col-md-9">
+          <div class="table-responsive col-md-12">
             <!--<p>Courses recommended in sector: </p>-->
             <table class="table table-hover table-bordered table-striped">
               <tr class="warning">
-                <td class="col-md-4">Course</td>
+                <td class="col-md-4">Cours</td>
                 <td class="col-md-1">Mode</td>
-                <td class="col-md-1">Level</td>
-                <td class="col-md-1">Degree</td>
-                <td class="col-md-1">Price <SMALL>(CHF)</SMALL></td>
-                <td class="col-md-1">Sector</td>
+                <td class="col-md-1">Niveau</td>
+                <td class="col-md-1">Titre décerné</td>
+                <td class="col-md-1">Prix <SMALL>(CHF)</SMALL></td>
+                <td class="col-md-1">Secteur</td>
+                <td class="col-md-3"><b>Sélectionnez votre évaluation ici</b></td>
               </tr>
                   {% for course in rec_course2 %}
                   {% if course %}
@@ -93,28 +82,16 @@
                       <td class="col-md-1"> {{ course.price }}</td>
                       <td class="col-md-1"> <strong> {{ course.sectorStr }} </strong> </td>
                       <input type="hidden" value="{{ course.id }}" name="courseId_s1c{{forloop.counter0}}">
+                      <td>
+                        <label class="radio-inline" for="option1"><input type="radio" name="rating_s1c{{forloop.counter0}}" id="option1" value="1"/>1</label>
+                        <label class="radio-inline" for="option2"><input type="radio" name="rating_s1c{{forloop.counter0}}" id="option2" value="2"/>2</label>
+                        <label class="radio-inline" for="option3"><input type="radio" name="rating_s1c{{forloop.counter0}}" id="option3" value="3"/>3</label>
+                        <label class="radio-inline" for="option4"><input type="radio" name="rating_s1c{{forloop.counter0}}" id="option4" value="4"/>4</label>
+                        <label class="radio-inline" for="option5"><input type="radio" name="rating_s1c{{forloop.counter0}}" id="option5" value="5"/>5</label>
+                      </td>
                     </tr>
                   {% endif %}
                   {% endfor %}
-            </table>
-          </div>
-
-          <div class="table-responsive col-md-3">
-            <table class="table table-hover table-bordered table-striped">
-              <tr class="danger" height="30px">
-                  <td>Select your rating here <br> </td>
-              </tr>
-              {% for i in "xxx" %}
-              <tr class="success" height="55px">
-                <td>
-                  <label class="radio-inline" for="option1"><input type="radio" name="rating_s1c{{forloop.counter0}}" id="option1" value="1"/>1</label>
-                  <label class="radio-inline" for="option2"><input type="radio" name="rating_s1c{{forloop.counter0}}" id="option2" value="2"/>2</label>
-                  <label class="radio-inline" for="option3"><input type="radio" name="rating_s1c{{forloop.counter0}}" id="option3" value="3"/>3</label>
-                  <label class="radio-inline" for="option4"><input type="radio" name="rating_s1c{{forloop.counter0}}" id="option4" value="4"/>4</label>
-                  <label class="radio-inline" for="option5"><input type="radio" name="rating_s1c{{forloop.counter0}}" id="option5" value="5"/>5</label>
-                </td>
-              </tr>
-              {% endfor %}
             </table>
           </div>
         </div>
@@ -122,16 +99,17 @@
 
 
         <div class="row">
-          <div class="table-responsive col-md-9">
+          <div class="table-responsive col-md-12">
             <!--<p>Courses recommended in sector: </p>-->
             <table class="table table-hover table-bordered table-striped">
               <tr class="warning">
-                <td class="col-md-4">Course</td>
+                <td class="col-md-4">Cours</td>
                 <td class="col-md-1">Mode</td>
-                <td class="col-md-1">Level</td>
-                <td class="col-md-1">Degree</td>
-                <td class="col-md-1">Price <SMALL>(CHF)</SMALL></td>
-                <td class="col-md-1">Sector</td>
+                <td class="col-md-1">Niveau</td>
+                <td class="col-md-1">Titre décerné</td>
+                <td class="col-md-1">Prix <SMALL>(CHF)</SMALL></td>
+                <td class="col-md-1">Secteur</td>
+                <td class="col-md-3"><b>Sélectionnez votre évaluation ici</b></td>
               </tr>
                   {% for course in rec_course3 %}
                   {% if course %}
@@ -143,28 +121,16 @@
                       <td class="col-md-1"> {{ course.price }}</td>
                       <td class="col-md-1"> <strong> {{ course.sectorStr }} </strong> </td>
                       <input type="hidden" value="{{ course.id }}" name="courseId_s2c{{forloop.counter0}}">
+                      <td>
+                        <label class="radio-inline" for="option1"><input type="radio" name="rating_s2c{{forloop.counter0}}" id="option1" value="1"/>1</label>
+                        <label class="radio-inline" for="option2"><input type="radio" name="rating_s2c{{forloop.counter0}}" id="option2" value="2"/>2</label>
+                        <label class="radio-inline" for="option3"><input type="radio" name="rating_s2c{{forloop.counter0}}" id="option3" value="3"/>3</label>
+                        <label class="radio-inline" for="option4"><input type="radio" name="rating_s2c{{forloop.counter0}}" id="option4" value="4"/>4</label>
+                        <label class="radio-inline" for="option5"><input type="radio" name="rating_s2c{{forloop.counter0}}" id="option5" value="5"/>5</label>
+                      </td>
                     </tr>
                   {% endif %}
                   {% endfor %}
-            </table>
-          </div>
-
-          <div class="table-responsive col-md-3">
-            <table class="table table-hover table-bordered table-striped">
-              <tr class="danger" height="30px">
-                  <td>Select your rating here <br> </td>
-              </tr>
-              {% for i in "xxx" %}
-              <tr class="success" height="55px">
-                <td>
-                  <label class="radio-inline" for="option1"><input type="radio" name="rating_s2c{{forloop.counter0}}" id="option1" value="1"/>1</label>
-                  <label class="radio-inline" for="option2"><input type="radio" name="rating_s2c{{forloop.counter0}}" id="option2" value="2"/>2</label>
-                  <label class="radio-inline" for="option3"><input type="radio" name="rating_s2c{{forloop.counter0}}" id="option3" value="3"/>3</label>
-                  <label class="radio-inline" for="option4"><input type="radio" name="rating_s2c{{forloop.counter0}}" id="option4" value="4"/>4</label>
-                  <label class="radio-inline" for="option5"><input type="radio" name="rating_s2c{{forloop.counter0}}" id="option5" value="5"/>5</label>
-                </td>
-              </tr>
-              {% endfor %}
             </table>
           </div>
         </div>
@@ -172,16 +138,17 @@
 
 
         <div class="row">
-          <div class="table-responsive col-md-9">
+          <div class="table-responsive col-md-12">
             <!--<p>Courses recommended in sector: </p>-->
             <table class="table table-hover table-bordered table-striped">
               <tr class="warning">
-                <td class="col-md-4">Course</td>
+                <td class="col-md-4">Cours</td>
                 <td class="col-md-1">Mode</td>
-                <td class="col-md-1">Level</td>
-                <td class="col-md-1">Degree</td>
-                <td class="col-md-1">Price <SMALL>(CHF)</SMALL></td>
-                <td class="col-md-1">Sector</td>
+                <td class="col-md-1">Niveau</td>
+                <td class="col-md-1">Titre décerné</td>
+                <td class="col-md-1">Prix <SMALL>(CHF)</SMALL></td>
+                <td class="col-md-1">Secteur</td>
+                <td class="col-md-3"><b>Sélectionnez votre évaluation ici</b></td>
               </tr>
                   {% for course in rec_course4 %}
                   {% if course %}
@@ -193,28 +160,16 @@
                       <td class="col-md-1"> {{ course.price }}</td>
                       <td class="col-md-1"> <strong> {{ course.sectorStr }} </strong> </td>
                       <input type="hidden" value="{{ course.id }}" name="courseId_s3c{{forloop.counter0}}">
+                      <td>
+                        <label class="radio-inline" for="option1"><input type="radio" name="rating_s3c{{forloop.counter0}}" id="option1" value="1"/>1</label>
+                        <label class="radio-inline" for="option2"><input type="radio" name="rating_s3c{{forloop.counter0}}" id="option2" value="2"/>2</label>
+                        <label class="radio-inline" for="option3"><input type="radio" name="rating_s3c{{forloop.counter0}}" id="option3" value="3"/>3</label>
+                        <label class="radio-inline" for="option4"><input type="radio" name="rating_s3c{{forloop.counter0}}" id="option4" value="4"/>4</label>
+                        <label class="radio-inline" for="option5"><input type="radio" name="rating_s3c{{forloop.counter0}}" id="option5" value="5"/>5</label>
+                      </td>
                     </tr>
                   {% endif %}
                   {% endfor %}
-            </table>
-          </div>
-
-          <div class="table-responsive col-md-3">
-            <table class="table table-hover table-bordered table-striped">
-              <tr class="danger" height="30px">
-                  <td>Select your rating here <br> </td>
-              </tr>
-              {% for i in "xxx" %}
-              <tr class="success" height="55px">
-                <td>
-                  <label class="radio-inline" for="option1"><input type="radio" name="rating_s3c{{forloop.counter0}}" id="option1" value="1"/>1</label>
-                  <label class="radio-inline" for="option2"><input type="radio" name="rating_s3c{{forloop.counter0}}" id="option2" value="2"/>2</label>
-                  <label class="radio-inline" for="option3"><input type="radio" name="rating_s3c{{forloop.counter0}}" id="option3" value="3"/>3</label>
-                  <label class="radio-inline" for="option4"><input type="radio" name="rating_s3c{{forloop.counter0}}" id="option4" value="4"/>4</label>
-                  <label class="radio-inline" for="option5"><input type="radio" name="rating_s3c{{forloop.counter0}}" id="option5" value="5"/>5</label>
-                </td>
-              </tr>
-              {% endfor %}
             </table>
           </div>
         </div>
@@ -222,16 +177,17 @@
 
 
         <div class="row">
-          <div class="table-responsive col-md-9">
+          <div class="table-responsive col-md-12">
             <!--<p>Courses recommended in sector: </p>-->
             <table class="table table-hover table-bordered table-striped">
               <tr class="warning">
-                <td class="col-md-4">Course</td>
+                <td class="col-md-4">Cours</td>
                 <td class="col-md-1">Mode</td>
-                <td class="col-md-1">Level</td>
-                <td class="col-md-1">Degree</td>
-                <td class="col-md-1">Price <SMALL>(CHF)</SMALL></td>
-                <td class="col-md-1">Sector</td>
+                <td class="col-md-1">Niveau</td>
+                <td class="col-md-1">Titre décerné</td>
+                <td class="col-md-1">Prix <SMALL>(CHF)</SMALL></td>
+                <td class="col-md-1">Secteur</td>
+                <td class="col-md-3"><b>Sélectionnez votre évaluation ici</b></td>
               </tr>
                   {% for course in rec_course5 %}
                   {% if course %}
@@ -243,28 +199,16 @@
                       <td class="col-md-1"> {{ course.price }}</td>
                       <td class="col-md-1"> <strong> {{ course.sectorStr }} </strong> </td>
                       <input type="hidden" value="{{ course.id }}" name="courseId_s4c{{forloop.counter0}}">
+                      <td>
+                        <label class="radio-inline" for="option1"><input type="radio" name="rating_s4c{{forloop.counter0}}" id="option1" value="1"/>1</label>
+                        <label class="radio-inline" for="option2"><input type="radio" name="rating_s4c{{forloop.counter0}}" id="option2" value="2"/>2</label>
+                        <label class="radio-inline" for="option3"><input type="radio" name="rating_s4c{{forloop.counter0}}" id="option3" value="3"/>3</label>
+                        <label class="radio-inline" for="option4"><input type="radio" name="rating_s4c{{forloop.counter0}}" id="option4" value="4"/>4</label>
+                        <label class="radio-inline" for="option5"><input type="radio" name="rating_s4c{{forloop.counter0}}" id="option5" value="5"/>5</label>
+                      </td>
                     </tr>
                   {% endif %}
                   {% endfor %}
-            </table>
-          </div>
-
-          <div class="table-responsive col-md-3">
-            <table class="table table-hover table-bordered table-striped">
-              <tr class="danger" height="30px">
-                  <td>Select your rating here <br> </td>
-              </tr>
-              {% for i in "xxx" %}
-              <tr class="success" height="55px">
-                <td>
-                  <label class="radio-inline" for="option1"><input type="radio" name="rating_s4c{{forloop.counter0}}" id="option1" value="1"/>1</label>
-                  <label class="radio-inline" for="option2"><input type="radio" name="rating_s4c{{forloop.counter0}}" id="option2" value="2"/>2</label>
-                  <label class="radio-inline" for="option3"><input type="radio" name="rating_s4c{{forloop.counter0}}" id="option3" value="3"/>3</label>
-                  <label class="radio-inline" for="option4"><input type="radio" name="rating_s4c{{forloop.counter0}}" id="option4" value="4"/>4</label>
-                  <label class="radio-inline" for="option5"><input type="radio" name="rating_s4c{{forloop.counter0}}" id="option5" value="5"/>5</label>
-                </td>
-              </tr>
-              {% endfor %}
             </table>
           </div>
         </div>
