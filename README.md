@@ -1,1 +1,7 @@
-# course-recommender
+# Course-recommender using Django framework
+
+This project aims to recommend courses to users for continuing education. The dataset consists of a list of courses with a number of different features such as the price, duration of the course etc. Each course is represented as a vector with the extracted relevant features comprising the vector components. Principal Component Analysis is used to obtain a lower dimensional representation of the courses and K-means clustering is applied to discover the presence of any inherent clusters or grouping of the courses.
+
+In order to recommend courses to a user, content based recommendation is used. In this model, each user is represented as a vector in the same feature space as that of the course. The similarity between a user and the courses is then calculated using Cosine or Jaccard similarity. The courses which are most similar to user preference is then recommended to the user. The courses database does not consist of user preferences and thus a qualitative survey is conducted in order to collect the user preference and the ratings for the recommended courses. The web interface for the survey was built using the Django framework. Using the data collected through survey, recommendation models based on collaborative filtering such as Matrix factorisation model is built. The model is then evaluated using the accuracy of the predicted ratings.
+
+The project also identifies the courses in the database which corresponds to trending topics and specialisations. This is accomplished by scraping the relevant webpages to determine the trending topics, areas and then filter the courses in the database based on the trending terms.
